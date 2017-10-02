@@ -8,8 +8,8 @@ import CharacterService from './character.service';
 describe('filter: character', () => {
   const fixture = {
     mayor: {
-      "name@en": "Birgit Meyer",
-      "title@en": "The Mayor",
+      "name@en": "Tarlimarli",
+      "title@en": "Főpolgi",
       "title@fr": "Le Maire"
     },
     lawyer: {
