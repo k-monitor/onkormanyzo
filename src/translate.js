@@ -16,7 +16,8 @@ module.exports.translateConfig = function translateConfig($translateProvider, tm
       'fr_FR': 'fr',
       'fr_BE': 'fr',
       'de_DE': 'de',
-      'sl_SI': 'sl'
+      'sl_SI': 'sl',
+      'hu_HU': 'hu'
     })
     .determinePreferredLanguage()
     .fallbackLanguage('en')
