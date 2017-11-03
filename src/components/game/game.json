@@ -9,6 +9,7 @@
       "label@de": "Einnahmen",
       "label@fr": "Revenus",
       "label@sl": "Dohodki"
+      "labes@hu": "Források" 
     },
     "expenditures": {
       "value": 9,
@@ -19,6 +20,7 @@
       "label@de": "Ausgaben",
       "label@fr": "Dépenses",
       "label@sl": "Odhodki"
+      "labes@hu": "Kiadások"
     },
     "reserves": {
       "value": 50,
@@ -29,6 +31,7 @@
       "label@de": "Rücklagen",
       "label@fr": "Réserves",
       "label@sl": "Rezerve"
+      "labes@hu": "Tartalékok" 
     },
     "personal_account": {
       "value": 0,
@@ -39,6 +42,7 @@
       "label@de": "Ihr Bargeld",
       "label@fr": "Vos gains",
       "label@sl": "Vaša sredstva"
+      "labes@hu": "A te pénzed"
     },
     "risk_police": {
       "value": 0,
@@ -49,6 +53,7 @@
       "label@de": "Juristisches Risiko",
       "label@fr": "Risque légal",
       "label@sl": "Pravno tveganje"
+      "labes@hu": "Jogi kockázat"
     },
     "risk_contractors": {
       "value": 0,
@@ -59,6 +64,7 @@
       "label@de": "Misstrauen der Industrie",
       "label@fr": "Méfiance des industriels",
       "label@sl": "Nezaupanje zasebnega sektorja"
+      "labes@hu": "Ipari bizalmatlanság"
     },
     "risk_political": {
       "value": 0,
@@ -69,6 +75,7 @@
       "label@de": "Politischer Widerstand",
       "label@fr": "Risque politique",
       "label@sl": "Politično nezaupanje"
+      "labes@hu": "Politikai elutasítottság"
     },
     "risk_revolving_door": {
       "value": 0,
@@ -107,10 +114,12 @@
       "title@de": "Finanzielle Lage der Stadt",
       "title@fr": "Santé financière de la ville",
       "title@sl": "Finančno zdravje mesta",
+      "title@hu": "A város pénzügyi helyzete",
       "description@en": "City financials tell you how much money the city collects each year (resources) and spends (expenditure), while reserves tell you how much money the city has in the bank.",
       "description@de": "Diese Indikatoren zeigen wieviele Steuern die Stadt jährlich einnimmt (Einnahmen), wieviel sie ausgibt (Ausgaben) und wieviel sie auf der Bank hat (Rücklagen).",
       "description@fr": "Ces indicateurs montrent combien la ville collecte en impôts tous les ans (revenus), combien elle dépense (dépenses), et les réserves indiquent combien la ville possède en banque.",
-      "description@sl": "Mestne finance vam povedo, koliko sredstev mesto zbere na leteni ravni (prihodki), koliko porabi (odhodki) in koliko denarja je še naloženega v banki (mestne rezerve)."
+      "description@sl": "Mestne finance vam povedo, koliko sredstev mesto zbere na leteni ravni (prihodki), koliko porabi (odhodki) in koliko denarja je še naloženega v banki (mestne rezerve).",
+      "description@hu": "A város pénzügyesei elmondják, hogy mennyit pénzt szed be (források) és költ (kiadások) a város, a tartalékok pedig azt mutatják mennyi pénze van a városnak a bankban."
     }
   },
   "characters": {
@@ -119,10 +128,12 @@
       "name@de": "Marie Meyer",
       "name@fr": "Claudine Daviau",
       "name@sl": "Marjeta Pohle",
+      "name@hu": "Tarlós Ilona",
       "title@en": "The Mayor",
       "title@de": "Die Bürgermeisterin",
       "title@fr": "La maire",
       "title@sl": "Županja",
+      "title@hu": "A Polgármester" 
       "avatar": "./images/avatars/mayor.jpg"
     },
     "lawyer": {
@@ -130,10 +141,12 @@
       "name@de": "Ekin Krantz",
       "name@fr": "Nadya Mathieu",
       "name@sl": "Tanja Pravdar",
+      "name@hu": "Kiss Anna",
       "title@en": "Your lawyer",
       "title@de": "Ihre Anwältin",
       "title@fr": "Votre avocate",
       "title@sl": "Vaša odvetnica",
+      "title@hu": "Az ügyvéded",
       "avatar": "./images/avatars/lawyer.jpg"
     },
     "construction-boss": {
@@ -141,10 +154,12 @@
       "name@de": "Ferdi Meinhardt",
       "name@fr": "Cyril Guillory",
       "name@sl": "Robert Mavčar",
+      "name@hu": "Böllér Lőrinc",
       "title@en": "Boss of Robert Construction Limited",
       "title@de": "Chef von Meinhardt Hoch- u. Tiefbau GmbH",
       "title@fr": "Chef de Guillory Construction SARL",
       "title@sl": "Direktor gradbenega podjetja Mavčar Biro d.o.o.",
+      "title@hu": "A Böllér és Böllér Kft. elnöke",
       "avatar": "./images/avatars/construction-boss.jpg"
     },
     "university-boss": {
@@ -152,10 +167,12 @@
       "name@de": "Halit Beutel",
       "name@fr": "Rasul Géroux",
       "name@sl": "prof. dr. Damjan Gabrin",
+      "name@hu": "Prof. Dr. Pitypang Attila"
       "title@en": "Director of the University",
       "title@de": "Direktor der Universität",
       "title@fr": "Directeur de l'université",
       "title@sl": "Rektor Univerze",
+      "title@hu": "Az egyetemi rektor",
       "avatar": "./images/avatars/university-boss.jpg"
     },
     "football-boss": {
@@ -163,10 +180,12 @@
       "name@de": "Wendel Slusser",
       "name@fr": "Gustave Tremble",
       "name@sl": "Matjaž Kalinšek a.k.a. Kale",
+      "name@hu": "Turbán Viktor",
       "title@en": "President of the City Football Club",
       "title@de": "Präsident des städtischen Fußballvereins",
       "title@fr": "Président du club de football de la ville",
       "title@sl": "Predsednik mestnega nogometnega kluba",
+      "title@hu": "Városi focicsapat elnöke",
       "avatar": "./images/avatars/football-boss.jpg"
     },
     "helper": {
@@ -174,10 +193,12 @@
       "name@de": "Ferdinanda Salzwedel",
       "name@fr": "Andrée Lambert",
       "name@sl": "Mateja Skovir",
+      "name@hu": "Pagony Ági"
       "title@en": "Assistant",
       "title@de": "Assistentin",
       "title@fr": "Assistante",
       "title@sl": "Vaša asistentka",
+      "title@hu": "Tanácsadó",
       "avatar": "./images/avatars/helper.jpg"
     },
     "you": {
@@ -185,10 +206,12 @@
       "name@de": "Sie",
       "name@fr": "Vous",
       "name@sl": "Ti",
+      "name@hu": "Te"
       "title@en": "General manager",
       "title@de": "Geschäftsführerin",
       "title@fr": "Dir' cab",
       "title@sl": "Vodja občinske uprave",
+      "title@hu": "Gazdasági igazgató",
       "avatar": null
     }
   },
@@ -198,21 +221,24 @@
       "title@en": "The Beginning",
       "title@de": "Der Beginn",
       "title@fr": "Rideau",
-      "title@sl": "Začetek"
+      "title@sl": "Začetek",
+      "title@hu": "A kezdetek"
     },
     "1994": {
       "picture": "images/years/riga.jpeg",
       "title@en": "First Steps",
       "title@de": "Erste Schritte",
       "title@fr": "Premiers pas",
-      "title@sl": "Prvi koraki"
+      "title@sl": "Prvi koraki",
+      "title@hu": "Első lépések"
     },
     "1995": {
       "picture": "images/years/building.jpeg",
       "title@en": "Housing Stories",
       "title@de": "Wohnbaugeschichten",
       "title@fr": "Histoires d'HLM",
-      "title@sl": "Stanovanjske zgodbe"
+      "title@sl": "Stanovanjske zgodbe",
+      "title@hu": "Lakásügyek"
     },
     "1996": {
       "picture": "images/years/stadium.jpeg",
@@ -350,21 +376,24 @@
           "text@en": "Hi there, welcome to City Hall!",
           "text@de": "Hallo und herzlich willkommen im Rathaus!",
           "text@fr": "Bonjour et bienvenue à l'hôtel de ville !",
-          "text@sl": "Pozdravljeni! Dobrodošli v mestni hiši!"
+          "text@sl": "Pozdravljeni! Dobrodošli v mestni hiši!",
+          "text@hu": "Szia, üdv a Városházán!"
         },
         {
           "character": "mayor",
           "text@en": "I hear you're the new general manager here.",
           "text@de": "Sie sind die neue Geschäftsführerin hier, nicht wahr?",
           "text@fr": "Vous êtes ma nouvelle directrice de cabinet",
-          "text@sl": "Veseli me, da boste pri nas kot vodja občinske uprave."
+          "text@sl": "Veseli me, da boste pri nas kot vodja občinske uprave.",
+          "text@hu": "Hallom te vagy a gazdasági bizottság új vezetője."
         },
         {
           "character": "mayor",
           "text@en": "Some say this city has corruption issues. Don't listen to them 😒.",
           "text@de": "Es gibt Stimmen, die behaupten, die Stadt habe mit Korruption zu kämpfen. Hören Sie einfach nicht hin 😒.",
           "text@fr": "Certains disent que cette ville est corrompue. Ne les écoutez pas 😒.",
-          "text@sl": "Nekateri pravijo, da je naša občina prepredena s korupcijo. Ne poslušajte jih. 😒"
+          "text@sl": "Nekateri pravijo, da je naša občina prepredena s korupcijo. Ne poslušajte jih. 😒",
+          "text@hu": "Az a pletyka járja, hogy a város nagyon korrupt. Ne higyj ezeknek. 😒"
         },
         {
           "character": "mayor",
@@ -372,6 +401,7 @@
           "text@de": "Aber seien Sie auf der Hut!",
           "text@fr": "Mais soyez prudente.",
           "text@sl": "A vseeno bodite previdni."
+          "text@hu": "De légy óvatos."
         }
       ],
       "choices": [
@@ -380,62 +410,71 @@
           "text@de": "Los geht’s",
           "text@fr": "Commencer",
           "text@sl": "Začni",
+          "text@hu": "Menj",
           "feedback": [
             {
               "character": "you",
               "text@en": "Thank you mayor, I'll do my best.",
               "text@de": "Vielen Dank, Frau Bürgermeisterin. Ich werde mein Bestes geben.",
               "text@fr": "Merci. Je ferai de mon mieux.",
-              "text@sl": "Hvala, gospa županja. Vsi se bomo trudili po svojih najboljših močeh."
+              "text@sl": "Hvala, gospa županja. Vsi se bomo trudili po svojih najboljših močeh.",
+              "text@hu": "Köszönöm Asszonyom, igyekezni fogok."
             },
             {
               "character": "mayor",
               "text@en": "You'll do great.",
               "text@de": "Sie werden sich großartig schlagen.",
               "text@fr": "Vous serez parfaite.",
-              "text@sl": "Odlično vam bo šlo."
+              "text@sl": "Odlično vam bo šlo.",
+              "text@hu": "Nagyszerű leszel."
             },
             {
               "character": "mayor",
               "text@en": "Lia is your assistant.",
               "text@de": "Frau Salzwedel ist Ihre Assistentin.",
               "text@fr": "Madame Lambert est votre assistante.",
-              "text@sl": "Gospa Mateja Skovir je vaša asistentka."
+              "text@sl": "Gospa Mateja Skovir je vaša asistentka.",
+              "text@hu": "Ági a tanácsadód."
             },
             {
               "character": "mayor",
               "text@en": "She'll show you around.",
               "text@de": "Sie wird Ihnen alles zeigen.",
               "text@fr": "Elle connait bien la maison.",
-              "text@sl": "Peljala vas bo na kratek obhod po mestni hiši."
+              "text@sl": "Peljala vas bo na kratek obhod po mestni hiši.",
+              "text@hu": "Majd ő körbevezet"
             },
             {
               "character": "helper",
               "text@en": "Hello.",
               "text@de": "Hallo!",
               "text@fr": "Enchantée.",
-              "text@sl": "Pozdravljeni."
+              "text@sl": "Pozdravljeni.",
+              "text@hu": "Helló."
             },
             {
               "character": "helper",
               "text@en": "I'll help you get up to speed.",
               "text@de": "Ich werde Ihnen helfen sich zurecht zu finden.",
               "text@fr": "Je suis là pour vous aider.",
-              "text@sl": "Pomagala vam bo spoznati razmere pri nas."
+              "text@sl": "Pomagala vam bo spoznati razmere pri nas.",
+              "text@hu": "Gyorsan beavatlak."
             },
             {
               "character": "helper",
               "text@en": "Best advice: The mayor has powerful friends. Don't make them angry.",
               "text@de": "Ich gebe Ihnen einen Rat: Die Bürgermeisterin hat einflussreiche Freunde. Verärgern Sie sie nicht.",
               "text@fr": "Premier conseil: La maire a de puissants amis, ne vous les mettez pas à dos.",
-              "text@sl": "Najboljši nasvet - županja ima precej vplivnih prijateljev. Ne zamerite se jim."
+              "text@sl": "Najboljši nasvet - županja ima precej vplivnih prijateljev. Ne zamerite se jim.",
+              "text@hu": "Jó tanács: A polgármesternek erős barátai vannak. Ne húzz velük ujjat!"
             },
             {
               "character": "helper",
               "text@en": "Especially Mr. Gerber.",
               "text@de": "Vor allem nicht Herrn Meinhardt.",
               "text@fr": "Surtout monsieur Guillory.",
-              "text@sl": "Še zlasti ne gospodu Mavčarju."
+              "text@sl": "Še zlasti ne gospodu Mavčarju.",
+              "text@hu": "Leginkább Böllér Lőrinccel ne."
             }
           ]
         }
@@ -449,21 +488,24 @@
           "text@en": "We passed a tender to build a new road segment.",
           "text@de": "Wir haben eine Ausschreibung für den Neubau einer Straße veröffentlicht.",
           "text@fr": "Nous avons passé un appel d'offre pour une nouvelle route.",
-          "text@sl": "Objavili smo poziv k oddaji ponudb za izgradnjo novega cestnega odseka."
+          "text@sl": "Objavili smo poziv k oddaji ponudb za izgradnjo novega cestnega odseka.",
+          "text@hu": "Közbeszerzést írtunk ki egy útszakasz megépítésére."
         },
         {
           "character": "mayor",
           "text@en": "Our transport department estimates the cost of the works at 10 million.",
           "text@de": "Das Amt für Verkehr hat die Kosten auf ca. 10 Millionen geschätzt.",
           "text@fr": "Le bureau d'études estime les travaux à 10 millions.",
-          "text@sl": "Naš oddelek za promet ocenjuje, da bodo stroški znašali približno 10 milijonov."
+          "text@sl": "Naš oddelek za promet ocenjuje, da bodo stroški znašali približno 10 milijonov.",
+          "text@hu": "A közlekedési osztály 700 millióra becsüli a költségeket."
         },
         {
           "character": "mayor",
           "text@en": "We received three offers. Pick the best one.",
           "text@de": "Wir haben drei Einreichungen erhalten. Wählen Sie das beste Angebot aus.",
           "text@fr": "On a reçu trois offres. Choisissez la meilleure.",
-          "text@sl": "Prejeli smo tri ponudbe. Izberite najboljšo."
+          "text@sl": "Prejeli smo tri ponudbe. Izberite najboljšo.",
+          "text@hu": "Három ajánlatot kaptunk. Válaszd ki a legjobbat."
         }
       ],
       "helper": [
@@ -472,14 +514,16 @@
           "text@en": "This looks a lot like a cartel.",
           "text@de": "Das erweckt den Anschein eines Kartells.",
           "text@fr": "Cela ressemble à un cartel.",
-          "text@sl": "To spominja na kartelno delovanje."
+          "text@sl": "To spominja na kartelno delovanje.",
+          "text@hu": "Ez kartellezésnek tűnik."
         },
         {
           "character": "helper",
           "text@en": "I prepared a memo for you on the topic. [Click here to read it|cartel].",
           "text@de": "Ich habe Ihnen ein Dossier zu diesem Thema erstellt. [Klicken Sie hier, um es zu lesen|cartel].",
           "text@fr": "J'ai préparé un mémo sur le sujet. [Cliquez ici pour le lire|cartel].",
-          "text@sl": "Pripravila sem vam kratko predstavitev kartela. [Kliknite sem|cartel]."
+          "text@sl": "Pripravila sem vam kratko predstavitev kartela. [Kliknite sem|cartel].", 
+          "text@hu": "Írtam egy jegyzetet a témáról. [Kattints ide, hogy elolvasd|cartel]."
         }
       ],
       "choices": [
@@ -488,8 +532,9 @@
           "text@de": "Das Angebot der Meinhardt Hoch- u. Tiefbau GmbH liegt bei 12 Millionen.",
           "text@fr": "Guillory Construction SARL a fait une offre à 12 millions",
           "text@sl": "Podjetje Mavčar BIRO d.o.o. je pripravilo ponudbo v višini 12 milijonov.",
+          "text@hu": "A Böllér és Böllér Kft adott egy 840 milliós ajánlatot."
           "var_changes": {
-            "reserves": -12,
+            "reserves": -840,
             "gift_company2": 1
           },
           "feedback": [
@@ -498,7 +543,8 @@
               "text@en": "I choose the offer of Robert Construction Limited.",
               "text@de": "Ich habe mich für das Angebot der Meinhardt Hoch- u. Tiefbau GmbH entschieden.",
               "text@fr": "Je choisis l'offre de Guillory Construction SARL.",
-              "text@sl": "Izbrana je ponudba podjetja Mavčar BIRO. d.o.o."
+              "text@sl": "Izbrana je ponudba podjetja Mavčar BIRO. d.o.o.",
+              "text@hu": "A Böllér és Böllér Kft. ajánlatát választom"
             }
           ]
         },
@@ -507,8 +553,9 @@
           "text@de": "Das Angebot der Eco-Sense Construction liegt bei 12,1 Millionen.",
           "text@fr": "Eco-Sense Construction a fait une offre à 12,1 millions",
           "text@sl": "Podjetje Eco-Sense Konstrukcije je pripravilo ponudbo v višini 12,1 milijona.",
+          "text@hu": "A Helios Kft. adott egy 847 milliós ajánlatot.", 
           "var_changes": {
-            "reserves": -12.1,
+            "reserves": -847,
             "risk_contractors": 1
           },
           "feedback": [
@@ -517,28 +564,32 @@
               "text@en": "I choose the offer of Eco-Sense Construction.",
               "text@de": "Ich habe mich für das Angebot der Firma Eco-Sense Construction entschieden.",
               "text@fr": "Je choisis l'offre de Eco-Sense Construction.",
-              "text@sl": "Izbrana je ponudba podjetja Eco-Sense Konstrukcije."
+              "text@sl": "Izbrana je ponudba podjetja Eco-Sense Konstrukcije.",
+              "text@hu": "A Helios Kft. ajánlatát választom."
             },
             {
               "character": "construction-boss",
               "text@en": "You're new here, aren't you?",
               "text@de": "Du bist neu hier, nicht wahr?",
               "text@fr": "Tu es nouvelle par ici, non ?",
-              "text@sl": "Novi ste tukaj, kajne?"
+              "text@sl": "Novi ste tukaj, kajne?",
+              "text@hu": "Új vagy itt, igaz?"
             },
             {
               "character": "construction-boss",
               "text@en": "I'm the boss of Robert Construction Limited.",
               "text@de": "Ich bin der Chef der Meinhardt Hoch- u. Tiefbau GmbH.",
               "text@fr": "Je suis le chef de Guillory Construction SARL.",
-              "text@sl": "Sem direktor podjetja Mavčar BIRO."
+              "text@sl": "Sem direktor podjetja Mavčar BIRO.",
+              "text@hu": "A Böllér és Böllér Kft. igazgatója vagyok"
             },
             {
               "character": "construction-boss",
               "text@en": "Be more careful next time.",
               "text@de": "Das nächste Mal solltest du umsichtiger vorgehen.",
               "text@fr": "Sois plus prudente la prochaine fois.",
-              "text@sl": "Prihodnjič bodite bolj pazljivi."
+              "text@sl": "Prihodnjič bodite bolj pazljivi.",
+              "text@hu": "Legközelebb légy óvatosabb."
             },
             {
               "character": "construction-boss",
@@ -546,6 +597,7 @@
               "text@de": "Mich willst du nicht zum Feind haben.",
               "text@fr": "Tu ne veux pas m'avoir comme ennemi.",
               "text@sl": "Ne želite me imeti za svojega sovražnika."
+              "text@hu": "Nem akarod, hogy az ellenséged legyek."
             }
           ]
         },
@@ -554,6 +606,7 @@
           "text@de": "Das Angebot der Betonbau GmbH liegt bei 12,2 Millionen.",
           "text@fr": "Grosbéton SARL a fait une offre à 12,2 millions",
           "text@sl": "Podjetje Grosbeton d.o.o. je pripravilo ponudbo za 12,2 milijona.",
+          "text@hu": " A Piac Építő Zrt. 12.2 milliós ajánlatot tett."
           "var_changes": {
             "reserves": -12.2,
             "risk_contractors": 1
