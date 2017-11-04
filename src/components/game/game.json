@@ -617,35 +617,40 @@
               "text@en": "I choose the offer of Concrete Construction.",
               "text@de": "Ich habe mich für das Angebot der Betonbau GmbH entschieden.",
               "text@fr": "Je choisis l'offre de Grosbéton SARL.",
-              "text@sl": "Izbrana je ponudba podjetja Grosbeton d.o.o."
+              "text@sl": "Izbrana je ponudba podjetja Grosbeton d.o.o.",
+              "text@hu": "A Piac Építő ajánlatát választom."
             },
             {
               "character": "construction-boss",
               "text@en": "You're new here, aren't you?",
               "text@de": "Du bist neu hier, nicht wahr?",
               "text@fr": "Tu es nouvelle par ici, non ?",
-              "text@sl": "Novi ste tukaj, kajne?"
+              "text@sl": "Novi ste tukaj, kajne?",
+              "text@hu": "Új vagy itt, igaz?" 
             },
             {
               "character": "construction-boss",
               "text@en": "I'm the boss of Robert Construction Limited.",
               "text@de": "Ich bin der Chef von Meinhardt Hoch- u. Tiefbau GmbH.",
               "text@fr": "Je suis le chef de Guillory Construction SARL.",
-              "text@sl": "Sem direktor podjetja Mavčar BIRO."
+              "text@sl": "Sem direktor podjetja Mavčar BIRO.",
+              "text@hu": "A Böllér és Böllér Kft. igazgatója vagyok"
             },
             {
               "character": "construction-boss",
               "text@en": "Be more careful next time.",
               "text@de": "Das nächste Mal solltest du umsichtiger vorgehen.",
               "text@fr": "Sois plus prudente la prochaine fois.",
-              "text@sl": "Prihodnjič bodite bolj pazljivi."
+              "text@sl": "Prihodnjič bodite bolj pazljivi.",
+              "text@hu": "Legközelebb légy óvatosabb." 
             },
             {
               "character": "construction-boss",
               "text@en": "You don't want to make an enemy out of me.",
               "text@de": "Mich willst du nicht zum Feind haben.",
               "text@fr": "Tu ne veux pas m'avoir comme ennemi.",
-              "text@sl": "Ne želite me imeti za svojega sovražnika."
+              "text@sl": "Ne želite me imeti za svojega sovražnika.",
+              "text@hu": "Nem akarod, hogy az ellenséged legyek." 
             }
           ]
         }
@@ -663,28 +668,32 @@
           "text@en": "Hey!",
           "text@de": "Guten Morgen!",
           "text@fr": "Salut !",
-          "text@sl": "Pozdravljeni!"
+          "text@sl": "Pozdravljeni!",
+          "text@hu": "Szia uram!"
         },
         {
           "character": "construction-boss",
           "text@en": "I'm the boss of Robert Construction Limited.",
           "text@de": "Ich bin der Chef der Meinhardt Hoch- u. Tiefbau GmbH.",
           "text@fr": "Je suis le chef de Guillory Construction SARL.",
-          "text@sl": "Sem direktor podjetja Mavčar BIRO."
+          "text@sl": "Sem direktor podjetja Mavčar BIRO.",
+          "text@hu": "A Böllér és Böllér Kft. igazgatója vagyok"
         },
         {
           "character": "construction-boss",
           "text@en": "That's some sound decision-making here.",
           "text@de": "Du hast eine gute Wahl getroffen.",
           "text@fr": "Tu prends de bonnes décisions, c'est bien.",
-          "text@sl": "Odločate se izjemno modro."
+          "text@sl": "Odločate se izjemno modro.",
+          "text@hu": "Ez igazán kiváló döntés volt."
         },
         {
           "character": "construction-boss",
           "text@en": "By the way, do you want this new BMW? I bought it last month but don't really need it.",
           "text@de": "Ach ja: hast du Interesse an einem nagelneuen BMW? Ich habe ihn mir erst vergangenen Monat gekauft, brauche ihn aber eigentlich nicht.",
           "text@fr": "D'ailleurs, tu veux cette BMW ? Je l'ai acheté le mois passé mais je ne m'en sers pas.",
-          "text@sl": "Mimogrede, bi si želeli nov BMW? Prejšnji mesec sem kupil enega, a ga v resnici ne potrebujem."
+          "text@sl": "Mimogrede, bi si želeli nov BMW? Prejšnji mesec sem kupil enega, a ga v resnici ne potrebujem.",
+          "text@hu": "Amúgy, nem kéred ezt az új BMW-t? Egy hónapja vettem, de nekem nem kell."
         }
       ],
       "helper": [
@@ -693,7 +702,8 @@
           "text@en": "When offered a gift, [follow these guidelines|gifts].",
           "text@de": "Wenn Ihnen ein Geschenk angeboten wird, [folgen Sie diesen Regeln|gifts].",
           "text@fr": "Quand on vous offre des cadeaux, [suivez ce guide|gifts].",
-          "text@sl": "Ko vam ponudijo darilo, se držite [teh smernic|gifts]."
+          "text@sl": "Ko vam ponudijo darilo, se držite [teh smernic|gifts].",
+          "text@hu": "Ha ajándékot ajánlanak fel [kövesd ezeket az iránymutatásokat|gifts]."
         }
       ],
       "choices": [
@@ -702,8 +712,9 @@
           "text@de": "Sehr gerne.",
           "text@fr": "Avec plaisir.",
           "text@sl": "Z veseljem.",
+          "text@hu": "Persze",
           "var_changes": {
-            "personal_account": 15000,
+            "personal_account": 1050000,
             "risk_police": 1
           },
           "feedback": [
@@ -712,7 +723,8 @@
               "text@en": "Sure, I've always wanted to drive a BMW.",
               "text@de": "Den nehme ich gern. Ich wollte schon immer einen BMW fahren.",
               "text@fr": "Avec plaisir, j'ai toujours rêvé de rouler en BMW.",
-              "text@sl": "Z veseljem, BMW je bil že od nekdaj moja velika želja."
+              "text@sl": "Z veseljem, BMW je bil že od nekdaj moja velika želja.",
+              "text@hu": "Örömmel, mindig is szerettem volna egy BMW-t."
             },
             {
               "character": "construction-boss",
@@ -720,20 +732,23 @@
               "text@de": "Bitte schön! Hier sind die Schlüssel.",
               "text@fr": "Voilà les clés !",
               "text@sl": "Izvolite ključe."
+              "text@hu": "Parancsolj!"
             },
             {
               "character": "construction-boss",
               "text@en": "I think we'll get along well.",
               "text@de": "Ich glaube wir beide werden gut miteinander auskommen.",
               "text@fr": "Je sens qu'on va bien s'entendre, toi et moi.",
-              "text@sl": "Mislim, da se bova dobro razumela."
+              "text@sl": "Mislim, da se bova dobro razumela.",
+              "text@hu": "Szerintem jóban leszünk."
             },
             {
               "character": "lawyer",
               "text@en": "Be careful with this expensive car.",
               "text@de": "Passen Sie auf mit diesem Wagen!",
               "text@fr": "Faites attention avec cette voiture.",
-              "text@sl": "Bodite previdni s tem dragim avtomobilom."
+              "text@sl": "Bodite previdni s tem dragim avtomobilom.",
+              "text@hu": "Óvatosan ezzel a drága autóval."
             },
             {
               "character": "lawyer",
@@ -741,6 +756,7 @@
               "text@de": "Die Leute werden sich fragen wie Sie sich so ein teures Auto leisten können.",
               "text@fr": "Des gens pourraient se demander d'où elle vient.",
               "text@sl": "Lahko vas vprašajo, kje ste ga dobili."
+              "text@hu": "Az emberek kérdezősködhetnek, hogy honnan van."
             }
           ]
         },
@@ -749,6 +765,7 @@
           "text@de": "Nein, danke",
           "text@fr": "Non, merci.",
           "text@sl": "Ne, hvala.",
+          "text@hu": "Nem, köszönöm."
           "var_changes": {
             "risk_contractors": 1
           },
@@ -758,21 +775,24 @@
               "text@en": "No, thank you.",
               "text@de": "Nein danke.",
               "text@fr": "Non, merci.",
-              "text@sl": "Ne, hvala."
+              "text@sl": "Ne, hvala.",
+              "text@hu": "Nem, köszönöm."
             },
             {
               "character": "construction-boss",
               "text@en": "Be careful, kid.",
               "text@de": "Ich wäre vorsichtig.",
               "text@fr": "Fais gaffe.",
-              "text@sl": "Nikar tako prenagljeno."
+              "text@sl": "Nikar tako prenagljeno.",
+              "text@hu": "Óvatosan, kölyök"
             },
             {
               "character": "construction-boss",
               "text@en": "You don't want to make an enemy out of me.",
               "text@de": "Mich willst du nicht zum Feind haben.",
               "text@fr": "Tu ne veux pas m'avoir comme ennemi.",
-              "text@sl": "Nočete me imeti za sovražnika."
+              "text@sl": "Nočete me imeti za sovražnika.",
+              "text@hu": "Nem akarod, hogy az ellenséged legyek."
             }
           ]
         }
@@ -786,21 +806,24 @@
           "text@en": "So many people come to me because they want an apartment in social housing.",
           "text@de": "Zu mir kommen einfach zu viele Leute, die eine Wohnung aus dem sozialen Wohnbauprogramm haben wollen.",
           "text@fr": "Beaucoup trop de gens viennent me voir pour une place en HLM.",
-          "text@sl": "Toliko ljudi me obišče, ker si želijo bivati v neprofitnem stanovanju."
+          "text@sl": "Toliko ljudi me obišče, ker si želijo bivati v neprofitnem stanovanju.",
+          "text@hu": "Rengetegen keresnek meg azzal, hogy szeretnének szociális bérlakáshoz jutni."
         },
         {
           "character": "mayor",
           "text@en": "I can't take it anymore!",
           "text@de": "Ich halt’s nicht mehr aus!",
           "text@fr": "Je n'en peux plus !",
-          "text@sl": "Ne zdržim več!"
+          "text@sl": "Ne zdržim več!",
+          "text@hu": "Már nem bírom tovább!"
         },
         {
           "character": "mayor",
           "text@en": "Can you find a solution for them?",
           "text@de": "Können Sie eine Lösung für sie finden?",
           "text@fr": "Vous pouvez me trouver une solution ?",
-          "text@sl": "Lahko najdete rešitev?"
+          "text@sl": "Lahko najdete rešitev?",
+          "text@hu": "Tudnál találni valami megoldást?"
         }
       ],
       "helper": [
@@ -809,14 +832,16 @@
           "text@en": "Bribes are prohibited.",
           "text@de": "Bestechung ist verboten.",
           "text@fr": "Les pots-de-vins sont interdits.",
-          "text@sl": "Podkupnine so prepovedane."
+          "text@sl": "Podkupnine so prepovedane.",
+          "text@hu": "A vesztegetés tilos."
         },
         {
           "character": "helper",
           "text@en": "I wrote you a memo nevertheless. [Click here to read it|bribes].",
           "text@de": "Ich haben Ihnen trotzdem mal ein Dossier zusammengestellt. [Klicken Sie hier, um es zu lesen|bribes].",
           "text@fr": "Mais je vous ai quand même préparé [un mémo sur le sujet|bribes].",
-          "text@sl": "Vseeno sem vam pripravila kratko predstavitev. [Za branje kliknite sem|bribes]."
+          "text@sl": "Vseeno sem vam pripravila kratko predstavitev. [Za branje kliknite sem|bribes].",
+          "text@hu": "Azért írtam egy jegyzetet. [Kattints ide, hogy elolvasd|bribes]."
         }
       ],
       "choices": [
@@ -825,8 +850,9 @@
           "text@de": "Bieten Sie Ihnen an für 5.000 in Bar die Anfrage schneller zu bearbeiten.",
           "text@fr": "Proposer d'accélerer les demandes en échange de 5 000 en liquide",
           "text@sl": "Ponudite pospešitev postopka v zameno za 5.000 v kuverti.",
+          "text@hu": "Felajánlani, hogy felgyorsítod az ügyüket 3.5 millióért.",
           "var_changes": {
-            "personal_account": 5000,
+            "personal_account": 3500000,
             "risk_police": 2
           },
           "feedback": [
@@ -836,6 +862,7 @@
               "text@de": "Ich werde mich darum kümmern.",
               "text@fr": "Je m'en charge.",
               "text@sl": "Vse bo urejeno."
+              "text@hu": "Elintézem."
             },
             {
               "character": "lawyer",
@@ -843,13 +870,16 @@
               "text@de": "Seien Sie vorsichtig, wenn Ihnen Bargeld angeboten wird!",
               "text@fr": "Faites attention à l'argent liquide.",
               "text@sl": "Bodite pozorni pri prejemanju gotovine."
+              "text@hu": "Okosan a készpénzzel."
             },
             {
               "character": "lawyer",
               "text@en": "If someone sees you taking the money, I won't be able to do much for you.",
               "text@de": "Sollte Sie jemand dabei beobachten wie Sie Geld annehmen, werde ich nicht viel für Sie tun können.",
               "text@fr": "Si quelqu'un vous voit en train de le prendre, je ne pourrai rien faire pour vous.",
-              "text@sl": "Če vas kdo vidi ob prejemu, vam ne bom mogla pomagati."
+              "text@sl": "Če vas kdo vidi ob prejemu, vam ne bom mogla pomagati.",
+              "text@hu": "Ha valaki látta, ahogy átvetted a pénzt, nem tudok semmit tenni érted."
+              
             }
           ]
         },
@@ -858,6 +888,7 @@
           "text@de": "Stocken Sie das soziale Wohnungsbauprogramm finanziell auf.",
           "text@fr": "Augmenter le financement du programme de construction de nouveaux HLM.",
           "text@sl": "Povečajte proračun za program neprofitnih stanovanj.",
+          "text@hu": "Növeljük a szociális bérlakások számát!"
           "var_changes": {
             "expenditures": 4
           },
@@ -867,7 +898,8 @@
               "text@en": "We'll increase spending on social housing.",
               "text@de": "Wir werden die Finanzierung für das soziale Wohnungsbauprogramm erhöhen.",
               "text@fr": "Nous allons augmenter les investissements sur le parc HLM.",
-              "text@sl": "Povečali bomo obseg sredstev za neprofitna stanovanja."
+              "text@sl": "Povečali bomo obseg sredstev za neprofitna stanovanja.",
+              "text@hu": "Többet fogunk költeni a szociális bérlakásokra."
             },
             {
               "character": "mayor",
@@ -875,13 +907,15 @@
               "text@de": "Und wie bitteschön sollen wir für dieses Programm bezahlen?",
               "text@fr": "Et comment allons-nous le financer ?",
               "text@sl": "In kje točno bomo dobili denar za to."
+              "text@hu": "És pontosan hogyan is fogunk fizetni ezért a programért?"
             },
             {
               "character": "mayor",
               "text@en": "If you continue like this, we won't have any money left to pay for my receptions.",
               "text@de": "Wenn Sie so weitermachen, werden wir bald kein Geld mehr für meine Empfänge übrig haben.",
               "text@fr": "Si vous continuez sur cette voie, il ne restera bientôt plus rien pour payer mes réceptions.",
-              "text@sl": "Če boste tako nadaljevali, ne bo ostalo nič sredstev za moje sprejeme."
+              "text@sl": "Če boste tako nadaljevali, ne bo ostalo nič sredstev za moje sprejeme.",
+              "text@hu": "Ha így folytatod nem lesz több pénz a fogadásaimra."
             }
           ]
         },
@@ -890,6 +924,7 @@
           "text@de": "Beachten Sie sie einfach nicht",
           "text@fr": "Ne rien faire.",
           "text@sl": "Ignoriraj želje občanov",
+          "text@hu": "Ignoráld őket",
           "var_changes": {
             "risk_political": 1
           },
@@ -899,7 +934,8 @@
               "text@en": "I'm sorry but there's nothing I can do.",
               "text@de": "Es tut mir leid, aber ich kann nichts machen.",
               "text@fr": "Je m'en excuse, mais je ne peux rien faire.",
-              "text@sl": "Žal mi je, a ničesar ne morem storiti."
+              "text@sl": "Žal mi je, a ničesar ne morem storiti.",
+              "text@hu": "Sajnálom, nem tudok mit csinálni."
             },
             {
               "character": "mayor",
