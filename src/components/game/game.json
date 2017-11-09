@@ -9,7 +9,7 @@
       "label@de": "Einnahmen",
       "label@fr": "Revenus",
       "label@sl": "Dohodki",
-      "labes@hu": "Források" 
+      "label@hu": "Források" 
     },
     "expenditures": {
       "value": 9,
@@ -20,7 +20,7 @@
       "label@de": "Ausgaben",
       "label@fr": "Dépenses",
       "label@sl": "Odhodki",
-      "labes@hu": "Kiadások"
+      "label@hu": "Kiadások"
     },
     "reserves": {
       "value": 50,
@@ -31,7 +31,7 @@
       "label@de": "Rücklagen",
       "label@fr": "Réserves",
       "label@sl": "Rezerve",
-      "labes@hu": "Tartalékok" 
+      "label@hu": "Tartalékok" 
     },
     "personal_account": {
       "value": 0,
@@ -42,7 +42,7 @@
       "label@de": "Ihr Bargeld",
       "label@fr": "Vos gains",
       "label@sl": "Vaša sredstva",
-      "labes@hu": "A te pénzed"
+      "label@hu": "A te pénzed"
     },
     "risk_police": {
       "value": 0,
@@ -53,7 +53,7 @@
       "label@de": "Juristisches Risiko",
       "label@fr": "Risque légal",
       "label@sl": "Pravno tveganje",
-      "labes@hu": "Jogi kockázat"
+      "label@hu": "Jogi kockázat"
     },
     "risk_contractors": {
       "value": 0,
@@ -64,7 +64,7 @@
       "label@de": "Misstrauen der Industrie",
       "label@fr": "Méfiance des industriels",
       "label@sl": "Nezaupanje zasebnega sektorja",
-      "labes@hu": "Ipari bizalmatlanság"
+      "label@hu": "Ipari bizalmatlanság"
     },
     "risk_political": {
       "value": 0,
@@ -75,7 +75,7 @@
       "label@de": "Politischer Widerstand",
       "label@fr": "Risque politique",
       "label@sl": "Politično nezaupanje",
-      "labes@hu": "Politikai elutasítottság"
+      "label@hu": "Politikai elutasítottság"
     },
     "risk_revolving_door": {
       "value": 0,
