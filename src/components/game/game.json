@@ -8,7 +8,7 @@
       "label@en": "Resources",
       "label@de": "Einnahmen",
       "label@fr": "Revenus",
-      "label@sl": "Dohodki"
+      "label@sl": "Dohodki",
       "labes@hu": "Források" 
     },
     "expenditures": {
@@ -19,7 +19,7 @@
       "label@en": "Expenditures",
       "label@de": "Ausgaben",
       "label@fr": "Dépenses",
-      "label@sl": "Odhodki"
+      "label@sl": "Odhodki",
       "labes@hu": "Kiadások"
     },
     "reserves": {
@@ -30,7 +30,7 @@
       "label@en": "Reserves",
       "label@de": "Rücklagen",
       "label@fr": "Réserves",
-      "label@sl": "Rezerve"
+      "label@sl": "Rezerve",
       "labes@hu": "Tartalékok" 
     },
     "personal_account": {
@@ -41,7 +41,7 @@
       "label@en": "Your cash",
       "label@de": "Ihr Bargeld",
       "label@fr": "Vos gains",
-      "label@sl": "Vaša sredstva"
+      "label@sl": "Vaša sredstva",
       "labes@hu": "A te pénzed"
     },
     "risk_police": {
@@ -52,7 +52,7 @@
       "label@en": "Legal risk",
       "label@de": "Juristisches Risiko",
       "label@fr": "Risque légal",
-      "label@sl": "Pravno tveganje"
+      "label@sl": "Pravno tveganje",
       "labes@hu": "Jogi kockázat"
     },
     "risk_contractors": {
@@ -63,7 +63,7 @@
       "label@en": "Industry mistrust",
       "label@de": "Misstrauen der Industrie",
       "label@fr": "Méfiance des industriels",
-      "label@sl": "Nezaupanje zasebnega sektorja"
+      "label@sl": "Nezaupanje zasebnega sektorja",
       "labes@hu": "Ipari bizalmatlanság"
     },
     "risk_political": {
@@ -74,7 +74,7 @@
       "label@en": "Political rejection",
       "label@de": "Politischer Widerstand",
       "label@fr": "Risque politique",
-      "label@sl": "Politično nezaupanje"
+      "label@sl": "Politično nezaupanje",
       "labes@hu": "Politikai elutasítottság"
     },
     "risk_revolving_door": {
@@ -466,7 +466,7 @@
               "text@de": "Ich gebe Ihnen einen Rat: Die Bürgermeisterin hat einflussreiche Freunde. Verärgern Sie sie nicht.",
               "text@fr": "Premier conseil: La maire a de puissants amis, ne vous les mettez pas à dos.",
               "text@sl": "Najboljši nasvet - županja ima precej vplivnih prijateljev. Ne zamerite se jim.",
-              "text@hu": "Jó tanács: A polgármesternek erős barátai vannak. Ne húzz velük ujjat!"
+              "text@hu": "Jó tanács: A polgármesternek veszélyes barátai vannak. Ne húzz velük ujjat!"
             },
             {
               "character": "helper",
@@ -596,7 +596,7 @@
               "text@en": "You don't want to make an enemy out of me.",
               "text@de": "Mich willst du nicht zum Feind haben.",
               "text@fr": "Tu ne veux pas m'avoir comme ennemi.",
-              "text@sl": "Ne želite me imeti za svojega sovražnika."
+              "text@sl": "Ne želite me imeti za svojega sovražnika.",
               "text@hu": "Nem akarod, hogy az ellenséged legyek."
             }
           ]
@@ -606,9 +606,9 @@
           "text@de": "Das Angebot der Betonbau GmbH liegt bei 12,2 Millionen.",
           "text@fr": "Grosbéton SARL a fait une offre à 12,2 millions",
           "text@sl": "Podjetje Grosbeton d.o.o. je pripravilo ponudbo za 12,2 milijona.",
-          "text@hu": " A Piac Építő Zrt. 12.2 milliós ajánlatot tett."
+          "text@hu": " A Piac Építő Zrt. 854 milliós ajánlatot tett.",
           "var_changes": {
-            "reserves": -12.2,
+            "reserves": -854,
             "risk_contractors": 1
           },
           "feedback": [
