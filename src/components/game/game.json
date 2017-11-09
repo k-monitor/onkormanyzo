@@ -133,7 +133,7 @@
       "title@de": "Die Bürgermeisterin",
       "title@fr": "La maire",
       "title@sl": "Županja",
-      "title@hu": "A Polgármester" 
+      "title@hu": "A Polgármester", 
       "avatar": "./images/avatars/mayor.jpg"
     },
     "lawyer": {
@@ -193,7 +193,7 @@
       "name@de": "Ferdinanda Salzwedel",
       "name@fr": "Andrée Lambert",
       "name@sl": "Mateja Skovir",
-      "name@hu": "Pagony Ági"
+      "name@hu": "Pagony Ági",
       "title@en": "Assistant",
       "title@de": "Assistentin",
       "title@fr": "Assistante",
@@ -442,7 +442,7 @@
               "text@de": "Sie wird Ihnen alles zeigen.",
               "text@fr": "Elle connait bien la maison.",
               "text@sl": "Peljala vas bo na kratek obhod po mestni hiši.",
-              "text@hu": "Majd ő körbevezet"
+              "text@hu": "Majd ő körbevezet."
             },
             {
               "character": "helper",
@@ -765,7 +765,7 @@
           "text@de": "Nein, danke",
           "text@fr": "Non, merci.",
           "text@sl": "Ne, hvala.",
-          "text@hu": "Nem, köszönöm."
+          "text@hu": "Nem, köszönöm.",
           "var_changes": {
             "risk_contractors": 1
           },
@@ -888,7 +888,7 @@
           "text@de": "Stocken Sie das soziale Wohnungsbauprogramm finanziell auf.",
           "text@fr": "Augmenter le financement du programme de construction de nouveaux HLM.",
           "text@sl": "Povečajte proračun za program neprofitnih stanovanj.",
-          "text@hu": "Növeljük a szociális bérlakások számát!"
+          "text@hu": "Növeljük a szociális bérlakások számát!",
           "var_changes": {
             "expenditures": 4
           },
@@ -906,7 +906,7 @@
               "text@en": "And how exactly are we supposed to pay for this program?",
               "text@de": "Und wie bitteschön sollen wir für dieses Programm bezahlen?",
               "text@fr": "Et comment allons-nous le financer ?",
-              "text@sl": "In kje točno bomo dobili denar za to."
+              "text@sl": "In kje točno bomo dobili denar za to.",
               "text@hu": "És pontosan hogyan is fogunk fizetni ezért a programért?"
             },
             {
@@ -924,7 +924,7 @@
           "text@de": "Beachten Sie sie einfach nicht",
           "text@fr": "Ne rien faire.",
           "text@sl": "Ignoriraj želje občanov",
-          "text@hu": "Ignoráld őket",
+          "text@hu": "Ignorálom őket",
           "var_changes": {
             "risk_political": 1
           },
@@ -1017,7 +1017,7 @@
           "text@de": "Für 10 Millionen verkaufen.",
           "text@fr": "Vendre pour 10 millions",
           "text@sl": "Prodaj za 10 milijonov.",
-          "text@hu": "Eladni 700 millióért"
+          "text@hu": "Eladom 700 millióért",
           "var_changes": {
             "risk_political": 1,
             "reserves": 700
@@ -1121,7 +1121,7 @@
           "text@en": "Here's my [memo on cartels|cartel], just in case.",
           "text@de": "Mein [Dossier zum Thema Kartelle|cartel] ist noch immer verfügbar.",
           "text@fr": "Mon [mémo sur les cartels|cartel] est toujours disponible.",
-          "text@sl": "Moja [predstavitev o kartelih|cartel] vam je še vedno na voljo."
+          "text@sl": "Moja [predstavitev o kartelih|cartel] vam je še vedno na voljo.",
           "text@hu": "Itt a [jegyzetem a kartellekről|cartel], ha kellene."
         }
       ],
@@ -1131,7 +1131,7 @@
           "text@de": "Das Angebot der Betonbau GmbH liegt bei 7 Millionen.",
           "text@fr": "Grosbéton SARL a fait une offre à 7 millions",
           "text@sl": "Grosbeton d.o.o. je oddal ponudbo za 7 milijonov.",
-          "text@hu": "A Piac Építő tett egy 490 milliós ajánlatot"
+          "text@hu": "A Piac Építő Zrt. tett egy 490 milliós ajánlatot",
           "var_changes": {
             "reserves": -490,
             "personal_account": 1000
@@ -1143,7 +1143,7 @@
               "text@de": "Ich habe mich für das Angebot der Betonbau GmbH entschieden.",
               "text@fr": "Je choisis l'offre de Grosbéton SARL.",
               "text@sl": "Izbranja je ponudba podjetja Grosbeton d.o.o.",
-              "text@hu": "A Piac Építő ajánlatát választom."
+              "text@hu": "A Piac Építő Zrt. ajánlatát választom."
             },
             {
               "character": "construction-boss",
@@ -1159,7 +1159,7 @@
               "text@de": "Du wirst den Umschlag wie immer auf deinem Schreibtisch finden.",
               "text@fr": "Vous trouverez une enveloppe sur votre bureau, comme d'habitude.",
               "text@sl": "Tvoj delež boste prejeli v vaši pisarni - kot običajno.",
-              "text@hu": "A részedet berakom az irodádba, ahogy szoktuk."
+              "text@hu": "A részedet bedobom az irodádba, ahogy szoktuk."
             }
           ]
         },
@@ -1220,7 +1220,7 @@
               "text@de": "Sie haben sich nicht für die Firma entschieden, die hätte gewinnen sollen. Damit haben Sie die Meinhardt GmbH in Schwierigkeiten gebracht.",
               "text@fr": "En ne choisissant pas la société qui aurait dû gagner, vous embarrassez Guillory.",
               "text@sl": "Gospoda Mavčarja ste spravili v zadrego, saj niste izbrali podjetja, ki bi moralo zmagati.",
-              "text@hu": "Az által, hogy nem azt a céget választottad, amelyiknek nyernie kellett volna megaláztad Böllért."
+              "text@hu": "Az által, hogy nem azt a céget választottad, amelyiknek nyernie kellett volna kellemetlen helyzetbe hoztad Böllért."
             }
           ]
         },
@@ -1280,7 +1280,7 @@
           "text@de": "Sie wollen Ihre eigene Firma gründen?",
           "text@fr": "Vous voulez créer votre propre société, c'est ça ?",
           "text@sl": "Če prav razumem, bi radi ustanovili svoje podjetje.",
-          "text@hu": "Szóval saját céget szeretnél alapítani?"
+          "text@hu": "Szóval, saját céget szeretnél alapítani?"
         }
       ],
       "helper": [
@@ -1382,7 +1382,7 @@
           "text@de": "Sie persönlich",
           "text@fr": "Vous personnement",
           "text@sl": "Vi osebno",
-          "text@hu": "Személyesen te"
+          "text@hu": "Személyesen te",
           "var_changes": {
             "risk_police": 2
           },
@@ -1410,7 +1410,7 @@
           "text@de": "Ihr Partner",
           "text@sl": "Vaš partner",
           "text@fr": "Votre époux ou partenaire",
-          "text@hu": "A házastársad vagy a párod"
+          "text@hu": "A házastársad vagy a párod",
           "var_changes": {
             "risk_police": 1
           },
@@ -1438,7 +1438,7 @@
           "text@de": "Eine Strohfirma in einer Steueroase",
           "text@fr": "Une société-écran",
           "text@sl": "Slamnato podjetje v davčni oazi",
-          "text@hu": "Egy offshore cég egy adóparadicsomban"
+          "text@hu": "Egy offshore cég egy adóparadicsomban",
           "var_changes": {
             "shell_company": 1
           },
@@ -1564,7 +1564,7 @@
           "text@de": "Das Angebot der Betonbau GmbH liegt bei 3,6 Millionen.",
           "text@fr": "Grosbéton SARL a fait une offre à 3,6 millions",
           "text@sl": "Podjetje Grosbeton d.o.o. je oddalo ponudbo za 3,6 milijona.",
-          "text@hu": "A Piac Építő 252 milliós ajánlatot tett."
+          "text@hu": "A Piac Építő Zrt. 252 milliós ajánlatot tett.",
           "var_changes": {
             "reserves": -252,
             "risk_contractors": 1
@@ -1576,7 +1576,7 @@
               "text@de": "Ich habe mich für das Angebot der Betonbau GmbH entschieden.",
               "text@fr": "Je choisis Grosbéton SARL.",
               "text@sl": "Izbrana je ponudba podjetja Grosbeton d.o.o.",
-              "text@hu": "A Piac Építő ajánlatát választom."
+              "text@hu": "A Piac Építő Zrt. ajánlatát választom."
         },
             {
               "character": "construction-boss",
@@ -1720,7 +1720,7 @@
           "text@de": "Das Angebot der Betonbau GmbH liegt bei 3,6 Millionen.",
           "text@fr": "Grosbéton SARL a fait une offre à 3,6 millions",
           "text@sl": "Podjetje Grosbeton d.o.o. je oddalo ponudbo za 3,6 milijona.",
-          "text@hu": "A Piac Építő adott egy 252 milliós ajánlatot.",
+          "text@hu": "A Piac Építő Zrt. adott egy 252 milliós ajánlatot.",
           "var_changes": {
             "reserves": -252,
             "risk_contractors": 1
@@ -1732,7 +1732,7 @@
               "text@de": "Ich habe mich für das Angebot der Betonbau GmbH entschieden.",
               "text@fr": "Je choisis Grosbéton SARL.",
               "text@sl": "Izbrana je ponudba podjetja Grosbeton d.o.o.",
-              "text@hu": "A Piac Építő ajánlatát választom."
+              "text@hu": "A Piac Építő Zrt. ajánlatát választom."
             },
             {
               "character": "construction-boss",
@@ -1757,7 +1757,7 @@
           "text@de": "Das Angebot der Eco-Sense Construction liegt bei 3,7 Millionen",
           "text@fr": "Eco-Sense Construction a fait une offre à 3,7 millions",
           "text@sl": "Podjetje Eco-Sence Konstrukcije je oddalo ponudbo za 3,7 milijona.",
-          "text@hu": "A Helios Kft. adott egy 259 milliós ajánlatot."
+          "text@hu": "A Helios Kft. adott egy 259 milliós ajánlatot.",
           "var_changes": {
             "reserves": -259,
             "risk_contractors": 1
@@ -1863,7 +1863,7 @@
               "text@de": "Wenn der Rechnungsprüfer das entdeckt sind Sie gefeuert!",
               "text@fr": "Quand le comptable lira le relevé de carte bleue, vous serez mise à la porte !",
               "text@sl": "Takoj, ko bo kakšen nadzornik videl izpiske kreditne kartice, boste odpuščeni.",
-              "text@hu": "Amint az ellenőrök látják a számlakivonatot, ki vagy rúgva!!"
+              "text@hu": "Amint az ellenőrök látják a számlakivonatot, ki leszel rúgva!!"
             }
           ]
         },
@@ -1891,7 +1891,7 @@
               "text@de": "Sie haben Recht. Man sollte vorsichtig sein mit diesen kleinen Plastikkarten.",
               "text@fr": "Vous avez raison, faites attention avec ce bout de plastique.",
               "text@sl": "Imate prav. Bolje je biti previden s temi plastičnimi igračami.",
-              "text@hu": "Igazad van, óvatosnak kell lennem ezzel a darab műanyaggal."
+              "text@hu": "Igazad van, jobb óvatosnak lenni ezzel a darab műanyaggal."
             },
             {
               "character": "mayor",
@@ -1914,7 +1914,7 @@
           "text@de": "Bald geht der Wahlkampf wieder los.",
           "text@fr": "Les élections municipales arrivent.",
           "text@sl": "Volitve prihajajo.",
-          "text@hu": "Közelednek a választások"
+          "text@hu": "Közelednek a választások."
         },
         {
           "character": "mayor",
@@ -1922,7 +1922,7 @@
           "text@de": "Ich möchte, dass mit Mitteln der Gemeinde in den Zeitungen für mich geworben wird.",
           "text@fr": "J'aimerais que vous me fassiez de la publicité dans le journal local en utilisant les fonds de la mairie.",
           "text@sl": "Želim, da v lokalnem časopisu z mestnimi sredstvi plačate nekaj oglasov o uspešnosti mojega dosedanjega dela.",
-          "text@hu": "Szeretném ha futtatnál néhány hirdetést a kiváló munkámról az újságokban, a város pénzén"
+          "text@hu": "Szeretném ha futtatnál néhány hirdetést a kiváló munkámról az újságokban, a város pénzén."
         }
       ],
       "helper": [
@@ -1941,7 +1941,7 @@
           "text@de": "Auf keinen Fall. Das wäre unethisch.",
           "text@fr": "Pas question, ce n'est pas éthique.",
           "text@sl": "Ne pride v poštev, to ni etično.",
-          "text@hu": "Dehogyis, ez nem etikus",
+          "text@hu": "Dehogyis, ez nem etikus!",
           "var_changes": {
             "risk_political": 3
           },
@@ -1976,7 +1976,7 @@
               "text@de": "Sobald ich wiedergewählt bin, fliegen Sie raus!",
               "text@fr": "Quand je serai réélue, vous serez dehors.",
               "text@sl": "Po moji ponovni izvolitvi se lahko poslovite od službe.",
-              "text@hu": "Ha újraválasztanak neked véged."
+              "text@hu": "Ha újraválasztanak, neked véged."
             }
           ]
         },
@@ -2035,7 +2035,7 @@
           "text@de": "Wir brauchen 12 Millionen",
           "text@fr": "On a besoin de 12 millions.",
           "text@sl": "Potrebujemo 12 milijonov.",
-          "text@hu": "Kell 840 millió.
+          "text@hu": "Kell 840 millió."
         },
         {
           "character": "football-boss",
@@ -2250,7 +2250,7 @@
           "text@sl": "Sprejmite",
           "text@hu": "Elfogadom",
           "var_changes": {
-            "personal_account": 3500000,
+            "personal_account": 35000000,
             "risk_police": 2
           },
           "feedback": [
@@ -2296,7 +2296,7 @@
               "text@de": "Nein, das ist mir zu riskant",
               "text@fr": "Non, ça me parait trop risqué.",
               "text@sl": "To pa res ne, zdi se mi preveč riskantno.",
-              "text@hu": "Nem, túl kockázatosnak tűnik nekem."
+              "text@hu": "Nem, nekem ez túl kockázatosnak tűnik."
             },
             {
               "character": "construction-boss",
@@ -2371,7 +2371,7 @@
               "text@de": "Sie haben Recht.",
               "text@fr": "Vous avez raison.",
               "text@sl": "Prav imate, to pohištvo je res grdo in zdelano.",
-              "text@hu": "Igazad van."
+              "text@hu": "Tényleg nem ártana egy felújítás."
             },
             {
               "character": "mayor",
@@ -2404,7 +2404,7 @@
           "text@de": "Nein, das kann ich mir nicht leisten.",
           "text@fr": "Non, on ne peut pas se le permettre.",
           "text@sl": "Žal, tega si ne morem dovoliti.",
-          "text@hu": "Nem, nem engedhetjük meg magunknak."
+          "text@hu": "Nem, nem engedhetjük meg magunknak.",
           "var_changes": {
             "risk_contractors": 1
           },
@@ -2599,7 +2599,7 @@
           "text@de": "Vielleicht bekommt sie nächstes Jahr den Auftrag.",
           "text@fr": "Peut-être auront-ils le marché l'année prochaine.",
           "text@sl": "Mogoče bodo prihodnje leto dobili pogodbo z mestom.",
-          "text@hu": "Lehet ők kapják majd a szerződést jövőre."
+          "text@hu": "Lehet, hogy ők kapják majd a szerződést jövőre."
         }
       ],
       "choices": [
@@ -2608,7 +2608,7 @@
           "text@de": "Ja. Investieren Sie 50.000.",
           "text@fr": "Oui, investis 50 000.",
           "text@sl": "Seveda, investirajte 50.000.",
-          "text@hu": "Fektessünk be 3.5 milliót."
+          "text@hu": "Fektessünk be 3.5 milliót.",
           "var_changes": {
             "trash_company": 1,
             "personal_account": -3500000
