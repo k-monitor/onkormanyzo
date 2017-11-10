@@ -2734,7 +2734,7 @@
           "text@de": "Das Angebot von Voelia Environment liegt bei 1,2 Millionen pro Jahr.",
           "text@fr": "Voelia Environment a fait une offre à 1,2 millions par an",
           "text@sl": "Podjetje Voelia Okolje je oddalo ponudbo za 1,2 milijona.",
-          "text@hu": "A Szemetesvödör 99 Kft. adott egy évi 84 milliós ajánlatot."
+          "text@hu": "A Szemetesvödör 99 Kft. adott egy évi 84 milliós ajánlatot.",
           "var_changes": {
             "resources": -84,
             "personal_account": 150000
@@ -2763,7 +2763,7 @@
           "text@de": "Das Angebot der SATI Waste Management liegt bei 0,9 Millionen pro Jahr.",
           "text@fr": "SATI Waste Management a fait une offre à 0,9 millions par an",
           "text@sl": "Podjetje SATI Odpadki je oddalo ponudbo za 0,9 milijona",
-          "text@hu": "SATI Waste Management évi 63 milliós ajánlatot adott.",
+          "text@hu": "A SATI Waste Management évi 63 milliós ajánlatot adott.",
           "var_changes": {
             "resources": -63,
             "personal_account": 45000
@@ -2799,7 +2799,7 @@
               "text@de": "Das war keine gute Entscheidung. Im Moment sind Ihre Anteile nicht sehr viel wert.",
               "text@fr": "C'est dommage... Maintenant, vos actions dans Voelia ne valent plus grand chose.",
               "text@sl": "To ni bila pametna poteza. sedaj bo precej težko prodati vaše delnice v podjetju Voelia Okolje.",
-              "text@hu": "Nem volt okos ötlet... Így nehéz lesz eladni a Szemetesvödör 99 részvényeidet."
+              "text@hu": "Nem volt túl okos ötlet... Így nehéz lesz eladni a Szemetesvödör 99 részvényeidet."
             }
           ]
         }
@@ -3081,7 +3081,7 @@
           "text@en": "I'm the director of the City University now.",
           "text@de": "Ich bin jetzt Direktor der Universität.",
           "text@fr": "Je suis le directeur de l'université maintenant.",
-          "text@sl": "Sedaj sem rektor mestne univerze."
+          "text@sl": "Sedaj sem rektor mestne univerze.",
           "text@hu": "Most a városi egyetem igazgatója vagyok."
         },
         {
@@ -3132,7 +3132,7 @@
           "text@de": "Aber seitdem ich [dieses Dossier zum Thema Bestechung an Universitäten|degrees] geschrieben habe, bin ich mir da nicht mehr so sicher.",
           "text@fr": "Mais depuis que [j'ai écrit ce mémo|degrees], je ne suis pas sûre.",
           "text@sl": "A odkar sem vam pripravila [to predstavitev|degrees], nisem več tako prepričana.",
-          "text@hu": "Amióta megírtam ezt a [jegyzetet|degrees], már nem vagyok olyan biztos ebben."
+          "text@hu": "Bár amióta megírtam ezt a [jegyzetet|degrees], már nem vagyok olyan biztos ebben."
         }
       ],
       "choices": [
@@ -3141,7 +3141,7 @@
           "text@de": "Die Polizei rufen.",
           "text@fr": "Appellez la police.",
           "text@sl": "Pokličite policijo",
-          "text@hu": "Hívd a rendőrséget."
+          "text@hu": "Hívd a rendőrséget.",
           "var_changes": {
             "risk_political": 1
           },
@@ -3168,7 +3168,7 @@
               "text@de": "Ich werde mich von dir distanzieren müssen.",
               "text@fr": "Je vais devoir mettre de l'espace entre toi et moi.",
               "text@sl": "Mogoče se bom morala nekoliko distancirati od vas.",
-              "text@hu": "Egy kicsit el kell távolodnom tőled."
+              "text@hu": "Egy kicsit el kellene távolodnom tőled."
             }
           ]
         },
@@ -3177,7 +3177,7 @@
           "text@de": "Ihn für den Lunch zahlen lassen.",
           "text@fr": "Faites-vous inviter.",
           "text@sl": "Pustite naj plača račun",
-          "text@hu": "Hagyd, hogy eltegye a pénzt."
+          "text@hu": "Hagyd, hogy eltegye a pénzt.",
           "var_changes": {
             "personal_account": 100
           },
@@ -3290,7 +3290,7 @@
               "text@de": "Und wir müssen weiter investieren, wenn Sie die nächste Wahl gewinnen wollen.",
               "text@fr": "Et nous devons continuer à investir si vous voulez gagner les prochaines élections.",
               "text@sl": "Prav tako rabimo boljšo bilanco, če želimo nadaljevati z investicijami, ki vam bodo pomagale k ponovni izvolitvi.",
-              "text@hu": "És szükségünk van erre, mégtöbbet kell befektetnünk, ha meg szeretnéd nyerni a következő választást."
+              "text@hu": "És szükségünk van erre, még többet kell befektetnünk, ha meg szeretnéd nyerni a következő választást."
             },
             {
               "character": "mayor",
@@ -3484,7 +3484,7 @@
           "text@de": "Herrn Meinhardt bitten ihn einzustellen.",
           "text@fr": "Demander à Cyril Guillory de l'embaucher.",
           "text@sl": "Za zaposlitev se pozanimajte pri MAVČAR Biro d.o.o.",
-          "text@hu": "Megkérem Böllér Lőrincet, hogy vegye fel."
+          "text@hu": "Megkérem Böllér Lőrincet, hogy vegye fel.",
           "feedback": [
             {
               "character": "you",
@@ -3517,7 +3517,7 @@
           "text@de": "Nichts unternehmen. Man sollte Beruf und Privatleben nicht miteinander vermischen.",
           "text@fr": "Ne rien faire. On ne doit pas mélanger vie privée et professionelle.",
           "text@sl": "Ne storite ničesar. Zasebno in poklicno življenje se ne mešata.",
-          "text@hu": "Nem csinálok semmit. Nem szabad a magánéletemet és a szakmai életemet keverni."
+          "text@hu": "Nem csinálok semmit. Nem szabad a magánéletemet és a szakmai életemet keverni.",
           "var_changes": {
             "personal_account": -70000
           },
@@ -3618,7 +3618,7 @@
           "text@de": "Die Einladung annehmen.",
           "text@fr": "Accepter l'invitation",
           "text@sl": "Sprejmite povabilo",
-          "text@hu": "Elfogadom a meghívást."
+          "text@hu": "Elfogadom a meghívást.",
           "var_changes": {
             "personal_account": 100,
             "revolving_door": 1
@@ -3867,7 +3867,7 @@
           "text@de": "Das Angebot der Betonbau GmbH liegt bei 575.000",
           "text@fr": "Grosbéton SARL a fait une offre à 575 000.",
           "text@sl": "Grosbeton d.o.o. je oddal ponudbo za 575.000.",
-          "text@hu": "A Piac Építő Kft. 55 milliós ajánlatot tett.",
+          "text@hu": "A Piac Építő Zrt. 55 milliós ajánlatot tett.",
           "var_changes": {
             "reserves": -55,
             "personal_account": 1000
@@ -3974,26 +3974,26 @@
       "body@de": "Beamten ist es normalerweise verboten, Geschenke oberhalb eines bestimmten Grenzwertes anzunehmen (bei der europäischen Kommission etwa liegt dieser Wert bei 50€). Das heißt, es ist erlaubt ein Geschenk anzunehmen, das an Sie als Privatperson oder an Ihren Lebenspartner adressiert ist. Wenn Sie einen Geschenk ablehnen, kann es den Geschenkgeber ärgern.",
       "body@fr": "Les fonctionnaires n'ont généralement pas le droit d'accepter des cadeaux au delà d'un certain seuil (50€ à la Commission Européenne, par exemple). Cela dit, vous pouvez accepter le cadeau s'il vous est adressé à vous personnellement, et non pas à vous en tant que fonctionnaire. Ou bien s'il est fait à votre partenaire. En refusant un cadeau, vous prenez le risque d'offenser celui qui vous l'offre.",
       "body@sl": "Javnim uslužbencem običajno ni dovoljeno prejemati daril nad določeno vrednostjo (npr. med 10 in 500 €). Lahko pa kot zasebnik sprejmete darilo, namenjeno vam ali vašemu partnerju. Če ga zavrnete, lahko razjezite osebo, ki vam ga je ponudila.",
-      "body@hu": "A közszolgák általában nem fogadhatnak el ajándékokat egy adott ár fölött (pl. 50 euro az Európai Bizottságban). Ugyanakkor, ha mint magánszemély kapod, vagy a házastársadnak szánják elfogadhatod az ajándékot. A visszautasításával azt kockáztatod, hogy felidegesíted azt aki adta volna."
+      "body@hu": "A közszolgák általában nem fogadhatnak el ajándékokat egy adott ár fölött (pl. €50 az Európai Bizottságban). Ugyanakkor, ha mint magánszemély kapod, vagy a házastársadnak szánják elfogadhatod az ajándékot. Az ajándék visszautasításával azt kockáztatod, hogy felidegesíted azt aki adta volna."
     },
     "bribes": {
       "title@en": "How can you organize bribes?",
       "title@sl": "Kako organizirati podkupnino?",
       "title@de": "Bestechungen",
       "title@fr": "Comment organiser des pots-de-vin ?",
-      "title@hu": "Hogy tudod megszervezni a vesztegetést?"
+      "title@hu": "Hogy tudod megszervezni a vesztegetést?",
       "body@en": "Bribery is not as common in Europe as in other parts of the world, but it is rampant is some sectors. In public housing, some officials ask for enveloppes of money to be given directly. For car inspection, some service centers will be pleased if you leave a gift or bills of cash on the passenger seat.<br><br>Read more under <a href='http://www.cookingbudgets.com/good-ol-bribe/' target='_blank'>A Good Ol' Bribe</a> at Cooking Budgets.",
       "body@de": "In Europa ist Bestechung nicht so weit verbreitet wie in anderen Regionen der Welt, mit Ausnahme bestimmter Bereiche. Im sozialen Wohungsbau oder bei Fahrzeuguntersuchungen sind Bestechungen durchaus üblich.<br><br>Mehr zum Thema erfahren Sie unter <a href='http://www.cookingbudgets.com/good-ol-bribe/' target='_blank'>A Good Ol' Bribe</a> von Cooking Budgets.",
       "body@fr": "Les bakchichs ne sont pas aussi fréquents en Europe que dans d'autres régions du monde, à l'exception de certains secteurs. Pour déterminer qui obtient un logement social, certains fonctionnaires n'hésitent pas à demander des enveloppes d'argent de la main à la main. Pour passer le contrôle technique automobile, certains centres de contrôle ferment les yeux en échange d'un cadeau sur le siège passager.<br><br>Lisez <a href='http://www.cookingbudgets.com/good-ol-bribe/' target='_blank'>A Good Ol' Bribe</a> [en anglais] sur Cooking Budgets pour en savoir plus.",
       "body@sl": "Podkupnine v EU niso tako pogoste kot v drugih delih sveta, a so vseeno precej razbohotene v določenih sektorjih. Na področju neprofitnih stanovanj želijo nekateri uradniki gotovino neposredno v kuverti. Pri tehničnih pregledih avtomobilov se pred pregledom bankovce pogosto pusti na zadnjem sedežu.<br><br>Več o tem si preberite na <a href='http://www.cookingbudgets.com/good-ol-bribe/' target='_blank'>A Good Ol' Bribe</a> pri Cooking Budgets.",
-      "body@hu": "A vesztegetés nem olyan elterjedt Európában, mint a világ más részein, de néhány szektorban már így is elburjánzott. Önkormányzati lakásoknál például sokszor pénzzel teli boritékokat kérnek a hivatalnokok. Autóvizsgáztatásnál is örülnek, ha egy kis ajándékot vagy pénzt hagysz az anyósülésen."
+      "body@hu": "A vesztegetés nem olyan elterjedt Európában, mint a világ más részein, de néhány szektorban már így is elburjánzott. Önkormányzati lakásoknál például sokszor pénzzel teli boritékokat kérnek a hivatalnokok. Autóvizsgáztatásnál is örülnek, ha egy kis ajándékot vagy pénzt hagysz az anyósülésen.<br><br>Olvass utána a <a href='http://k-monitor.hu/bejelento/vesztegetes' target='_blank'>K-Monitor oldalán.</a>"
     },
     "land_sales": {
       "title@en": "Spotting corruption in land sales",
       "title@de": "Korruption bei Grundstücksverkäufen",
       "title@sl": "Korupcija pri prodaji nepremičnin",
       "title@fr": "La corruption dans les ventes immobilières",
-      "title@hu": "Hogy ismerjük fel a korrupciót a földeladásokban?"
+      "title@hu": "Hogy ismerjük fel a korrupciót a földeladásokban?",
       "body@en": "Cities often own large plots of land. They can either sell them at market prices or at lower prices, to make a gift to the buyer. It is usually hard to spot such transactions, because there isn't much of a market for big sales of land in a city.",
       "body@de": "Städte sind häufig im Besitz großer Grundstücke und Immobilien. Diese können zu Marktpreisen verkauft werden oder aber zu günstigeren Konditionen, etwa um für potentielle Käufer zusätzliche Anreize zu schaffen. Solche Gefallen sind äußerst schwierig aufzudecken, denn häufig gibt es gar keinen Markt für zumeist große Gebäude oder Grundstücke im Stadtzentrum. Es fällt daher entsprechend schwer den Marktpreis zu bestimmen.",
       "body@fr": "Les villes possèdent souvent des terrains et des immeubles. Ces biens peuvent être vendus au prix du marché ou à des prix plus bas, pour faire un cadeau à l'acheteur. Il est fort difficile d'identifier ces transactions frauduleuses car, le plus souvent, il n'existe pas vraiment de marché pour un immeuble entier ou un grand terrain en centre ville.",
@@ -4022,7 +4022,7 @@
       "body@en": "It can be tempting to use the credit card of the city or the government to buy stuff for you. Because it's very easy to trace, it can be dangerous!<br><br>Read more under <a href='http://www.cookingbudgets.com/the-credit-card/' target='_blank'>The Credit Card</a> at Cooking Budgets.",
       "body@de": "Eine Kreditkarte, die direkt mit der Staatskasse verbunden ist, kann schon verführerisch sein. Da aber die damit getätigten Einkäufe sehr leicht nachverfolgt werden können, birgt sie auch ihre Gefahren!<br><br>Mehr zum Thema finden Sie unter <a href='http://www.cookingbudgets.com/the-credit-card/' target='_blank'>The Credit Card</a> von Cooking Budgets.",
       "body@fr": "On peut être tenté d'utiliser la carte bleue de sa mairie ou de son gouvernement pour faire ses courses. Mais comme les dépenses en carte sont très faciles à tracer, cela peut être dangereux!<br><br>Lisez <a href='http://www.cookingbudgets.com/the-credit-card/' target='_blank'>The Credit Card</a> [en anglais] sur Cooking Budgets pour en savoir plus.",
-      "body@hu": "Csábító lehet, hogy a város hitelkártyájára vásárolj magadnak dolgokat. Mivel nagyon könnyű nyomonkövetni, ez veszélyes lehet!"
+      "body@hu": "Csábító lehet, hogy a város hitelkártyájára vásárolj magadnak dolgokat. Mivel nagyon könnyű nyomonkövetni, ez veszélyes lehet!Érdekel egy ehhez kapcsolódó sztori, angolul? <br><br>Olvass utána a <a href='http://www.cookingbudgets.com/the-credit-card/' target='_blank'>bankkártya-használatnak</a> a Cooking Budgets-en."
     },
     "ads": {
       "title@en": "Political communication using public funds",
@@ -4039,24 +4039,24 @@
       "title@de": "Die Vermietung öffentlicher Immobilien",
       "title@sl": "Oddajanje javnih površin zasebnim podjetjem",
       "title@fr": "Louer des biens publics à des sociétés privées",
-      "title@hu": "Közterek kiadása magáncégeknek", 
+      "title@hu": "Köztulajdon kiadása magáncégeknek", 
       "body@en": "The easiest way to support a private company for a politician is to buy their building with public funds and rent it back to the company at a low price. The operation is hard to trace and fully legal.<br><br>Read more under <a href='http://www.cookingbudgets.com/the-emphyteutic-scam/' target='_blank'>The Emphyteutic Scam</a> at Cooking Budgets.",
       "body@de": "Der einfachste Weg für einen Politiker, eine private Firma zu unterstützen ist, eines ihrer Gebäude zu kaufen, und es anschließend an sie zu vermieten. Solche Operationen sind schwer nach zu verfolgen und völlig legal.<br><br>Mehr zum Thema finden Sie unter <a href='http://www.cookingbudgets.com/the-emphyteutic-scam/' target='_blank'>The Emphyteutic Scam</a> von Cooking Budgets.",
       "body@fr": "L'une des manières les plus simples pour un élu ou un fonctionnaire de subventionner une société privée est de lui acheter un bien immobilier puis de la lui louer à un très bas prix. L'opération est complexe à tracer et complètement légale.<br><br>Lisez <a href='http://www.cookingbudgets.com/the-emphyteutic-scam/' target='_blank'>The Emphyteutic Scam</a> [en anglais] sur Cooking Budgets pour en savoir plus.",
       "body@sl": "Najlažji način za podporo politika zasebnemu podjetju je odkup nepremičnine od podjetja, ki se mu jo nato ponudi v najem za nizko ceno. Operacijo je težko izslediti, hkrati pa je povsem legalna.<br><br>Read more under <a href='http://www.cookingbudgets.com/the-emphyteutic-scam/' target='_blank'>The Emphyteutic Scam</a> at Cooking Budgets.",
-      "body@hu": "A legkönnyebb módja a magáncégek támogatásának, ha a közpénzből megveszik az épületüket, amit a cég alacsony áron visszabérel. Nagyon nehéz nyomonkövetni és teljesen legális."
+      "body@hu": "A legkönnyebb módja a magáncégek támogatásának, ha a közpénzből megveszik az épületüket, amit a cég alacsony áron visszabérel. Nagyon nehéz nyomonkövetni és teljesen legális.Érdekel egy példa erre (angolul)? <br><br>Olvass utána a <a href='http://www.cookingbudgets.com/the-emphyteutic-scam/' target='_blank'>az ingatlanmutyiknak</a> a Cooking Budgets-en."
     },
     "fake": {
       "title@en": "Fake public contracts",
       "title@de": "Scheinaufträge",
       "title@fr": "Les faux contrats publics",
       "title@sl": "Lažna naročila",
-      "title@hu": "Hamis közbeszerzések"
+      "title@hu": "Hamis közbeszerzések",
       "body@en": "It can happen that contracts are passed to renovate a place or a road that does not exist. It can be risky, because it is easy to prove the contract is bogus.<br><br>Read more under <a href='http://www.cookingbudgets.com/the-invisible-public-work/' target='_blank'>The Invisible Public Work</a> at Cooking Budgets.",
       "body@de": "Manchmal kommt es vor, dass Aufträge vergeben werden, um nicht-existierende Straßen zu renovieren oder eine Software zu aktualisieren, die gar nicht genutzt wird. Das ist jedoch ausnahmsweise recht leicht nachzuweisen und daher riskant.<br><br>Mehr zum Thema finden Sie unter <a href='http://www.cookingbudgets.com/the-invisible-public-work/' target='_blank'>The Invisible Public Work</a> von Cooking Budgets.",
       "body@fr": "Il arrive parfois que des administrations passent des appels d'offres pour rénover des routes qui n'existent pas ou pour mettre à jour des logiciels fantômes. C'est risqué, car il est facile de prouver que le contrat est un faux.<br><br>Lisez <a href='http://www.cookingbudgets.com/the-invisible-public-work/' target='_blank'>The Invisible Public Work</a> [en anglais] sur Cooking Budgets pour en savoir plus.",
       "body@sl": "Včasih se zgodi, da javna uprava prične obnovo ulice ali ceste, ki sploh ne obstaja. Tovrstno početje je nevarno, saj je zelo lahko dokazati, da gre za goljufijo.<br><br>Več na <a href='http://www.cookingbudgets.com/the-invisible-public-work/' target='_blank'>The Invisible Public Work</a> pri Cooking Budgets.",
-      "body@hu": "Megtörténhet, hogy olyan helyek vagy utak felújítására írnak ki közbeszerzést, ami nem is létezik. Kockázatos lehet, mert könnyű bebizonyítani, hogy hamis a szerződés."
+      "body@hu": "Megtörténhet, hogy olyan helyek vagy utak felújítására írnak ki közbeszerzést, ami nem is létezik. Kockázatos lehet, mert könnyű bebizonyítani, hogy hamis a szerződés.Érdekel, milyen mutyik zajlanak a magyar közbeszerzésekkel?<br><br>Olvass utána <a href='http://k-monitor.hu/adatbazis/cimkek/kozbeszerzes' target='_blank'>a közbeszerzések címke alatt</a> a K-Monitor adatbázisában."
     },
     "ppp": {
       "title@en": "Public-private partnerships",
@@ -4068,7 +4068,7 @@
       "body@de": "Seit den 80er-Jahren sind die sogenannten Öffentlich-Private Partnerschaften (ÖPP) in Mode. Dahinter steckt die Idee, dass private Firmen die Kosten und das Risiko eines Projekts mit dem öffentlichen Sektor teilen. Dafür bekommen die Firmen einen Teil der Einnahmen des Projekts zurückerstattet.<br><br> Das Ziel dabei ist, dass der öffentliche Sektor ohne finanziellen Mehraufwand höhere Investitionen tätigen kann. Tatsächlich gehen private Firmen aber ohnehin fast kein Risiko ein, weil sie vom öffentlichen Sektor entsprechende Garantien verlangen. Im Endeffekt zahlt der öffentliche Sektor daher oft mehr als er ohne die ÖPP gezahlt hätte.<br><br>Mehr zum Thema finden Sie unter <a href='http://www.cookingbudgets.com/the-public-private-partnership/' target='_blank'>The Public-Private Partnership</a> von Cooking Budgets.",
       "body@fr": "Depuis les années 1980, les partenariats public-privé sont à la mode. Un tel partenariat implique qu'une société privée réalise un investissement, en général la construction d'un équipement public (route, stade, pont). En échange, la société privée peut garder tout ou partie des revenus d'exploitation de l'équipement.<br><br>L'objectif était que les administrations puissent investir dans de nouveaux équipements sans rien payer. En réalité, les administrations s'engagent souvent à payer un loyer à la société privée, dont le montant total dépasse la valeur de l'investissement ! Comme ces loyers sont étalés dans le temps, on ne voit pas que le partenariat public-privé a en fait coûté plus cher à la collectivité qu'un investissement traditionnel.<br><br>Lisez <a href='http://www.cookingbudgets.com/the-public-private-partnership/' target='_blank'>The Public-Private Partnership</a> [en anglais] sur Cooking Budgets pour en savoir plus.",
       "body@sl": "Od osemdesetih let so priljubljena t.i. javno-zasebna partnerstva. V takih partnerstvih zasebno podjetje izvede del naročila, javna uprava pa prispeva h kritju stroškov. V zameno lahko podjetje obdrži prihodke od nove storitve/nepremičnine/opreme, ki jo je razvilo. <br><br>Cilj teh partnerstev je bil nižanje javnih stroškov in hkratno razvijanje javne infrastrukture. V praksi pa zasebniki skorajda ne nosijo tveganja, javna uprava pa za storitev plača enako ceno, kot bi jo brez partnerstva, vendar je to običajno skrito v računovodskih izkazih.<br><br> Več na <a href='http://www.cookingbudgets.com/the-public-private-partnership/' target='_blank'>The Public-Private Partnership</a> pri Cooking Budgets.",
-      "body@hu": "Az 1980-as évektől egyre divatosabbá váltak a PPP-k. Ezek a megállapodások általában magukban foglalnak egy magáncéget, ami elvégzi a munka egy részét (általában megépít egy eszközt, vagy működteti azt) miközben a kormányzat hozzájárul a kiadásokhoz. Cserébe, a magáncég megtarthatja az eszköz bevételeit.<br><br> A cél az volt, hogy az önkormányzatok el tudják látni a közszolgálatot anélkül, hogy túl sokat költsenek. A gyakorlatban a magáncégeknek semmi kockázat nincs egy ilyen megállapodásban, és az önkormányzatok annyit fizetnek, mint a megállapodás nélkül. De ezeket általában elrejtik a könyvelésben."
+      "body@hu": "Az 1980-as évektől egyre divatosabbá váltak a PPP-k. Ezek a megállapodások általában magukban foglalnak egy magáncéget, ami elvégzi a munka egy részét (általában megépít egy eszközt, vagy működteti azt) miközben a kormányzat hozzájárul a kiadásokhoz. Cserébe, a magáncég megtarthatja az eszköz bevételeit.<br><br> A cél az volt, hogy az önkormányzatok el tudják látni a közszolgálatot anélkül, hogy túl sokat költsenek. A gyakorlatban a magáncégeknek semmi kockázat nincs egy ilyen megállapodásban, és az önkormányzatok annyit fizetnek, mint a megállapodás nélkül. De ezeket általában elrejtik a könyvelésben.Érdekelnek magyar PPP-esetek?<br><br>Keress rá a <a href='http://k-monitor.hu/adatbazis/cimkek/ppp' target='_blank'>PPP címkére</a> a K-Monitor adatbázisában."
     },
     "privatization": {
       "title@en": "Deregulation and privatization",
@@ -4087,7 +4087,7 @@
       "title@de": "Das Kleingedruckte",
       "title@sl": "Drobni tisk pri pogodbah z javno upravo",
       "title@fr": "Le détail des contrats publics",
-      "title@hu": "A közbeszerzések kisbetűs része",
+      "title@hu": "A közbeszerzések apróbetűs része",
       "body@en": "Building contracts usually involve a series of clauses, such as penalties for delays. However, the client (in this case, the city) must activate the clause, or, if the contractor refuses to pay, take it to court. Legal teams are used to such situations, but for a small administration, or in case of politically sensitive issues, it is easy to ignore some clauses in the contract.",
       "body@de": "Bauverträge enthalten normalerweise eine Vielzahl von Klauseln, wie z.B. den Verspätungszuschlag. Der Auftraggeber (in diesem Fall, die Stadt) sollte diese Klausel berücksichtigen und wenn der Auftragnehmer nicht zahlt, einen entsprechenden Prozess anstreben. Rechtsabteilungen von privaten Firmen sind an das Prozedere gewöhnt, aber kleineren Städten fehlen häufig die Ressourcen für eine Schadensersatzklage. Auch im Fall politisch sensibler Themen ist eine Klage häufig zu riskant und das Anliegen wird lieber unter den Tisch gekehrt.",
       "body@fr": "Les contrats de construction publique ont en général de nombreuses clauses, comme des pénalités de retard. Pour qu'elles prennent effet, le client (en l'occurence, la ville), doit activer la clause, ou, si l'industriel refuse de payer, l'assigner en justice. Ces situations sont normales pour des équipes de juristes aguérris, mais, pour des petites villes, ou sur des sujets politiquement sensibles, il est plus facile de les ignorer.",
@@ -4123,7 +4123,7 @@
       "title@de": "Vetternwirtschaft",
       "title@sl": "Zaposlovanje sorodnikov",
       "title@fr": "Embaucher des proches",
-      "title@hu": "Rokonok alkalmazása"
+      "title@hu": "Rokonok alkalmazása",
       "body@en": "In some countries, it is forbidden to hire a relative as an assistant. While it might not be a legal risk (after all, your spouse might be the most qualified person for a job), it is a political one. It is safer to ask one of the companies you're in friendly terms with to do the hire (you can then award a public contract to the company in question to finance the new position).",
       "body@de": "In mänchen Ländern ist es der öffentlichen Verwaltung untersagt Familienangehörige einzustellen. Selbst wenn es kein juristisches Risiko birgt (ihr Partner kann der Beste für den Job sein), so besteht ein politisches Restrisiko. Um Ihre Verwandten zu versorgen tun Sie besser daran bei einer Ihnen wohlgesonnenen Firma anzufragen. Zum Dank können Sie der Firma einen Auftrag erteilen, so dass die für die neue Stelle benötigten Gelder rasch zur Verfügungen stehen.",
       "body@fr": "Dans certains pays, il est interdit d'embaucher des proches en tant qu'assistant. Quand bien même il n'y aurait pas de risque légal (après tout, votre partenaire peut être le plus qualifié pour le job), cela reste un risque politique. Pour caser vos proches, il vaut mieux demander à une société avec laquelle vous êtes en bons termes de l'embaucher (vous pouvez ensuite donner un contrat public à cette société pour financer le nouveau poste qu'elle a du créer).",
@@ -4140,7 +4140,7 @@
       "body@de": "Im Anschluss an eine Karriere im öffentlichen Sektor werden hohen Beamten häufig Stellen in der Privatwirtschaft angeboten. Ihre Kontakte und ihr Fachwissen werden dort sehr geschätzt. Und manchmal genügt schon ein in Aussicht gestellter hoher Posten, um einen Beamten ausreichend zu beeinflussen noch während seiner Amtszeit Entscheidungen zu treffen, die dem Unternehmen zu Gute kommen.<br><br>Mehr zum Thema finden Sie unter <a href='http://www.cookingbudgets.com/the-revolving-door/' target='_blank'>The Revolving Door</a> von Cooking Budgets.",
       "body@fr": "Après une carrière dans l'administration publique, certains fonctionnaires sont invités à travailler dans le secteur privé. Leurs contacts et leur connaissance du fonctionnement de l'administration sont très utiles à une société privée. Parfois, la promesse de recevoir un poste bien doté suffit à convaincre un élu ou un fonctionnaire de prendre une décision favorable à cette société privée.<br><br>Lisez <a href='http://www.cookingbudgets.com/the-revolving-door/' target='_blank'>The Revolving Door</a> [en anglais] sur Cooking Budgets pour en savoir plus.",
       "body@sl": "Po karieri v javni upravi se javni uslužbenci lahko zaposlijo v zasebnem sektorju. Njihovi kontakti in globinsko poznavanje delovanja uprave so zelo dragoceni za zasebna podjetja. Včasih je dovolj že obljuba dobre službe, da javni uslužbenec sprejme odločitev v korist določenega podjetja. <br><br>Read more under <a href='http://www.cookingbudgets.com/the-revolving-door/' target='_blank'>The Revolving Door</a> pri Cooking Budgets.",
-      "body@hu": "Ex-állami vezetőket, hivatalnokokat később meghívhatnak, hogy a magánszektorban folytassák. A kapcsolataik és a tudásuk a kormányzati működésről nagyon értékes lehet egy magáncégnek. Egy zsíros ajánlat sokszor elég, hogy egy céget előnyben részesítsen. "
+      "body@hu": "Ex-állami vezetőket, hivatalnokokat később meghívhatnak, hogy a magánszektorban folytassák. A kapcsolataik és a tudásuk a kormányzati működésről nagyon értékes lehet egy magáncégnek. Egy zsíros ajánlat sokszor elég, hogy egy céget előnyben részesítsen. Magyarországon is gyorsan pörög a forgóajtó.<br><br>Olvass utána a hazai eseteknek <a href='http://k-monitor.hu/adatbazis/cimkek/forgoajto' target='_blank'>a K-Monitor adatbázisában</a>."
     }
   }
 }
