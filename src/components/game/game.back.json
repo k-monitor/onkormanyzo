@@ -2921,7 +2921,8 @@
               "text@es": "Me encargaré de ello.",
               "text@de": "Ich kümmere mich um den Kaufauftrag.",
               "text@fr": "Je passe les ordres d'achat.",
-              "text@sk": "Postarám sa o to."
+              "text@sk": "Postarám sa o to.",
+              "text@hu": "Elintézem."
             }
           ],
           "text@sk": "Áno, investovať 50 000."
@@ -2931,6 +2932,7 @@
           "text@es": "No.",
           "text@de": "Nein.",
           "text@fr": "Non.",
+          "text@hu": "Nem.",
           "var_changes": {
             "trash_company": 0
           },
@@ -2941,7 +2943,8 @@
               "text@es": "No, no es buena idea.",
               "text@de": "Nein, das ist keine gute Idee.",
               "text@fr": "Non, ce n'est pas une bonne idée.",
-              "text@sk": "Nie, to nie je dobrý nápad."
+              "text@sk": "Nie, to nie je dobrý nápad.",
+              "text@hu": "Nem, nem jó ötlet."
             },
             {
               "character": "lawyer",
@@ -2949,7 +2952,8 @@
               "text@es": "De acuerdo.",
               "text@de": "Wie Sie wollen.",
               "text@fr": "Comme vous voulez.",
-              "text@sk": "V poriadku."
+              "text@sk": "V poriadku.",
+              "text@hu": "Rendben."
             },
             {
               "character": "lawyer",
@@ -2957,7 +2961,8 @@
               "text@es": "Pero deberías invertir tu dinero con más cabeza.",
               "text@de": "Aber sie sollten ihr Geld intelligenter einsetzen.",
               "text@fr": "Mais vous devriez investir votre argent plus intelligement.",
-              "text@sk": "Mali by ste tie peniaze investovať rozumnejšie."
+              "text@sk": "Mali by ste tie peniaze investovať rozumnejšie.",
+              "text@hu": "De okosabban kéne befektetned a pénzedet."
             }
           ],
           "text@sk": "Nie."
@@ -2977,7 +2982,8 @@
           "text@es": "La recogida de basuras se debería externalizar.",
           "text@de": "Wir müssen die städtische Müllabfuhr outsourcen.",
           "text@fr": "Nous devons externaliser la collecte d'ordures.",
-          "text@sk": "Nutne potrebujeme nájsť nejakú firmu na zber odpadu."
+          "text@sk": "Nutne potrebujeme nájsť nejakú firmu na zber odpadu.",
+          "text@hu": "Ki kell szerveznünk a hulladékgyűjtést."
         },
         {
           "character": "mayor",
@@ -2985,7 +2991,8 @@
           "text@es": "Le he preguntado a contabilidad cuánto nos ha costado por ahora.",
           "text@de": "Ich habe die Buchhaltung gefragt wieviel uns diese aktuell kostet.",
           "text@fr": "J'ai demandé à la comptabilité combien cela nous coûte à présent.",
-          "text@sk": "Pýtal som sa v učtárni, koľko nás to zatiaľ stálo."
+          "text@sk": "Pýtal som sa v učtárni, koľko nás to zatiaľ stálo.",
+          "text@hu": "Megkérdeztem a könyvelőket, hogy eddig mennyibe került."
         },
         {
           "character": "mayor",
@@ -2993,7 +3000,8 @@
           "text@es": "No tienen ni idea.",
           "text@de": "Sie haben nicht den Hauch einer Ahnung.",
           "text@fr": "Ils n'en ont aucune idée.",
-          "text@sk": "Nemali predstavu."
+          "text@sk": "Nemali predstavu.",
+          "text@hu": "Fogalmuk sincs."
         },
         {
           "character": "mayor",
@@ -3001,7 +3009,8 @@
           "text@es": "Lanzamos una licitación pública de todos modos. Escoje la mejor oferta.",
           "text@de": "Wir haben trotzdem eine Ausschreibung laufen. Wählen Sie bitte das beste Angebot aus.",
           "text@fr": "Nous avons passé un appel d'offre quand même. Choissisez la meilleure offre.",
-          "text@sk": "Urobili sme verejný tender. Vyberte najlepšiu ponuku"
+          "text@sk": "Urobili sme verejný tender. Vyberte najlepšiu ponuku",
+          "text@hu": "Mindegy, kiírtunk egy pályázatot. Válaszd ki a legjobb ajánlatot."
         }
       ],
       "helper": [
@@ -3011,7 +3020,8 @@
           "text@es": "Te he escrito una [memo sobre privatizaciones |privatization].",
           "text@de": "Ich habe [ein Dossier zum Thema Outsourcing|privatization] verfasst.",
           "text@fr": "Je vous ai écrit [un mémo sur la libéralisation des services publics|privatization].",
-          "text@sk": "Pripravila som pre vás [poznámku o privatizácii|privatization]."
+          "text@sk": "Pripravila som pre vás [poznámku o privatizácii|privatization].",
+          "text@hu": "Írtam egy [jegyzetet a privatizációról|privatization] neked."
         }
       ],
       "choices": [
@@ -3020,8 +3030,9 @@
           "text@es": "Voelia Medioambiente ha hecho una oferta de 1,2 millones por año.",
           "text@de": "Das Angebot von Voelia Environment liegt bei 1,2 Millionen pro Jahr.",
           "text@fr": "Voelia Environment a fait une offre à 1,2 millions par an",
+          "text@hu": "A Szemetesvödör 99 Kft. adott egy évi 84 milliós ajánlatot.",
           "var_changes": {
-            "resources": -1.2,
+            "resources": -84,
             "personal_account": 150000
           },
           "feedback": [
@@ -3031,7 +3042,8 @@
               "text@es": "Escojo a Voelia Medioambiente.",
               "text@de": "Ich habe mich für das Angebot der Voelia Environment entschieden.",
               "text@fr": "Je choisis Voelia Environment",
-              "text@sk": "Vyberám si Voelia Environment."
+              "text@sk": "Vyberám si Voelia Environment.",
+              "text@hu": "A Szemetesvödör 99 Kft-t választom." 
             },
             {
               "character": "lawyer",
@@ -3039,7 +3051,8 @@
               "text@es": "¡Sabía que era buena idea! El valor de tus acciones se ha multiplicado. ",
               "text@de": "Ich wusste, dass das eine gute Idee war! Der Wert Ihrer Aktien hat sich verdreifacht!",
               "text@fr": "Je savais que c'était une bonne idée! La valeur de vos actions a été multipliée par trois.",
-              "text@sk": "Vedel som, že je to výborný nápad. Hodnota vašich akcií sa strojnásobila."
+              "text@sk": "Vedel som, že je to výborný nápad. Hodnota vašich akcií sa strojnásobila.",
+               "text@hu": "Tudtam, hogy jó ötlet lesz! A részvényeid megtriplázták az értéküket."
             }
           ],
           "text@sk": "Firma Voelia Environment predložila ponuku na 1,2 milióna ročne."
@@ -3049,8 +3062,9 @@
           "text@es": "SATI Gestión de Residuos ha hecho una oferta de 0,9 millones por año.",
           "text@de": "Das Angebot der SATI Waste Management liegt bei 0,9 Millionen pro Jahr.",
           "text@fr": "SATI Waste Management a fait une offre à 0,9 millions par an",
+          "text@hu": "A SATI Waste Management évi 63 milliós ajánlatot adott.",
           "var_changes": {
-            "resources": -0.9,
+            "resources": -63,
             "personal_account": 45000
           },
           "feedback": [
@@ -3060,7 +3074,8 @@
               "text@es": "Escojo a SATI Gestión de Residuos.",
               "text@de": "Ich habe mich für das Angebot von SATI Waste Management entschieden.",
               "text@fr": "Je choisis SATI Waste Management.",
-              "text@sk": "Vyberám si SATI Waste."
+              "text@sk": "Vyberám si SATI Waste.",
+              "text@hu": "A SATI Waste Management ajánlatát választom."
             },
             {
               "character": "mayor",
@@ -3068,7 +3083,8 @@
               "text@es": "¡Bien hecho!",
               "text@de": "Sehr gut!",
               "text@fr": "Excellent !",
-              "text@sk": "Výborne!"
+              "text@sk": "Výborne!",
+              "text@hu": "Szép munka!"
             },
             {
               "character": "mayor",
@@ -3076,7 +3092,8 @@
               "text@es": "Empresas privadas gestionando servicios públicos. ¿Qué podría salir mal?",
               "text@de": "Private Firmen, die einen öffentlichen Dienst betreiben. Was könnte da schiefgehen?",
               "text@fr": "Des sociétés privées qui gèrent un service public, c'est le top!",
-              "text@sk": "Súkromné firmy zabezpečujú služby verejnosti, čo by sa mohlo stať?"
+              "text@sk": "Súkromné firmy zabezpečujú služby verejnosti, čo by sa mohlo stať?",
+              "text@hu": "Magáncégek látják el a közszolgálatot? Mi lehet a baj?"
             },
             {
               "character": "lawyer",
@@ -3084,7 +3101,8 @@
               "text@es": "No es un muy inteligente... Ahora será difícil vender tus acciones de Voelia.",
               "text@de": "Das war keine gute Entscheidung. Im Moment sind Ihre Anteile nicht sehr viel wert.",
               "text@fr": "C'est dommage... Maintenant, vos actions dans Voelia ne valent plus grand chose.",
-              "text@sk": "To nebol práve najlepší nápad... Teraz sa vám tie akcie vo Voelii nebudú ľahko predávať."
+              "text@sk": "To nebol práve najlepší nápad... Teraz sa vám tie akcie vo Voelii nebudú ľahko predávať.",
+              "text@hu": "Nem volt túl okos ötlet... Így nehéz lesz eladni a Szemetesvödör 99 részvényeidet."
             }
           ],
           "text@sk": "Firma SATI Waste predložila ponuku na 0,9 milióna ročne."
@@ -3104,7 +3122,8 @@
           "text@es": "La recogida de basuras se debería externalizar. ",
           "text@de": "Wir müssen die städtische Müllabfuhr outsourcen.",
           "text@fr": "Nous devons externaliser la collecte d'ordures.",
-          "text@sk": "Nutne potrebujeme nájsť nejakú firmu na zber odpadu."
+          "text@sk": "Nutne potrebujeme nájsť nejakú firmu na zber odpadu.",
+          "text@hu": "A hulladékgyűjtést ki kell szerveznünk." 
         },
         {
           "character": "mayor",
@@ -3112,7 +3131,8 @@
           "text@es": "Le he preguntado a contabilidad cuánto nos ha costado por ahora. ",
           "text@de": "Ich habe die Buchhaltung gefragt wieviel uns diese aktuell kostet.",
           "text@fr": "J'ai demandé à la comptabilité combien cela nous coûte à présent.",
-          "text@sk": "Pýtal som sa v učtárni, koľko nás to zatiaľ stálo."
+          "text@sk": "Pýtal som sa v učtárni, koľko nás to zatiaľ stálo.",
+          "text@hu": "Megkérdeztem a könyvelőket, hogy eddig mennyibe került." 
         },
         {
           "character": "mayor",
@@ -3120,7 +3140,8 @@
           "text@es": "No tienen ni idea.",
           "text@de": "Sie haben nicht den Hauch einer Ahnung.",
           "text@fr": "Ils n'en ont aucune idée.",
-          "text@sk": "Nemali predstavu."
+          "text@sk": "Nemali predstavu.",
+          "text@hu": "Fogalmuk sincs."
         },
         {
           "character": "mayor",
@@ -3128,7 +3149,8 @@
           "text@es": "Lanzamos una licitación pública de todos modos. Escoje la mejor oferta.",
           "text@de": "Wir haben trotzdem eine Ausschreibung laufen. Wählen Sie bitte das beste Angebot aus.",
           "text@fr": "Nous avons passé un appel d'offre quand même. Choissisez la meilleure offre.",
-          "text@sk": "Urobili sme verejný tender. Vyberte najlepšiu ponuku"
+          "text@sk": "Urobili sme verejný tender. Vyberte najlepšiu ponuku",
+          "text@hu": "Mindegy, kiírtunk egy pályázatot. Válaszd ki a legjobb ajánlatot."
         }
       ],
       "helper": [
@@ -3138,7 +3160,8 @@
           "text@es": "Te he escrito una [memo sobre privatizaciones|privatization].",
           "text@de": "Ich habe [ein Dossier zum Thema Outsourcing|privatization] verfasst.",
           "text@fr": "Je vous ai écrit [un mémo sur la libéralisation des services publics|privatization].",
-          "text@sk": "Pripravila som pre vás [poznámku o privatizácii|privatization]."
+          "text@sk": "Pripravila som pre vás [poznámku o privatizácii|privatization].",
+          "text@hu": "Írtam egy [jegyzetet a privatizációról|privatization] neked."
         }
       ],
       "choices": [
@@ -3147,8 +3170,9 @@
           "text@es": "Voelia Medioambiente ha hecho una oferta de 1,2 millones por año.",
           "text@de": "Das Angebot von Voelia Environment liegt bei 1,2 Millionen pro Jahr.",
           "text@fr": "Voelia Environment a fait une offre à 1,2 millions par an",
+          "text@hu": "A Szemetesvödör 99 Kft. adott egy évi 84 milliós ajánlatot.",
           "var_changes": {
-            "resources": -1.2
+            "resources": -84
           },
           "feedback": [
             {
@@ -3157,7 +3181,8 @@
               "text@es": "Escojo a Voelia Medioambiente.",
               "text@de": "Ich habe mich für das Angebot der Voelia Environment entschieden.",
               "text@fr": "Je choisis Voelia Environment.",
-              "text@sk": "Vyberám si Voelia Environment."
+              "text@sk": "Vyberám si Voelia Environment.",
+              "text@hu": "A Szemetesvödör 99 Kft ajánlatát választom."
             },
             {
               "character": "mayor",
@@ -3165,7 +3190,8 @@
               "text@es": "¡Bien hecho!",
               "text@de": "Ausgezeichnet!",
               "text@fr": "Excellent !",
-              "text@sk": "Výborne!"
+              "text@sk": "Výborne!",
+              "text@hu": "Kiváló!"
             },
             {
               "character": "mayor",
@@ -3173,7 +3199,8 @@
               "text@es": "Empresas privadas gestionando servicios públicos. ¿Qué podria salir mal?",
               "text@de": "Private Unternehmen, die öffentliche Dienste verwalten, das ist die Extraklasse!",
               "text@fr": "Des sociétés privées pour gérer des services publics, quelle bonne idée !",
-              "text@sk": "Súkromné firmy zabezpečujú služby verejnosti, čo by sa mohlo stať?"
+              "text@sk": "Súkromné firmy zabezpečujú služby verejnosti, čo by sa mohlo stať?",
+              "text@hu": "Magáncégek látják el a közszolgálatot? Mi lehet a baj?"
             }
           ],
           "text@sk": "Firma Voelia Environment predložila ponuku na 1,2 milióna ročne."
@@ -3183,8 +3210,9 @@
           "text@es": "SATI Gestión de Residuos ha hecho una oferta de 900.000 por año.",
           "text@de": "Das Angebot der SATI Waste Management liegt bei 0,9 Millionen pro Jahr.",
           "text@fr": "SATI Waste Management a fait une offre à 900 000 par an",
+          "text@hu": "A SATI Waste Management évi 63 milliós ajánlatot adott.",
           "var_changes": {
-            "resources": -0.9
+            "resources": -63
           },
           "feedback": [
             {
@@ -3193,7 +3221,8 @@
               "text@es": "Escojo a SATI Gestión de Residuos.",
               "text@de": "Ich habe mich für das Angebot der SATI Waste Management entschieden.",
               "text@fr": "Je choisis SATI Waste Management.",
-              "text@sk": "Vyberám si SATI Waste."
+              "text@sk": "Vyberám si SATI Waste.",
+              "text@hu": "A SATI Waste Management ajánlatát választom."
             },
             {
               "character": "mayor",
@@ -3201,7 +3230,8 @@
               "text@es": "¡Bien hecho!",
               "text@de": "Ausgezeichnet!",
               "text@fr": "Excellent !",
-              "text@sk": "Výborne!"
+              "text@sk": "Výborne!",
+              "text@hu": "Kiváló!"
             },
             {
               "character": "mayor",
@@ -3209,7 +3239,8 @@
               "text@es": "Empresas privadas gestionando servicios públicos. ¿Qué puede salir mal?",
               "text@de": "Wörtliche Übersetzung: Private Unternehmen, die öffentliche Dienste verwalten, das ist die Extraklasse!",
               "text@fr": "Des sociétés privées pour gérer des services publics, quelle bonne idée !",
-              "text@sk": "Súkromné firmy zabezpečujú služby verejnosti, čo by sa mohlo stať?"
+              "text@sk": "Súkromné firmy zabezpečujú služby verejnosti, čo by sa mohlo stať?",
+              "text@hu": "Magáncégek látják el a közszolgálatot? Mi lehet a baj?"
             }
           ],
           "text@sk": "Firma SATI Waste predložila ponuku na 0,9 milióna ročne."
@@ -3225,7 +3256,8 @@
           "text@es": "El contratista del nuevo estadio va con retraso.",
           "text@de": "Der Auftragnehmer ist mit den Bauarbeiten am neuen Stadion im Verzug.",
           "text@fr": "La société qui construit le stade est en retard de 6 mois.",
-          "text@sk": "Staviteľ nového futbalového štadióna je pozadu oproti plánu."
+          "text@sk": "Staviteľ nového futbalového štadióna je pozadu oproti plánu.",
+          "text@hu": "A stadion kivitelezője csúszik."
         },
         {
           "character": "mayor",
@@ -3233,7 +3265,8 @@
           "text@es": "No quieren pagar la penalización por retraso de 2 millones.",
           "text@de": "Er weigert sich den Verspätungszuschlag in Höhe von 2 Millionen zu bezahlen.",
           "text@fr": "Ils ne veulent pas payer la pénalité de retard de 2 millions.",
-          "text@sk": "Nechcú platiť pokutu za omeškanie."
+          "text@sk": "Nechcú platiť pokutu za omeškanie.",
+          "text@hu": "És nem akarják kifizetni a 140 milliós kötbért."
         },
         {
           "character": "mayor",
@@ -3241,7 +3274,8 @@
           "text@es": "Arréglalo.",
           "text@de": "Finden Sie eine Lösung.",
           "text@fr": "Trouvez une solution.",
-          "text@sk": "Vyriešte to."
+          "text@sk": "Vyriešte to.",
+          "text@hu": "Oldd meg."
         }
       ],
       "helper": [
@@ -3251,7 +3285,8 @@
           "text@es": "Leer la letra pequeña de los contratos es un aburrimiento.",
           "text@de": "Es kann viel Zeit in Anspruch nehmen das Kleingedruckte in einem Vertrag zu lesen.",
           "text@fr": "Les détails des contrats sont longs à lire.",
-          "text@sk": "Koho baví čítať drobné písmená v zmluvách."
+          "text@sk": "Koho baví čítať drobné písmená v zmluvách.",
+          "text@hu": "Az apróbetűs részeket olvasgatni dögunalom."
         },
         {
           "character": "helper",
@@ -3259,7 +3294,8 @@
           "text@es": "Te paso una [memo sobre el asunto|fine_print] para ayudarte.",
           "text@de": "Um Zeit zu sparen habe ich Ihnen [ein Dossier zusammengestellt|fine_print].",
           "text@fr": "Je vous ai fait [un mémo pour vous faire gagner du temps|fine_print].",
-          "text@sk": "Tu je [poznámka o tejto téme|fine_print]. Možno vám pomôže."
+          "text@sk": "Tu je [poznámka o tejto téme|fine_print]. Možno vám pomôže.",
+          "text@hu": "Itt egy [jegyzet a problémáról|fine_print], hogy segítsen."
         }
       ],
       "choices": [
@@ -3268,8 +3304,9 @@
           "text@es": "Lleva al contratista a los tribunales, así consiguirás el dinero.",
           "text@de": "Einen Prozess gegen den Auftragnehmer anstreben.",
           "text@fr": "Intenter un procès contre la société de construction.",
+          "text@hu": "Pereld be a kivitelezőt, hogy megkapd a pénzt.",
           "var_changes": {
-            "reserves": 2,
+            "reserves": 140,
             "risk_political": 1
           },
           "feedback": [
@@ -3279,7 +3316,8 @@
               "text@es": "Vamos a los tribunales.",
               "text@de": "Wir gehen vor Gericht.",
               "text@fr": "Allons au tribunal.",
-              "text@sk": "Dajme to na súd."
+              "text@sk": "Dajme to na súd.",
+              "text@hu": "Menjünk bíróságra."
             },
             {
               "character": "mayor",
@@ -3287,7 +3325,8 @@
               "text@es": "¿Y si perdemos?",
               "text@de": "Was passiert, falls wir den Fall verlieren?",
               "text@fr": "Et si on perd ?",
-              "text@sk": "Čo ak prehráme?"
+              "text@sk": "Čo ak prehráme?",
+              "text@hu": "Mi van, ha veszítünk?"
             },
             {
               "character": "mayor",
@@ -3295,7 +3334,8 @@
               "text@es": "Esto es mala prensa para mí.",
               "text@de": "Das wäre keine gute Werbung für mich.",
               "text@fr": "Ça va me faire une mauvaise publicité.",
-              "text@sk": "Bola by to pre mňa zlá reklama."
+              "text@sk": "Bola by to pre mňa zlá reklama.",
+              "text@hu": "Ez nagyon rossz reklám nekem."
             }
           ],
           "text@sk": "Zažalujte dodávateľa kvôli zmluvnej pokute."
@@ -3305,6 +3345,7 @@
           "text@es": "Ignora el retraso.",
           "text@de": "Die Verzögerung ignorieren.",
           "text@fr": "Ignorer le retard.",
+          "text@hu": "Elnézem a késedelmet.",
           "feedback": [
             {
               "character": "you",
@@ -3312,7 +3353,8 @@
               "text@es": "Ignoraremos el retraso.",
               "text@de": "Wir tun besser daran, die Angelegenheit zu ignorieren.",
               "text@fr": "Nous ferions mieux d'ignorer tout ça.",
-              "text@sk": "Nedodržanie termínu budeme ignorovať."
+              "text@sk": "Nedodržanie termínu budeme ignorovať.",
+              "text@hu": "Elnézzük a késedelmet."
             },
             {
               "character": "mayor",
@@ -3320,7 +3362,8 @@
               "text@es": "Vale...",
               "text@de": "Gut...",
               "text@fr": "OK...",
-              "text@sk": "Dobre..."
+              "text@sk": "Dobre...",
+              "text@hu": "OK..."
             },
             {
               "character": "mayor",
@@ -3328,7 +3371,8 @@
               "text@es": "Diremos que hay un retraso por un tema de la Unión Europea.",
               "text@de": "Wir werden sagen, dass die europäische Union die Schuld an der Verspätung trägt.",
               "text@fr": "On va dire que le retard est la faute de l'Union Européenne.",
-              "text@sk": "Povieme, že sa omeškali kvôli Európskej únii."
+              "text@sk": "Povieme, že sa omeškali kvôli Európskej únii.",
+              "text@hu": "Majd azt mondjuk, hogy az EU miatt vannak csúszásban."
             }
           ],
           "text@sk": "Ignorujte omeškanie."
@@ -3344,7 +3388,8 @@
           "text@es": "¡Qué bien verte!",
           "text@de": "Ach, wie schön Dich wieder zu sehen!",
           "text@fr": "Ah, ça fait plaisir de te voir !",
-          "text@sk": "Som rád, že vás vidím."
+          "text@sk": "Som rád, že vás vidím.",
+          "text@hu": "Jó látni téged."
         },
         {
           "character": "university-boss",
@@ -3352,7 +3397,8 @@
           "text@es": "Quedar para comer ha sido muy buena idea.",
           "text@de": "Das Treffen zum Frühstück war eine großartige Idee.",
           "text@fr": "Ce déjeuner était une grande idée.",
-          "text@sk": "Spoločný obed bol výborný nápad."
+          "text@sk": "Spoločný obed bol výborný nápad.",
+          "text@hu": "Jó ötlet volt a közös ebéd."
         },
         {
           "character": "university-boss",
@@ -3360,7 +3406,8 @@
           "text@es": "¡Hace ya tiempo desde la última vez que hablamos!",
           "text@de": "Wir haben uns so lange nicht gesehen!",
           "text@fr": "Ça fait longtemps qu'on s'est pas vus !",
-          "text@sk": "Dlho sme sa nevideli!"
+          "text@sk": "Dlho sme sa nevideli!",
+          "text@hu": "Rég beszéltünk!"
         },
         {
           "character": "university-boss",
@@ -3368,7 +3415,8 @@
           "text@es": "Ahora soy rector de la Universidad de la ciudad.",
           "text@de": "Ich bin jetzt Direktor der Universität.",
           "text@fr": "Je suis le directeur de l'université maintenant.",
-          "text@sk": "Momentálne som rektorom univerzity v našom meste."
+          "text@sk": "Momentálne som rektorom univerzity v našom meste.",
+          "text@hu": "Most a városi egyetem igazgatója vagyok."
         },
         {
           "character": "university-boss",
@@ -3376,7 +3424,8 @@
           "text@es": "El sueldo es lo peor, pero tengo mis trucos.",
           "text@de": "Das Gehalt ist miserabel, aber ich weiß mir zu helfen.",
           "text@fr": "La paye est misérable, mais j'ai un truc.",
-          "text@sk": "Nie je to vôbec dobre platené, ale našiel som si na to fintu."
+          "text@sk": "Nie je to vôbec dobre platené, ale našiel som si na to fintu.",
+          "text@hu": "Nagyon rossz a fizetés, de van egy trükköm!"
         },
         {
           "character": "university-boss",
@@ -3384,7 +3433,8 @@
           "text@es": "A los alumnos extranjeros les digo que tienen que pagar una cuota especial.",
           "text@de": "Ich nehme Kontakt auf zu den ausländischen Studenten.",
           "text@fr": "Je contacte les étudiants étrangers qui ne parlent pas français...",
-          "text@sk": "Zahraniční študenti, ktorí nehovoria po slovensky, môžu zaplatiť špeciálny poplatok."
+          "text@sk": "Zahraniční študenti, ktorí nehovoria po slovensky, môžu zaplatiť špeciálny poplatok.",
+          "text@hu": "Azt mondom a külföldi diákoknak, akik nem beszélnek magyarul, hogy fizessenek egy speciális díjat."
         },
         {
           "character": "university-boss",
@@ -3392,7 +3442,8 @@
           "text@es": "¡Y les dejo matricularse!",
           "text@de": "Die zahlen mir dann eine Sondergebühr in Bar und erhalten im Gegenzug einen Studienplatz.",
           "text@fr": "Et je les inscris en échange d'un bakchich !",
-          "text@sk": "A ja sa obratom postarám o to, aby sme ich prijali."
+          "text@sk": "A ja sa obratom postarám o to, aby sme ich prijali.",
+          "text@hu": "És akkor beengedem őket!"
         },
         {
           "character": "university-boss",
@@ -3400,7 +3451,8 @@
           "text@es": "Hábil... ¿no?",
           "text@de": "Gewieft, oder?",
           "text@fr": "Malin, non ?",
-          "text@sk": "Nie je to šikovné?"
+          "text@sk": "Nie je to šikovné?",
+          "text@hu": "Okos, mi?"
         }
       ],
       "helper": [
@@ -3410,7 +3462,8 @@
           "text@es": "Yo siempre me he arrepentido de no haber ido a la universidad.",
           "text@de": "Ich habe es immer bereut nicht studiert zu haben.",
           "text@fr": "J'ai toujours regretté de ne pas avoir fait la fac.",
-          "text@sk": "Vždy mi bolo ľúto, že som nešla na vysokú."
+          "text@sk": "Vždy mi bolo ľúto, že som nešla na vysokú.",
+          "text@hu": "Mindig bántam, hogy nem mentem egyetemre."
         },
         {
           "character": "helper",
@@ -3418,7 +3471,8 @@
           "text@es": "Desde que te escribí [esta memo|degrees], no estoy tan seguro.",
           "text@de": "Aber seitdem ich [dieses Dossier zum Thema Bestechung an Universitäten|degrees] geschrieben habe, bin ich mir da nicht mehr so sicher.",
           "text@fr": "Mais depuis que [j'ai écrit ce mémo|degrees], je ne suis pas sûre.",
-          "text@sk": "Vzhľadom na [poznámku, ktorú som vám napísala|degrees], si tým už ale nie som celkom istá."
+          "text@sk": "Vzhľadom na [poznámku, ktorú som vám napísala|degrees], si tým už ale nie som celkom istá.",
+          "text@hu": "Bár amióta megírtam ezt a [jegyzetet|degrees], már nem vagyok olyan biztos ebben."
         }
       ],
       "choices": [
@@ -3427,6 +3481,7 @@
           "text@es": "Llama a la policía.",
           "text@de": "Die Polizei rufen.",
           "text@fr": "Appellez la police.",
+          "text@hu": "Hívd a rendőrséget.",
           "var_changes": {
             "risk_political": 1
           },
@@ -3437,7 +3492,8 @@
               "text@es": "¡Eso es completamente ilegal! Lo siento pero tengo que informar a la policía.",
               "text@de": "Das ist hochgradig illegal! Tut mir leid, aber das muss ich der Polizei melden.",
               "text@fr": "C'est complètement illégal ! Je suis désolé, mais je dois le signaler à la police.",
-              "text@sk": "To je protizákonné! Mrzí ma to, ale musím to nahlásiť na polícii."
+              "text@sk": "To je protizákonné! Mrzí ma to, ale musím to nahlásiť na polícii.",
+              "text@hu": "Ez teljesen illegális! Bocsánat, de jelentenem kell a rendőrségnek."
             },
             {
               "character": "mayor",
@@ -3445,7 +3501,8 @@
               "text@es": "Esta investigación de la policía sobre tu amigo no es buena para mi reelección.",
               "text@de": "Polizeiliche Ermittlungen gegen einen meiner Freunde, das ist schlecht für meine Wiederwahl.",
               "text@fr": "La mise en examen de ton ami, c'est mauvais pour ma réélection.",
-              "text@sk": "Policajné vyšetrovanie vášho kamaráta mi pri ďalších voľbách veľmi nepomôže."
+              "text@sk": "Policajné vyšetrovanie vášho kamaráta mi pri ďalších voľbách veľmi nepomôže.",
+              "text@hu": "A barátod elleni nyomozás nem tesz jót az újraválasztásomnak."
             },
             {
               "character": "mayor",
@@ -3453,7 +3510,8 @@
               "text@es": "Quizá tenga que distanciarme un poco de ti. ",
               "text@de": "Ich werde mich von dir distanzieren müssen.",
               "text@fr": "Je vais devoir mettre de l'espace entre toi et moi.",
-              "text@sk": "Možno sa od vás budem musieť dištancovať."
+              "text@sk": "Možno sa od vás budem musieť dištancovať.",
+              "text@hu": "Egy kicsit el kellene távolodnom tőled."
             }
           ],
           "text@sk": "Zavolajte políciu."
@@ -3463,6 +3521,7 @@
           "text@es": "Que pague él la cuenta.",
           "text@de": "Ihn für den Lunch zahlen lassen.",
           "text@fr": "Faites-vous inviter.",
+          "text@hu": "Hagyd, hogy eltegye a pénzt.",
           "var_changes": {
             "personal_account": 100
           },
@@ -3473,7 +3532,8 @@
               "text@es": "¡Qué habil! Que paguen los alumnos nuestra cena.",
               "text@de": "Genial! Dann sind es die Studenten, die uns gerade zum Frühstück einladen.",
               "text@fr": "Ingénieux ! Ce sont ces étudiants qui nous invitent à déjeuner, alors !",
-              "text@sk": "Múdro! Študenti nám teda môžu zaplatiť obed."
+              "text@sk": "Múdro! Študenti nám teda môžu zaplatiť obed.",
+              "text@hu"? "Nagyon okos! Akkor a diákok fizetik a vacsoránkat!",
             },
             {
               "character": "university-boss",
@@ -3481,7 +3541,8 @@
               "text@es": "¡Brindemos por nuestra vieja amistad! 🍻",
               "text@de": "Auf unsere Freundschaft! 🍻",
               "text@fr": "A notre longue amitié ! 🍻",
-              "text@sk": "Na naše dlhoročné priateľstvo! 🍻"
+              "text@sk": "Na naše dlhoročné priateľstvo! 🍻",
+              "text@hu": "Koccintsunk egy öreg barátságra! 🍻"
             }
           ],
           "text@sk": "Nech zaplatí účet."
@@ -3497,7 +3558,8 @@
           "text@es": "El departamento de contabilidad vino a verme.",
           "text@de": "Der Buchhalter ist gekommen, um mir einen Besuch abzustatten.",
           "text@fr": "Le comptable est venu me voir.",
-          "text@sk": "Boli u mňa ľudia z účtovného oddelenia."
+          "text@sk": "Boli u mňa ľudia z účtovného oddelenia.",
+          "text@hu": "Megkerestek a könyvelők."
         },
         {
           "character": "mayor",
@@ -3505,7 +3567,8 @@
           "text@es": "Dijeron que tenían una idea genial para mejorar la salud financiera de la ciudad.",
           "text@de": "Er sagt, er habe eine Idee, um unseren Haushalt zu sanieren.",
           "text@fr": "Il dit avoir une idée de génie pour assainir nos comptes.",
-          "text@sk": "Tvrdia, že prišli na to, ako ozdraviť financie mesta."
+          "text@sk": "Tvrdia, že prišli na to, ako ozdraviť financie mesta.",
+          "text@hu": "Azt mondták van egy nagyon jó ötletük, hogy lehetne javítani a város pénzügyi helyzetét."
         },
         {
           "character": "mayor",
@@ -3513,7 +3576,8 @@
           "text@es": "Quieren aunar todos los ingresos futuros de la vivienda pública y computarlos en un solo ejercicio.",
           "text@de": "Er will alle künftigen Einnahmen über den sozialen Wohnungsbau bündeln und auf ein Mal verbuchen.",
           "text@fr": "Il veut grouper tous les revenus futurs des HLM et les comptabiliser d'un coup.",
-          "text@sk": "Chcú zlúčiť všetky budúce príjmy zo sociálneho bývania a zaúčtovať ich len raz."
+          "text@sk": "Chcú zlúčiť všetky budúce príjmy zo sociálneho bývania a zaúčtovať ich len raz.",
+          "text@hu": "Minden jövőbeni jövedelmet a szociális bérlakásokból egyben akarnak bekönyvelni."
         },
         {
           "character": "mayor",
@@ -3521,7 +3585,8 @@
           "text@es": "Dicen que aumentará de golpe los ingresos actuales- sobre el papel - y los reducirá en el futuro.",
           "text@de": "Er sagt, das wird unsere Einnahmen in diesem Jahr - zumindest auf dem Papier - um ein Vielfaches erhöhen. Allerdings werden dann die späteren Einnahmen verringert.",
           "text@fr": "Il dit que ça augmentera grandement nos ressources aujourd'hui - sur le papier - et diminuera nos revenus plus tard.",
-          "text@sk": "Vraj sa nám tým teraz super zvýšia príjmy - na papieri - a v budúcnosti sa znížia."
+          "text@sk": "Vraj sa nám tým teraz super zvýšia príjmy - na papieri - a v budúcnosti sa znížia.",
+          "text@hu": "Azt mondják így a mostani bevételt látványosan növelni tudják - papíron - és csökkenteni a jövőben."
         },
         {
           "character": "mayor",
@@ -3529,7 +3594,8 @@
           "text@es": "¿Lo hacemos?",
           "text@de": "Sollen wir das machen?",
           "text@fr": "Doit-on le faire ?",
-          "text@sk": "Pôjdeme do toho?"
+          "text@sk": "Pôjdeme do toho?",
+          "text@hu": "Megcsináljuk?"
         }
       ],
       "helper": [
@@ -3539,7 +3605,8 @@
           "text@es": "Los trucos contables pueden ser muy complejos.",
           "text@de": "Diese Buchhaltungstricks sind ziemlich kompliziert.",
           "text@fr": "Ces astuces comptables sont assez techniques.",
-          "text@sk": "Zásahy do účtovníctva sú technicky náročné."
+          "text@sk": "Zásahy do účtovníctva sú technicky náročné.",
+          "text@hu": "A kreatív könyvelés bonyolult lehet."
         },
         {
           "character": "helper",
@@ -3547,7 +3614,8 @@
           "text@es": "Lee [esta memo para saber más |accounting_tricks].",
           "text@de": "Lesen Sie [um mehr über das Thema zu erfahren|accounting_tricks].",
           "text@fr": "Lisez [ce mémo pour en savoir plus|accounting_tricks].",
-          "text@sk": "Prečítajte si [túto poznámku, ak chcete vedieť viac|accounting_tricks]."
+          "text@sk": "Prečítajte si [túto poznámku, ak chcete vedieť viac|accounting_tricks].",
+          "text@hu": "Olvasd el [ezt a jegyzetet|accounting_tricks]."
         }
       ],
       "choices": [
@@ -3555,9 +3623,9 @@
           "text@en": "Accept! The appearance of wealth is better than nothing.",
           "text@es": "¡Acepta! Aparentar riqueza es mejor que nada.",
           "text@de": "Ja! Der Reichtum naht!",
-          "text@fr": "Acceptez! L'apparance de la richesse, c'est toujours ça.",
+          "text@hu": "Elfogadom! A jólét látszata jobb, mint a semmi.",
           "var_changes": {
-            "reserves": 20,
+            "reserves": 140,
             "resources": -3
           },
           "feedback": [
@@ -3567,7 +3635,8 @@
               "text@es": "Parece legal.",
               "text@de": "Das hört sich gut an.",
               "text@fr": "Ça parait bien.",
-              "text@sk": "Vyzerá to legálne."
+              "text@sk": "Vyzerá to legálne.",
+              "text@hu": "Jó ötletnek tűnik."
             },
             {
               "character": "you",
@@ -3575,7 +3644,8 @@
               "text@es": "Y necesitamos seguir invirtiendo si quieres ganar las siguientes elecciones.",
               "text@de": "Und wir müssen weiter investieren, wenn Sie die nächste Wahl gewinnen wollen.",
               "text@fr": "Et nous devons continuer à investir si vous voulez gagner les prochaines élections.",
-              "text@sk": "A ak chcete vyhrať ďalšie voľby, budeme to potrebovať pri ďalších investíciách."
+              "text@sk": "A ak chcete vyhrať ďalšie voľby, budeme to potrebovať pri ďalších investíciách.",
+              "text@hu": "És szükségünk van erre, még többet kell befektetnünk, ha meg szeretnéd nyerni a következő választást."
             },
             {
               "character": "mayor",
@@ -3583,7 +3653,8 @@
               "text@es": "¡Estupendo!",
               "text@de": "Super!",
               "text@fr": "Super !",
-              "text@sk": "Skvelé!"
+              "text@sk": "Skvelé!",
+              "text@hu": "Kiváló!"
             },
             {
               "character": "mayor",
@@ -3591,7 +3662,8 @@
               "text@es": "¡Después de todo, del futuro se ocupará el siguiente alcalde, no yo!",
               "text@de": "Dass die Einnahmen in Zukunft niedriger werden, ist das Problem des nächsten Bürgermeisters!",
               "text@fr": "Après tout, le futur appartient aux maires suivants !",
-              "text@sk": "Koniec koncov, o budúcnosť nech sa stará budúci starosta, nie ja."
+              "text@sk": "Koniec koncov, o budúcnosť nech sa stará budúci starosta, nie ja.",
+              "text@hu": "Végülis, a jövő problémái a következő Polgármesteré, nem az enyémek!"
             }
           ],
           "text@sk": "Berieme to! Zdanie prosperity je lepšie ako nič."
@@ -3601,6 +3673,7 @@
           "text@es": "¡No aceptes! No deberíamos jugar con la contabilidad.",
           "text@de": "Lehnen Sie ab! Mit der Buchhaltung spielt man nicht herum.",
           "text@fr": "Refusez! La comptabilité ne doit pas être manipulée.",
+          "text@hu": "Elutasítom! Nem szabad a könyveléssel szórakozni!",
           "var_changes": {
             "risk_political": 1
           },
@@ -3611,7 +3684,8 @@
               "text@es": "¡No podemos hacer eso!",
               "text@de": "Das können wir nicht machen.",
               "text@fr": "On ne peut pas faire ça.",
-              "text@sk": "To nemôžeme urobiť!"
+              "text@sk": "To nemôžeme urobiť!",
+              "text@hu": "Nem tehetjük ezt!"
             },
             {
               "character": "you",
@@ -3619,7 +3693,8 @@
               "text@es": "No va aumentar el dinero en caja, es todo virtual.",
               "text@de": "Das wird die Einnahmen nicht wirklich erhöhen, es ist eine virtuelle Spielerei.",
               "text@fr": "Cela ne va pas augmenter nos ressources, c'est purement virtuel.",
-              "text@sk": "Nezvýši to naše výdavky, pretože je to len virtuálna operácia."
+              "text@sk": "Nezvýši to naše výdavky, pretože je to len virtuálna operácia.",
+              "text@hu": "Ez csak látszólag növeli a pénzforgalmunkat."
             },
             {
               "character": "mayor",
@@ -3627,7 +3702,8 @@
               "text@es": "¡Y cómo equilibro yo ahora mi presupuesto!",
               "text@de": "Und wie soll ich bitteschön den Haushalt ausgleichen?",
               "text@fr": "Et comment vais-je équilibrer le budget ?",
-              "text@sk": "A ako mám teraz udržať vyrovnaný rozpočet?"
+              "text@sk": "A ako mám teraz udržať vyrovnaný rozpočet?",
+              "text@hu": "És akkor most hogy egyensúlyozzam a büdzsémet?"
             },
             {
               "character": "mayor",
@@ -3635,7 +3711,8 @@
               "text@es": "No te lo que tenía que haber dicho...",
               "text@de": "Ich hätte Sie niemals einstellen dürfen ...",
               "text@fr": "Je n'aurais jamais du vous embaucher.",
-              "text@sk": "Nemala som vás k tomu nikdy pustiť..."
+              "text@sk": "Nemala som vás k tomu nikdy pustiť...",
+              "text@hu": "Soha nem lett volna beengednem téged."
             }
           ],
           "text@sk": "Odmietnite! S účtovníctvom sa nesmie čachrovať."
@@ -3651,7 +3728,8 @@
           "text@es": "Acabo de recibir tu email.",
           "text@de": "Ich habe gerade ihre E-Mail gelesen.",
           "text@fr": "Je viens de lire votre e-mail.",
-          "text@sk": "Práve som si prečítala váš e-mail."
+          "text@sk": "Práve som si prečítala váš e-mail.",
+          "text@hu": "Most kaptam meg az emailed."
         },
         {
           "character": "lawyer",
@@ -3659,7 +3737,8 @@
           "text@es": "Siento que despidieran a tu mujer.",
           "text@de": "Es tut mir leid, dass Ihr Mann entlassen wurde.",
           "text@fr": "Je suis désolée que votre époux se soit fait licencier.",
-          "text@sk": "Mrzí ma, že váš brat dostal výpoved."
+          "text@sk": "Mrzí ma, že váš brat dostal výpoved.",
+          "text@hu": "Sajnálom, hogy kirúgták az élettársadat."
         },
         {
           "character": "lawyer",
@@ -3667,7 +3746,8 @@
           "text@es": "Qué pena.",
           "text@de": "Er verdient etwas Besseres.",
           "text@fr": "Il mérite mieux.",
-          "text@sk": "To je blbé."
+          "text@sk": "To je blbé.",
+          "text@hu": "Elég szívás."
         },
         {
           "character": "lawyer",
@@ -3675,7 +3755,8 @@
           "text@es": "Estas son tus opciones.",
           "text@de": "Sie haben folgende Optionen:",
           "text@fr": "Voilà vos options.",
-          "text@sk": "Tu sú vaše možnosti."
+          "text@sk": "Tu sú vaše možnosti.",
+          "text@hu": "Ezek a lehetőségeid."
         }
       ],
       "helper": [
@@ -3685,7 +3766,8 @@
           "text@es": "Contratar a familiares es lo contrario al sexo en el instituto.",
           "text@de": "Familienangehörige einstellen? Da können Sie ja gleich den Papst heiraten!",
           "text@fr": "Embaucher des proches, c'est l'inverse du sexe au lycée.",
-          "text@sk": "Zamestnávanie príbuzných je opak sexu na strednej škole."
+          "text@sk": "Zamestnávanie príbuzných je opak sexu na strednej škole.",
+          "text@hu": "Rokonokat alkalmazni a középiskolai szex ellentéte."
         },
         {
           "character": "helper",
@@ -3693,7 +3775,8 @@
           "text@es": "Todo el mundo lo hace pero nadie habla de ello.",
           "text@de": "Nur in Bayern denken sie, dass das noch cool ist.",
           "text@fr": "Tout le monde le fait mais personne n'en parle !",
-          "text@sk": "Každý to robí, ale nik o tom nehovorí!"
+          "text@sk": "Každý to robí, ale nik o tom nehovorí!",
+          "text@hu": "Mindenki csinálja, de senki nem beszél róla."
         },
         {
           "character": "helper",
@@ -3701,7 +3784,8 @@
           "text@es": "😂😂😂",
           "text@de": "😂😂😂",
           "text@fr": "😂😂😂",
-          "text@sk": "😂😂😂"
+          "text@sk": "😂😂😂",
+          "text@hu": "😂😂😂"
         },
         {
           "character": "you",
@@ -3709,7 +3793,8 @@
           "text@es": "...",
           "text@de": "...",
           "text@fr": "...",
-          "text@sk": "..."
+          "text@sk": "...",
+          "text@hu": "..."
         },
         {
           "character": "helper",
@@ -3717,7 +3802,8 @@
           "text@es": "Bueno, [te paso la memo que te preparé |relatives].",
           "text@de": "Hm... [Zur Vetternwirtschaft erfahren Sie mehr in meinem Dossier|relatives].",
           "text@fr": "Voilà [un mémo sur l'emploi des proches|relatives].",
-          "text@sk": "Nuž, [tu je poznámka, ktorú som pre vás pripravila|relatives]."
+          "text@sk": "Nuž, [tu je poznámka, ktorú som pre vás pripravila|relatives].",
+          "text@hu": "Itt a [jegyzetem|relatives]."
         }
       ],
       "choices": [
@@ -3726,6 +3812,7 @@
           "text@es": "Contrátalo como asistente.",
           "text@de": "Ihn als Assistent einstellen.",
           "text@fr": "L'embaucher comme assistant.",
+          "text@hu": "Felveszem asszisztensnek.",
           "var_changes": {
             "risk_political": 1
           },
@@ -3736,7 +3823,8 @@
               "text@es": "Lo quiero contratar como asistente.",
               "text@de": "Ich werde ihn als Assistent einstellen.",
               "text@fr": "Je vais l'embaucher en tant qu'assistant.",
-              "text@sk": "Chcem ho prijať za asistenta."
+              "text@sk": "Chcem ho prijať za asistenta.",
+              "text@hu": "Fel szeretném venni, mint asszisztens."
             },
             {
               "character": "mayor",
@@ -3744,7 +3832,8 @@
               "text@es": "¡Qué narices!",
               "text@de": "Was soll das?",
               "text@fr": "Qu'est-ce que j'apprends ?",
-              "text@sk": "Čo do frasa?"
+              "text@sk": "Čo do frasa?",
+              "text@hu": "Mi a fene?"
             },
             {
               "character": "mayor",
@@ -3752,7 +3841,8 @@
               "text@es": "Si se filtra en Twitter o lo que sea, !estás fuera!",
               "text@de": "Sollte das auf Twitter oder was weiß ich wo auftauchen, sind Sie gefeuert!",
               "text@fr": "Si ça fuite sur Twitter où que sais-je, vous prennez la porte !",
-              "text@sk": "Ak sa o tom začne hovoriť, vyhodím vás!"
+              "text@sk": "Ak sa o tom začne hovoriť, vyhodím vás!",
+              "text@hu": "Ha ezt megírják az újságok, neked véged!"
             },
             {
               "character": "mayor",
@@ -3760,7 +3850,8 @@
               "text@es": "¡Los dos!",
               "text@de": "Sie und Ihr Mann!",
               "text@fr": "Vous et votre mari !",
-              "text@sk": "Oboch!"
+              "text@sk": "Oboch!",
+              "text@hu": "Mindkettőtöknek!"
             }
           ],
           "text@sk": "Prijmite ho za asistenta."
@@ -3770,6 +3861,7 @@
           "text@es": "Pídele a Construcciones Floriano que lo contrate.",
           "text@de": "Herrn Meinhardt bitten ihn einzustellen.",
           "text@fr": "Demander à Cyril Guillory de l'embaucher.",
+          "text@hu": "Megkérem Böllér Lőrincet, hogy vegye fel.",
           "feedback": [
             {
               "character": "you",
@@ -3777,7 +3869,8 @@
               "text@es": "Le voy a pedir a mi viejo amigo de Construcciones Floriano que lo contraten.",
               "text@de": "Ich werde Herrn Meinhardt bitten, ihm einen Job zu verschaffen.",
               "text@fr": "Je vais demander à mon ami Cyril Guillory de lui trouver un job.",
-              "text@sk": "Poprosím starého kamoša z firmy Robert Construction, aby ho zamestnali."
+              "text@sk": "Poprosím starého kamoša z firmy Robert Construction, aby ho zamestnali.",
+              "text@hu": "Majd megkérem a régi barátomat, Böllér Lőrincet, hogy vegye fel."
             },
             {
               "character": "construction-boss",
@@ -3785,7 +3878,8 @@
               "text@es": "Claro, amigo.",
               "text@de": "Sicher, meine Liebe!",
               "text@fr": "Aucun problème, mon amie !",
-              "text@sk": "Jasné, kamoš."
+              "text@sk": "Jasné, kamoš.",
+              "text@hu": "Nem gond, barátom."
             },
             {
               "character": "construction-boss",
@@ -3793,7 +3887,8 @@
               "text@es": "Sabes que siempre puedes contar conmigo.",
               "text@de": "Du weißt, dass du dich auf mich verlassen kannst.",
               "text@fr": "Tu sais que tu peux compter sur moi.",
-              "text@sk": "Viete, že sa na mňa môžete vždy spoľahnúť."
+              "text@sk": "Viete, že sa na mňa môžete vždy spoľahnúť.",
+              "text@hu": "Tudod, hogy mindig számíthatsz rám."
             }
           ],
           "text@sk": "Požiadať firmu Robert Construction s.r.o., aby ho zamestnali."
@@ -3803,8 +3898,9 @@
           "text@es": "No hagas nada. No deberías mezclar tu vida privada con la personal.",
           "text@de": "Nichts unternehmen. Man sollte Beruf und Privatleben nicht miteinander vermischen.",
           "text@fr": "Ne rien faire. On ne doit pas mélanger vie privée et professionelle.",
+          "text@hu": "Nem csinálok semmit. Nem szabad a magánéletemet és a szakmai életemet keverni.",
           "var_changes": {
-            "personal_account": -1000
+            "personal_account": -70000
           },
           "feedback": [
             {
@@ -3813,7 +3909,8 @@
               "text@es": "Nos apretaremos el cinturón.",
               "text@de": "Wir werden den Gürtel enger schnallen.",
               "text@fr": "On va se serrer la ceinture.",
-              "text@sk": "Zvládneme to."
+              "text@sk": "Zvládneme to.",
+              "text@hu": "Majd összébb húzzuk a nadrágszíjat."
             },
             {
               "character": "you",
@@ -3821,7 +3918,8 @@
               "text@es": "Prefiero no mezclar mi vida privada con la personal.",
               "text@de": "Ich will Beruf und Privatleben nicht vermischen.",
               "text@fr": "Je ne veux pas mélanger vie privée et vie professionelle.",
-              "text@sk": "Radšej nechcem miešať súkromný a pracovný život."
+              "text@sk": "Radšej nechcem miešať súkromný a pracovný život.",
+              "text@hu": "Nem szeretném keverni a magánéletemet a szakmaival."
             },
             {
               "character": "lawyer",
@@ -3829,7 +3927,8 @@
               "text@es": "Deberías cuidar mejor de tu familia.",
               "text@de": "Sie sollten sich besser um Ihre Familie kümmern.",
               "text@fr": "Vous devriez prendre meilleur soin de votre famille.",
-              "text@sk": "Mali by ste sa viac starať o svoju rodinu."
+              "text@sk": "Mali by ste sa viac starať o svoju rodinu.",
+              "text@hu": "Jobban kéne törődnöd a családoddal."
             },
             {
               "character": "lawyer",
@@ -3837,7 +3936,8 @@
               "text@es": "Por cierto, sabes que también soy abogado matrimonial, ¿no?",
               "text@de": "Übrigens - ich übernehme auch Scheidungsfälle!",
               "text@fr": "Au fait, je m'occupe aussi de divorces !",
-              "text@sk": "Rodina je najdôležitejšia. "
+              "text@sk": "Rodina je najdôležitejšia. ",
+              "text@hu": "Amúgy tudtad, hogy válóperes ügyvéd is vagyok, ügye?"
             }
           ],
           "text@sk": "Nerobiť nič. Netreba miešať súkromný a pracovný život."
@@ -3853,7 +3953,8 @@
           "text@es": "¡Muy buenas!",
           "text@de": "Guten Tag!",
           "text@fr": "Salut !",
-          "text@sk": "Zdravím!"
+          "text@sk": "Zdravím!",
+          "text@hu": "Szia uram!"
         },
         {
           "character": "construction-boss",
@@ -3861,7 +3962,8 @@
           "text@es": "Estoy creando una nueva filial.",
           "text@de": "Ich bin dabei eine Tochterfirma zu gründen.",
           "text@fr": "Je suis en train de monter une succursale.",
-          "text@sk": "Zakladám novú pobočku."
+          "text@sk": "Zakladám novú pobočku.",
+          "text@hu": "Csinálok egy új leányvállalatot."
         },
         {
           "character": "construction-boss",
@@ -3869,7 +3971,8 @@
           "text@es": "Creo que tú serías la persona perfecta para llevarla.",
           "text@de": "Ich denke du wärst perfekt geeignet die Leitung zu übernehmen.",
           "text@fr": "Je pense que tu serais parfaite pour en prendre la direction.",
-          "text@sk": "Myslím, že ste perfektný kandidát na jej vedenie."
+          "text@sk": "Myslím, že ste perfektný kandidát na jej vedenie.",
+          "text@hu": "Szerintem te lennél a legjobb ember az élére."
         },
         {
           "character": "construction-boss",
@@ -3877,7 +3980,8 @@
           "text@es": "¿Por qué no te vienes a mi chalet en Zug, Suiza, para discutirlo?",
           "text@de": "Wieso verbringen wir nicht das Wochende in meinem Ferienhaus in der Schweiz, um das ganz in Ruhe zu besprechen?",
           "text@fr": "Pourquoi ne viens-tu pas passer le week-end dans mon châlet de Zug, en Suisse, pour en discuter ?",
-          "text@sk": "Čo keby ste sa zastavili na mojej horskej chate v Zugu vo Švajčiarsku a prediskutovali by sme to?"
+          "text@sk": "Čo keby ste sa zastavili na mojej horskej chate v Zugu vo Švajčiarsku a prediskutovali by sme to?",
+          "text@hu": "Nem ugrasz be a svájci faházamba, hogy megbeszéljük a részleteket?"
         }
       ],
       "helper": [
@@ -3887,7 +3991,8 @@
           "text@es": "¿Ya estás pensando en dejarnos?",
           "text@de": "Sie wollen uns schon verlassen?",
           "text@fr": "Vous pensez partir ?",
-          "text@sk": "Len ste začali a už od nás chcete odísť?"
+          "text@sk": "Len ste začali a už od nás chcete odísť?",
+          "text@hu": "Máris azon gondolkozol, hogy lelépsz?"
         },
         {
           "character": "helper",
@@ -3895,7 +4000,8 @@
           "text@es": "Aquí tienes una [memo sobre cómo pasar al sector privado|door].",
           "text@de": "Ich habe [ein Dossier zum Thema Personalkarussell|door] zusammengestellt.",
           "text@fr": "Voici [un mémo sur le pantouflage|door].",
-          "text@sk": "Tu je [poznámka o prestupe do súkromného sektora|door]."
+          "text@sk": "Tu je [poznámka o prestupe do súkromného sektora|door].",
+          "text@hu": "Itt a jegyzetem a [magánszektorról|door]."
         }
       ],
       "choices": [
@@ -3904,6 +4010,7 @@
           "text@es": "Aceptas la invitación.",
           "text@de": "Die Einladung annehmen.",
           "text@fr": "Accepter l'invitation",
+          "text@hu": "Elfogadom a meghívást.",
           "var_changes": {
             "personal_account": 100,
             "revolving_door": 1
@@ -3915,7 +4022,8 @@
               "text@es": "¡Gracias por la oferta!",
               "text@de": "Danke für Ihre Einladung!",
               "text@fr": "Merci de votre offre !",
-              "text@sk": "Ďakujem za ponuku!"
+              "text@sk": "Ďakujem za ponuku!",
+              "text@hu": "Köszi az ajánlatot!"
             },
             {
               "character": "you",
@@ -3923,7 +4031,8 @@
               "text@es": "Mi experiencia con la administración pública será bien valorada.",
               "text@de": "Meine Erfahrung in der Verwaltung wird sicher von Vorteil sein.",
               "text@fr": "Mon expérience dans l'administration vous sera d'une grande aide.",
-              "text@sk": "Moje skúsenosti z verejnej správy budú veľmi cenné."
+              "text@sk": "Moje skúsenosti z verejnej správy budú veľmi cenné.",
+              "text@hu": "A közigazgatási tapasztalatom hasznos lesz majd."
             },
             {
               "character": "construction-boss",
@@ -3931,7 +4040,8 @@
               "text@es": "¡Sabía que eras el mejor para este trabajo!",
               "text@de": "Ich wusste, dass du die perfekte Kandidatin für den Job bist!",
               "text@fr": "Je savais que tu serais parfaite !",
-              "text@sk": "Vedel som, že ste ten pravý pre túto prácu!"
+              "text@sk": "Vedel som, že ste ten pravý pre túto prácu!",
+              "text@hu": "Tudtam, hogy te vagy a legjobb a munkára."
             },
             {
               "character": "construction-boss",
@@ -3939,7 +4049,8 @@
               "text@es": "Antes de que empieces, tengo que pedirte un favor.",
               "text@de": "Aber bevor wir anfangen können, muss ich dich noch um einen kleinen Gefallen bitten.",
               "text@fr": "Mais avant ça, j'ai un service à te demander.",
-              "text@sk": "Skôr než začnete, potreboval by som od vás jednu láskavosť."
+              "text@sk": "Skôr než začnete, potreboval by som od vás jednu láskavosť.",
+              "text@hu": "Mielőtt elkezdjük, kérnék egy szívességet."
             },
             {
               "character": "construction-boss",
@@ -3947,7 +4058,8 @@
               "text@es": "¿Puedes conseguir un concurso público para una piscina municipal?",
               "text@de": "Besteht die Möglichkeit, dass du eine Ausschreibung für ein neues Schwimmbad veröffentlichst?",
               "text@fr": "Il faudrait que tu passes un appel d'offre pour une nouvelle piscine.",
-              "text@sk": "Môžete zorganizovať verejnú súťaž na novú plaváreň?"
+              "text@sk": "Môžete zorganizovať verejnú súťaž na novú plaváreň?",
+              "text@hu": "Kiírnál egy közbeszerzést egy új úszómedencére a városnak?"
             }
           ],
           "text@sk": "Prijať."
@@ -3957,6 +4069,7 @@
           "text@es": "No aceptas.",
           "text@de": "Ablehnen.",
           "text@fr": "Refuser",
+          "text@hu": "Elutasítom",
           "feedback": [
             {
               "character": "you",
@@ -3964,7 +4077,8 @@
               "text@es": "No, me quedo donde estoy.",
               "text@de": "Nein, sorry, das kann ich nicht machen. Da bleibe ich lieber wo ich bin.",
               "text@fr": "Non, je préfère garder mon poste.",
-              "text@sk": "Nie, ostanem tam, kde som."
+              "text@sk": "Nie, ostanem tam, kde som.",
+              "text@hu": "Nem, itt maradok."
             },
             {
               "character": "construction-boss",
@@ -3972,7 +4086,8 @@
               "text@es": "Pensaba que éramos amigos. 😢",
               "text@fr": "Et moi qui croyais que nous étions amis. 😢",
               "text@de": "Und ich dachte wir wären Freunde 😢",
-              "text@sk": "A ja že sme priatelia... 😢"
+              "text@sk": "A ja že sme priatelia... 😢",
+              "text@hu": "Azt hittem barátok vagyunk. 😢" 
             }
           ],
           "text@sk": "Odmietnuť."
@@ -3992,7 +4107,8 @@
           "text@es": "Hemos conseguido el concurso público que querías, el de tu piscina.",
           "text@de": "Wir haben diese Ausschreibung für Ihr Schwimmbad veröffentlicht.",
           "text@fr": "Nous avons passé cet appel d'offre pour votre piscine.",
-          "text@sk": "Zorganizovali sme verejnú súťaž na vašu plaváreň."
+          "text@sk": "Zorganizovali sme verejnú súťaž na vašu plaváreň.",
+          "text@hu": "Kiírtuk ezt a pályázatot, amit akartál, erre az úszómedencére."
         },
         {
           "character": "mayor",
@@ -4000,7 +4116,8 @@
           "text@es": "Sigo sin estar convencido de que la necesitemos, pero qué le voy a hacer.",
           "text@de": "Ich verstehe noch immer nicht wozu wir ein neues Schwimmbad brauchen, aber was geht es mich an.",
           "text@fr": "Je ne sais toujours pas pourquoi on a besoin d'une nouvelle piscine, mais bon.",
-          "text@sk": "Stále nie je isté, či ju potrebujeme, ale čo už."
+          "text@sk": "Stále nie je isté, či ju potrebujeme, ale čo už.",
+          "text@hu": "Még mindig nem vagyok biztos benne, hogy ez kell, de hát mit cisnáljak."
         },
         {
           "character": "mayor",
@@ -4008,7 +4125,8 @@
           "text@es": "Acabamos de recibir una respuesta.",
           "text@de": "Wir haben jedenfalls nur ein Angebot erhalten.",
           "text@fr": "Nous n'avons reçu qu'une seule offre.",
-          "text@sk": "Dostali sme len jednu ponuku."
+          "text@sk": "Dostali sme len jednu ponuku.",
+          "text@hu": "Csak egy ajánlatot kaptunk."
         },
         {
           "character": "mayor",
@@ -4016,7 +4134,8 @@
           "text@es": "Te dejo que la revises tú.",
           "text@de": "Sie können es gerne prüfen.",
           "text@fr": "Je vous laisse l'étudier.",
-          "text@sk": "Môžete si to prezrieť."
+          "text@sk": "Môžete si to prezrieť.",
+          "text@hu": "Nézd át."
         }
       ],
       "helper": [
@@ -4026,7 +4145,8 @@
           "text@es": "¡Piensa en mí cuando trabajes para Floriano!",
           "text@de": "Vergessen Sie mich nicht, wenn Sie für Meinhardt arbeiten.",
           "text@fr": "Ne m'oubliez pas quand vous travaillerez pour Guillory !",
-          "text@sk": "Myslite na mňa, keď budete robiť pre Gerbera!"
+          "text@sk": "Myslite na mňa, keď budete robiť pre Gerbera!",
+          "text@hu": "Majd gondolj rám amikor Böllérnek dolgozol."
         },
         {
           "character": "helper",
@@ -4034,7 +4154,8 @@
           "text@es": "No te vendría bien que se filtraran mis archivos a la red.",
           "text@de": "Es wäre nicht gut, wenn etwas aus meinem Archiv an die Öffentlichkeit käme.",
           "text@fr": "Il ne faudrait pas que mes archives atterissent chez Mediapart.",
-          "text@sk": "Nechceli by ste, aby obsah mojich archívov unikol na internet."
+          "text@sk": "Nechceli by ste, aby obsah mojich archívov unikol na internet.",
+          "text@hu": "Nem szeretnéd viszont látni a jegyzeteimet online, ügye?"
         }
       ],
       "choices": [
@@ -4043,8 +4164,9 @@
           "text@es": "Construcciones Floriano, S.L. ha hecho una oferta de 10 millones.",
           "text@de": "Das Angebot der Meinhardt Hoch- u. Tiefbau GmbH in Höhe von 10 Millionen annehmen.",
           "text@fr": "Guillory Construction SARL a fait une offre à 10 million.",
+          "text@hu": "A Böllér és Böllér Kft. tett egy 700 milliós ajánlatot.",
           "var_changes": {
-            "reserves": -10,
+            "reserves": -700,
             "risk_revolving_door": 20
           },
           "feedback": [
@@ -4054,7 +4176,8 @@
               "text@es": "Escojo a Construcciones Floriano, S.L.",
               "text@de": "Ich habe mich für das Angebot von Herrn Meinhardt entschieden.",
               "text@fr": "Je choisis Guillory Construction SARL.",
-              "text@sk": "Vyberám si Robert Construction."
+              "text@sk": "Vyberám si Robert Construction.",
+              "text@hu": "A Böllér és Böllér Kft. ajánlatát választom."
             }
           ],
           "text@sk": "Firma Robert Construction s.r.o. predložila ponuku na 10 miliónov."
@@ -4064,6 +4187,7 @@
           "text@es": "Escojes dejar el concurso desierto.",
           "text@de": "Den Auftrag nicht vergeben.",
           "text@fr": "Ne pas attribuer l'appel d'offre.",
+          "text@hu": "Nem ítélem oda a pályázatot senkinek.",
           "var_changes": {
             "risk_contractors": 20
           },
@@ -4074,7 +4198,8 @@
               "text@es": "No, no necesitamos una piscina.",
               "text@de": "Wir brauchen nicht noch ein Schwimmbad.",
               "text@fr": "Nous n'avons pas besoin d'une piscine en plus.",
-              "text@sk": "Nie, plaváreň nepotrebujeme."
+              "text@sk": "Nie, plaváreň nepotrebujeme.",
+              "text@hu": "Nem, nincs szükségünk úszómedencére."
             },
             {
               "character": "construction-boss",
@@ -4082,7 +4207,8 @@
               "text@es": "¡¿Qué narices?! 😤",
               "text@de": "Was??? 😤",
               "text@fr": "Quoi??? 😤",
-              "text@sk": "Čo to má znamenať? 😤"
+              "text@sk": "Čo to má znamenať? 😤",
+              "text@hu": "Mi a franc? 😤"
             },
             {
               "character": "construction-boss",
@@ -4090,7 +4216,8 @@
               "text@es": "¡Esto es demasiado!",
               "text@de": "Jetzt reicht’s !!",
               "text@fr": "C'est est trop !",
-              "text@sk": "To je ono!"
+              "text@sk": "To je ono!",
+              "text@hu": "Ennyi volt!"
             },
             {
               "character": "construction-boss",
@@ -4098,7 +4225,8 @@
               "text@es": "¡Te lo has buscado!",
               "text@de": "Du hast es verdient!",
               "text@fr": "Ça te pendait au nez !",
-              "text@sk": "Tak ti treba!"
+              "text@sk": "Tak ti treba!",
+              "text@hu": "Már régóta érik ez neked!"
             }
           ],
           "text@sk": "Rozhodnite sa, že zmluvu neudelíte žiadnemu uchádzačovi."
@@ -4118,7 +4246,8 @@
           "text@es": "Hemos conseguido un concurso para construir un parque.",
           "text@de": "Wir haben eine Ausschreibung für einen neuen Park veröffentlicht.",
           "text@fr": "Nous avons passé un appel d'offre pour un nouveau square.",
-          "text@sk": "Zorganizovali sme verejnú súťaž na stavbu nového parku."
+          "text@sk": "Zorganizovali sme verejnú súťaž na stavbu nového parku.",
+          "text@hu": "Kiírtunk egy közbeszerzést egy új parkra."
         },
         {
           "character": "mayor",
@@ -4126,7 +4255,8 @@
           "text@es": "Nuestro departamento de jardinería estima que el coste de las obras será de 500.000.",
           "text@de": "Das Amt für Parks und Grünflächen hat die Kosten auf ca. eine halbe Million geschätzt.",
           "text@fr": "Notre bureau d'études estime le coût des travaux à 500 000.",
-          "text@sk": "Naše oddelenie verejnej zelene odhadlo cenu prác na 6 miliónov."
+          "text@sk": "Naše oddelenie verejnej zelene odhadlo cenu prác na 6 miliónov.",
+          "text@hu": "A városfejlesztési osztály 50 millióra becsüli az árát."
         },
         {
           "character": "mayor",
@@ -4134,7 +4264,8 @@
           "text@es": "Hemos recibido tres ofertas. Escoje la mejor.",
           "text@de": "Wir haben drei Einreichungen erhalten. Wählen Sie das beste Angebot aus.",
           "text@fr": "Nous avons reçu 3 offres. Choissisez la meilleure.",
-          "text@sk": "Dostali sme tri ponuky. Vyberte tú najlepšiu."
+          "text@sk": "Dostali sme tri ponuky. Vyberte tú najlepšiu.",
+          "text@hu": "Három ajánlatot kaptunk. Válaszd ki a legjobbat."
         }
       ],
       "helper": [
@@ -4144,7 +4275,8 @@
           "text@es": "Mi [memo sobre cárteles |cartel] aún te sirve.",
           "text@de": "Mein [Dossier zum Kartell|cartel] ist noch immer aktuell.",
           "text@fr": "Mon [mémo sur les cartels|cartel] est toujours à jour.",
-          "text@sk": "Moja [poznámka o karteloch|cartel] je ešte čerstvá."
+          "text@sk": "Moja [poznámka o karteloch|cartel] je ešte čerstvá.",
+          "text@hu": "A [jegyzetem a kartellekről|cartels] még mindig aktuális."
         }
       ],
       "choices": [
@@ -4153,8 +4285,9 @@
           "text@es": "Construcciones Cemento ha hecho una oferta de 575.000.",
           "text@de": "Das Angebot der Betonbau GmbH liegt bei 575.000",
           "text@fr": "Grosbéton SARL a fait une offre à 575 000.",
+          "text@hu": "A Piac Építő Zrt. 55 milliós ajánlatot tett.",
           "var_changes": {
-            "reserves": -0.575,
+            "reserves": -55,
             "personal_account": 1000
           },
           "text@sk": "Firma Concrete Construction predložila ponuku na 575 000."
@@ -4164,8 +4297,9 @@
           "text@es": "Construcciones Floriano, S.L. ha hecho una oferta de 620.000.",
           "text@de": "Das Angebot der Meinhardt Hoch- u. Tiefbau GmbH liegt bei 600.000 .",
           "text@fr": "Guillory Construction SARL a fait une offre à 600 000.",
+          "text@hu": "A Böllér és Böllér Kft. 60 milliós ajánlatot tett.",
           "var_changes": {
-            "reserves": -0.6,
+            "reserves": -60,
             "risk_contractors": 1
           },
           "text@sk": "Firma Robert Construction s.r.o. predložila ponuku na 600 000. "
@@ -4175,8 +4309,9 @@
           "text@es": "Construcciones Eco-Prudencia ha hecho una oferta de 620.000.",
           "text@de": "Das Angebot der Eco- Sence Construction liegt bei 620.000",
           "text@fr": "Eco-Sense Construction a fait une offre à 620 000.",
+          "text@hu": "A Helios Kft. 62 milliós ajánlatot tett.",
           "var_changes": {
-            "reserves": -0.62,
+            "reserves": -62,
             "risk_contractors": 1
           },
           "text@sk": "Firma Eco-Sense Construction predložila ponuku na 620 000. "
@@ -4194,7 +4329,8 @@
       "text@es": "<h2>Estás despedido: ¡Has perdido!</h2><p>Has conseguido tener buenas relaciones con los contratistas y evitado a la policía, pero tus decisiones te han hecho muy impopular. El alcalde solicita un cambio en tu carrera. Ahora estás a cargo de recibir a invitados en el museo municipal. ¡Muy enriquecedor... culturalmente!</p>",
       "text@de": "<h2>Sie haben verloren!</h2><p>Sie haben zwar gute Beziehungen zur Industrie und zur Polizei aufgebaut, aber Ihre Entscheidungen haben Sie unbeliebt gemacht. Die Bürgermeisterin hat dafür gesorgt, dass Sie versetzt werden. Sie arbeiten jetzt an der Kasse des Städtischen Museums. Wie bereichernd!</p>",
       "text@fr": "<h2>Perdu: Vous êtes virée !</h2><p>Vous avez entretenu de bonnes relations avec les industriels et avec la police, mais vos choix vous ont rendu impopulaire. La maire exige que vous soyez mutée. Vous travaillez maintenant à l'accueil du musée municipal. C'est très enrichissant !</p>",
-      "text@sk": "<h2>Končíte - prehrali ste!</h2><p>Dokázali ste si udržať dobré vzťahy s dodávateľmi a neupozorniť na seba políciu, ale pre vaše rozhodnutia ste sa stali neobľúbenou postavou. Starostka vás dala preložiť.</p>"
+      "text@sk": "<h2>Končíte - prehrali ste!</h2><p>Dokázali ste si udržať dobré vzťahy s dodávateľmi a neupozorniť na seba políciu, ale pre vaše rozhodnutia ste sa stali neobľúbenou postavou. Starostka vás dala preložiť.</p>",
+      "text@hu": "<h2>Kirúgtak: Vesztettél!</h2><p> Jó kapcsolatban voltál a kivitelezőkkel és a rendőrséget is elkerülted, de a döntéseid miatt népszerűtlen lettél. A Polgármester karrierváltoztatást kért neked. Mostantól te üdvözlöd a vendégeket a városi múzeumban. Legalább kultúrában gazdag munka!</p>"
     },
     {
       "condition": {
@@ -4205,7 +4341,8 @@
       "text@es": "<h2>Te han pillado: ¡Has perdido!</h2><p>Conseguiste tener buenas relaciones con los contratistas y mantener tu popularidad. Le gustas al alcalde, pero la unidad anticorrupción te acusa de malversación de fondos públicos. Relájate, probablemente no irás a la cárcel, pero el alcalde te pide que dimitas.</p>",
       "text@de": "<h2>Sie haben verloren!</h2><p>Gegen Sie wurde ein Ermittlungsverfahren eingeleitet. Sie haben zwar gute Beziehungen zur Bürgermeisterin und zu den Industriellen aufgebaut, aber die Finanzbehörde ermittelt gegen Sie wegen Veruntreuung öffentlicher Gelder. Kein Grund zur Panik, Sie werden mit hoher Wahrscheinlichkeit nicht im Gefängnis landen. Aber die Bürgermeisterin verlangt Ihren Rücktritt.</p>",
       "text@fr": "<h2>Perdu: Vous êtes mise en examen !</h2><p>Vous avez entretenu de bonnes relations avec le maire et avec les industriels, mais un enquêteur du parquet financier vous inculpe dans une affaire de détournement de fonds publics. Pas de panique, vous n'irez sans doute pas en prison. Mais la maire exige votre démission.</p>",
-      "text@sk": "<h2>Máte po chlebe - prehrali ste!</h2><p>Dokázali ste si udržať dobré vzťahy s dodávateľmi a zachovať si popularitu. Starostka vás má rada, ale polícia vás obvinila zo sprenevery verejných prostriedkov. Nebojte sa, pravdepodobne neskončíte vo väzení, ale starostka žiada, aby ste odstúpili.</p>"
+      "text@sk": "<h2>Máte po chlebe - prehrali ste!</h2><p>Dokázali ste si udržať dobré vzťahy s dodávateľmi a zachovať si popularitu. Starostka vás má rada, ale polícia vás obvinila zo sprenevery verejných prostriedkov. Nebojte sa, pravdepodobne neskončíte vo väzení, ale starostka žiada, aby ste odstúpili.</p>",
+      "text@hu": "Elkaptak: Vesztettél!</h2><p>Jó kapcsolatban maradtál a kivitelezőkkel, és népszerű is maradtál. A Polgármester kedvel téged, de a korrupcióellenes hatóságok közpénz hűtlen kezelésével gyanúsítanak. Nyugi, valószínűleg nem kell börtönbe menned, de a Polgármester a lemondásodat követeli."
     },
     {
       "condition": {
@@ -4216,7 +4353,8 @@
       "text@es": "<h2>Cambio de carrera: ¡Has perdido!</h2><p>Los constructores le han dicho a la alcaldesa que no trabajarán contigo. Te han reubicado al Departamento de Parques y Jardines. ¡Es genial que por fin puedas trabajar en el exterior!</p>",
       "text@de": "<h2>Sie haben verloren!</h2><p> Sie haben zwar gute Beziehungen zur Bürgermeisterin und der Polizei aufgebaut, aber Ferdinand Meinhardt verlangt Ihren Rücktritt. Er sagt, mit Ihnen könne man einfach nicht zusammenarbeiten. Die Bürgermeisterin hat sie in das Grünflächenamt versetzt. Wie schön, an der frischen Luft arbeiten zu dürfen!</p>",
       "text@fr": "<h2>Perdu: Vous changez de poste !</h2><p>Vous avez entretenu de bonnes relations avec le maire et avec la police, mais Guillory réclame votre départ. Il dit qu'il ne peut pas travailler avec vous. La maire vous mute aux Parcs et Jardins. Quelle joie de travailler au grand air !</p>",
-      "text@sk": "<h2>Nové pracovné miesto - prehrali ste!</h2><p>Dodávatelia oznámili kancelárii starostky, že sa s vami nedá pracovať. Preložili vás na oddelenie verejnej zelene. Budete tráviť veľa času na čerstvom vzduchu. Nie je to skvelé?</p>"
+      "text@sk": "<h2>Nové pracovné miesto - prehrali ste!</h2><p>Dodávatelia oznámili kancelárii starostky, že sa s vami nedá pracovať. Preložili vás na oddelenie verejnej zelene. Budete tráviť veľa času na čerstvom vzduchu. Nie je to skvelé?</p>",
+      "text@hu": "Karrierváltás: Vesztettél!</h2><p>A kivitelezők azt mondták a Polgármesternek, hogy nem tudnak többet veled dolgozni. Átkerülsz a Városfejlesztési osztályra. De jó, hogy végre a szabadban dolgozhatsz!</p>"
     },
     {
       "condition": {
@@ -4227,14 +4365,16 @@
       "text@es": "<h2>Nueva carrera: ¡Has ganado!</h2><p>Construcciones Floriano, S.L. te hace una oferta que no puedes rechazar, aunque sólo sea para garantizar el bienestar financiero de tu esposa e hijos. ¡Adiós sector público!¡Hola negocios!</p>",
       "text@de": "<h2>Sie haben gewonnen!</h2><p> Sie machen Karriere! Ferdi Meinhardt macht Ihnen ein Angebot, das Sie nicht ausschlagen können. Tschüss, öffentlicher Sektor! Und: Hallo, Privatwirtschaft!</p>",
       "text@fr": "<h2>Gagné: Nouvelle carrière !</h2><p>Cyril Guillory vous fait une proposition qui ne se refuse pas. Au revoir, secteur public! Bonjour, secteur privé !</p>",
-      "text@sk": "<h2>Nová práca - vyhrali ste!</h2><p>Robert Construction s.r.o. Vám dá ponuku, ktorá sa neodmieta. Budete môcť finančne zabezpečiť svoju rodinu. Zbohom verejný sektor! Vitaj biznis!</p>"
+      "text@sk": "<h2>Nová práca - vyhrali ste!</h2><p>Robert Construction s.r.o. Vám dá ponuku, ktorá sa neodmieta. Budete môcť finančne zabezpečiť svoju rodinu. Zbohom verejný sektor! Vitaj biznis!</p>",
+      "text@hu": "<h2>Új karrier: Nyertél!</h2><p>Olyan ajánlatot kaptál Böllér Lőrinctől amit nem utasíthatsz vissza, már csak azért sem, mert így garantálhatod a házastársad és gyerekeid jólétét. Viszlát állami szektor, helló biznisz!</p>"
     },
     {
       "text@en": "<h2>Celebrating 20 years</h2><p>How time flies! 20 years already! In just another 20, you can be in retirement.</p>",
       "text@es": "<h2>!20 años de servicio!</h2><p>¡Cómo pasa el tiempo!¡20 años ya! En 20 años más podrás retirarte.</p>",
       "text@de": "<h2>20-jähriges Dienstjubiläum! </h2><p>Wie schnell die Zeit vergeht! Sie sind nun schon seit 20 Jahren im Amt. Nur noch 20 weitere Jahre bis zur Rente! Herzlichen Glückwunsch.</p>",
       "text@fr": "<h2>Déjà 20 ans de carrière</h2><p>Comme le temps passe ! Déjà 20 ans à ce poste. Encore 20 ans et vous pourrez prendre votre retraite.</p>",
-      "text@sk": "<h2>Oslava 20. výročia</h2><p>Ako ten čas letí! Na tomto mieste ste už 20 rokov! A už o ďalších 20 budete môcť odísť do dôchodku.</p>"
+      "text@sk": "<h2>Oslava 20. výročia</h2><p>Ako ten čas letí! Na tomto mieste ste už 20 rokov! A už o ďalších 20 budete môcť odísť do dôchodku.</p>",
+      "text@hu": "<h2>A huszadik évfordulód</h2><p>Hogy repül az idő! Már 20 év eltelt! Még egy huszas és mehetsz is nyugdíjba.</p>"
     }
   ],
   "explainers": {
@@ -4243,22 +4383,27 @@
       "title@es": "¿Cómo detectar un cartel?",
       "title@de": "Was sind die Merkmale eines Kartells?",
       "title@fr": "Comment détecter un cartel ?",
+      "title@hu": "Hogyan ismerjük fel egy kartellt?",
       "body@en": "Cartels appear when contractors coordinate their offers. You can spot it when the prices of the offers to a public tender are close to one another.<br><br>Contractors agree who will have the lowest price and win the bid. The winner then pays off other members of the cartel.<br><br>Sometimes, a contractor leaves the cartel and makes a lower offer. It can be dangerous.",
       "body@es": "Los carteles se crean cuando los contratistas pactan sus ofertas. Puedes darte cuenta de ello porque las ofertas suelen estar muy cercanas entre sí.<br><br>Los contratistas se ponen de acuerdo sobre quién ofrecerá el precio más bajo y ganará la oferta. El ganador paga reparte el dinero entre los otros miembros del cartel.<br><br>A veces, un contratista deja el cartel y hace una oferta aun más baja.",
       "body@de": "Kartelle entstehen, wenn Auftragnehmer ihre Angebot koordinieren. Sollten sich die Preise der Angebote stark ähneln, kann dies ein Hinweis auf eventuelle Absprachen der Unternehmen sein.<br><br>Die Auftragnehmer handeln gemeinsam aus, wer das günstigste Angebot abgeben wird. Der Auftragnehmer, der den Zuschlag erhält, zahlt dann einen Teil des Gewinns an die übrigen Mitglieder des Kartells.<br><br> Es kann jedoch auch vorkommen, dass ein Auftragnehmer das Kartell verlässt und dem Auftraggeber ein günstigeres Angebot unterbreitet. Das kann dann gefährlich werden.",
       "body@fr": "Un cartel apparait quand les candidats à un appel d'offre s'entendent entre eux. Vous pouvez les détecter si les prix des offres se suivent et sont proches les uns des autres.<br><br>Les industriels peuvent s'entendre sur celui qui proposera le prix le plus bas et gagnera l'appel d'offre. Le gagnant paye ensuite les autres membres du cartel. Le cartel fait une rotation entre les entreprises, afin que chaque membre du cartel gagne un peu.<br><br>Parfois, un des membres du cartels fait cavalier seul et fait une offre plus basse. Ça devient dangereux pour lui.",
       "title@sk": "Ako rozoznáme kartel?",
-      "body@sk": "Kartel vzniká, keď uchádzači navzájom zosúladia svoje ponuky. Spoznáte to podľa toho, že uchádzači v tendri ponúkajú veľmi podobné ceny.<br><br>Uchádzači sa dohodnú, kto predloží najnižšiu ponuku a súťaž vyhrá. Víťaz potom vyplatí ostatných členov kartelu.<br><br>Niektorý z uchádzačov sa niekedy rozhodne porušiť kartelovú dohodu a predloží nižšiu ponuku. To môže byť nebezpečné."
+      "body@sk": "Kartel vzniká, keď uchádzači navzájom zosúladia svoje ponuky. Spoznáte to podľa toho, že uchádzači v tendri ponúkajú veľmi podobné ceny.<br><br>Uchádzači sa dohodnú, kto predloží najnižšiu ponuku a súťaž vyhrá. Víťaz potom vyplatí ostatných členov kartelu.<br><br>Niektorý z uchádzačov sa niekedy rozhodne porušiť kartelovú dohodu a predloží nižšiu ponuku. To môže byť nebezpečné.",
+      "body@hu": "A kartellezés azt jelenti, amikor több kivitelező összekoordinálja az ajánlatát. Úgy tudod kiszúrni, ha egy közbeszerzésre tett ajánlatok ára nagyon közel vannak egymáshoz."
+      
     },
     "gifts": {
       "title@en": "How to react to gifts?",
       "title@es": "¿Cómo reaccionar ante un regalo?",
       "title@de": "Zum Verhalten bei Geschenken",
       "title@fr": "Comment réagir aux cadeaux ?",
+      "title@hu": "Hogy kezeljük az ajándékokat?",
       "body@en": "Public officials are usually prohibited from accepting gifts above a certain value (€50 at the European Commission, for instance). However, you can accept the gift if it is intended for you as a private person, or for your spouse. By refusing a gift, you risk angering the person who made it.",
       "body@es": "Normalmente se prohíbe que los funcionarios públicos puedan aceptar regalos por encima de un determinado valor (en la Comisión Europea es de 50€, por ejemplo). Sin embargo, puedes aceptar un regalo si es para ti a nivel personal -o para tu cónyuge. Si rechazas un regalo, corres el riesgo de hacer enfadar a la persona que te lo ha hecho.",
       "body@de": "Beamten ist es normalerweise verboten, Geschenke oberhalb eines bestimmten Grenzwertes anzunehmen (bei der europäischen Kommission etwa liegt dieser Wert bei 50€). Das heißt, es ist erlaubt ein Geschenk anzunehmen, das an Sie als Privatperson oder an Ihren Lebenspartner adressiert ist. Wenn Sie einen Geschenk ablehnen, kann es den Geschenkgeber ärgern.",
       "body@fr": "Les fonctionnaires n'ont généralement pas le droit d'accepter des cadeaux au delà d'un certain seuil (50€ à la Commission Européenne, par exemple). Cela dit, vous pouvez accepter le cadeau s'il vous est adressé à vous personnellement, et non pas à vous en tant que fonctionnaire. Ou bien s'il est fait à votre partenaire. En refusant un cadeau, vous prenez le risque d'offenser celui qui vous l'offre.",
+      "body@hu": "A közszolgák általában nem fogadhatnak el ajándékokat egy adott ár fölött (pl. €50 az Európai Bizottságban). Ugyanakkor, ha mint magánszemély kapod, vagy a házastársadnak szánják elfogadhatod az ajándékot. Az ajándék visszautasításával azt kockáztatod, hogy felidegesíted azt aki adta volna.",
       "title@sk": "Ako reagovať na dary?",
       "body@sk": "\"Úradníci verejnej správy väčšinou nesmú prijímať dary v hodnote presahujúcej určitú sumu (napr. v Európskej komisii je to 50 eur). Môžete však prijať dar, ak je určený vám ako súkromnej osobe, alebo vašej manželke či manželovi. Ak dar odmietnete, riskujete, že sa darca nahnevá. \""
     },
@@ -4267,10 +4412,12 @@
       "title@es": "¿Cómo se organiza un soborno?",
       "title@de": "Bestechungen",
       "title@fr": "Comment organiser des pots-de-vin ?",
+      "title@hu": "Hogy tudod megszervezni a vesztegetést?",
       "body@en": "Bribery is not as common in Europe as in other parts of the world, but it is rampant is some sectors. In public housing, some officials ask for enveloppes of money to be given directly. For car inspection, some service centers will be pleased if you leave a gift or bills of cash on the passenger seat.<br><br>Read more under <a href='http://www.cookingbudgets.com/good-ol-bribe/' target='_blank'>A Good Ol' Bribe</a> at Cooking Budgets.",
       "body@es": "Los sobornos en Europa no son tan comunes como en otras partes del mundo, pero están al alza en algunos sectores. En la vivienda pública, algunos funcionarios piden recibir directamente dinero en efectivo para adjudicar un piso. En las inspecciones de vehículos, algunos centros estarán encantados si les dejas un regalo o unos billetes en el asiento del pasahero. Lee más en: <a href='http://www.cookingbudgets.com/good-ol-bribe/' target='_blank'>A Good Ol' Bribe</a> at Cooking Budgets.",
       "body@de": "In Europa ist Bestechung nicht so weit verbreitet wie in anderen Regionen der Welt, mit Ausnahme bestimmter Bereiche. Im sozialen Wohungsbau oder bei Fahrzeuguntersuchungen sind Bestechungen durchaus üblich.<br><br>Mehr zum Thema erfahren Sie unter <a href='http://www.cookingbudgets.com/good-ol-bribe/' target='_blank'>A Good Ol' Bribe</a> von Cooking Budgets.",
       "body@fr": "Les bakchichs ne sont pas aussi fréquents en Europe que dans d'autres régions du monde, à l'exception de certains secteurs. Pour déterminer qui obtient un logement social, certains fonctionnaires n'hésitent pas à demander des enveloppes d'argent de la main à la main. Pour passer le contrôle technique automobile, certains centres de contrôle ferment les yeux en échange d'un cadeau sur le siège passager.<br><br>Lisez <a href='http://www.cookingbudgets.com/good-ol-bribe/' target='_blank'>A Good Ol' Bribe</a> [en anglais] sur Cooking Budgets pour en savoir plus.",
+      "body@hu": "A vesztegetés nem olyan elterjedt Európában, mint a világ más részein, de néhány szektorban már így is elburjánzott. Önkormányzati lakásoknál például sokszor pénzzel teli boritékokat kérnek a hivatalnokok. Autóvizsgáztatásnál is örülnek, ha egy kis ajándékot vagy pénzt hagysz az anyósülésen.<br><br>Olvass utána a <a href='http://k-monitor.hu/bejelento/vesztegetes' target='_blank'>K-Monitor oldalán.</a>"
       "title@sk": "Ako fungujú úplatky?",
       "body@sk": "Podplácanie sa v Európe nevyskytuje tak často ako v iných častiach sveta, ale v niektorých sektoroch je rozšírené. V oblasti sociálneho bývania si niektorí úradníci rovno vypýtajú obálku s peniazmi. Niektoré autoopravovne sa pri prehliadke auta potešia, keď na sedadle necháte darček alebo hotovosť."
     },
@@ -4279,10 +4426,12 @@
       "title@es": "Detectar corruptelas en operaciones inmobiliarias",
       "title@de": "Korruption bei Grundstücksverkäufen",
       "title@fr": "La corruption dans les ventes immobilières",
+      "title@hu": "Hogy ismerjük fel a korrupciót a földeladásokban?",
       "body@en": "Cities often own large plots of land. They can either sell them at market prices or at lower prices, to make a gift to the buyer. It is usually hard to spot such transactions, because there isn't much of a market for big sales of land in a city.",
       "body@es": "Las ciudades a menudo poseen grandes terrenos. Pueden venderlos a precio de mercado o a un precio más bajo, para hacer un favor al comprador. Por lo general, es complejo detectar estas transacciones, porque no hay mucho espacio para grandes ventas de terrenos en una ciudad.",
       "body@de": "Städte sind häufig im Besitz großer Grundstücke und Immobilien. Diese können zu Marktpreisen verkauft werden oder aber zu günstigeren Konditionen, etwa um für potentielle Käufer zusätzliche Anreize zu schaffen. Solche Gefallen sind äußerst schwierig aufzudecken, denn häufig gibt es gar keinen Markt für zumeist große Gebäude oder Grundstücke im Stadtzentrum. Es fällt daher entsprechend schwer den Marktpreis zu bestimmen.",
       "body@fr": "Les villes possèdent souvent des terrains et des immeubles. Ces biens peuvent être vendus au prix du marché ou à des prix plus bas, pour faire un cadeau à l'acheteur. Il est fort difficile d'identifier ces transactions frauduleuses car, le plus souvent, il n'existe pas vraiment de marché pour un immeuble entier ou un grand terrain en centre ville.",
+      "body@hu": "Sokszor vannak nagy földterületek a városok tulajdonában. Ezeket vagy eladják piaci áron, vagy alacsonyabban, hogy kedvezzenek a vásárlónak. Általában nehéz kiszúrni egy ilyen tranzakciót, mert nincs nagy piaca a földvásárlásnak a városokban.",
       "title@sk": "Ako rozoznať korupciu pri predaji pôdy?",
       "body@sk": "Mestá často vlastnia rozsiahle pozemky. Môžu ich predať za trhovú cenu alebo za menej, napríklad ako dar kupujúcemu. Takéto transakcie je väčšinou ťažké odhaliť, pretože trh s veľkými pozemkami v meste nebýva veľmi rozvinutý."
     },
@@ -4291,10 +4440,12 @@
       "title@es": "Conflictos de interés",
       "title@de": "Interessenkonflikt",
       "title@fr": "Conflits d'intérêts",
+      "title@hu": "Összeférhetetlenség",
       "body@en": "People in politics or in the administration can own companies that receive public contracts. In some countries, it is forbidden for companies owned by public servants or politiciants to receive money from public contracts.",
       "body@es": "Quienes trabajan en política o en la administración pública pueden poseer compañías que reciban contratos públicos. En algunos países, sin embargo, está prohibido que participen en licitaciones públicas.",
       "body@de": "Beamte und Politiker können Firmen besitzen, die von öffentlichen Ausschreibungen profitieren. In bestimmten Ländern ist es zwar verboten, dass eine Firma, die einem Politiker gehört, öffentliche Aufträge annimmt. Das kann jedoch mit Hilfe einer Strohfirma recht einfach umgangen werden.",
       "body@fr": "Des élus ou des fonctionnaires peuvent posséder des entreprises qui bénéficient de contrats publics. Dans certains pays, ce mélange des genres est interdit, mais le bénéficiaire final d'une société peut toujours être masqué par un prête-nom ou par une société-écran.",
+      "body@hu": "A politikusoknak és kormánytagoknak lehetnek olyan cégeik, amelyek nyerhetnek közbeszerzéseken. Néhány országban az ilyen cégek nem is kaphatnak pénzt a közbeszerzésekből.",
       "title@sk": "Konflikt záujmov",
       "body@sk": "Ľudia pôsobiaci v politike alebo vo verejnej správe môžu vlastniť firmy, ktoré získavajú štátne zákazky. V niektorých krajinách sa nesmú financie z verejných zákaziek prideľovať spoločnostiam, ktoré vlastnia zamestnanci verejnej správy alebo politici."
     },
@@ -4303,10 +4454,12 @@
       "title@es": "Utilizar la tarjeta de crédito oficial",
       "title@de": "Kreditkarten im öffentlichen Sektor",
       "title@fr": "Utiliser la carte bleue officielle",
+      "title@hu": "A hivatalos hitelkártya használata",
       "body@en": "It can be tempting to use the credit card of the city or the government to buy stuff for you. Because it's very easy to trace, it can be dangerous!<br><br>Read more under <a href='http://www.cookingbudgets.com/the-credit-card/' target='_blank'>The Credit Card</a> at Cooking Budgets.",
       "body@es": "Puede ser tentador utilizar la tarjeta de crédito de la ciudad o del gobierno para compras personales. Pero es muy peligroso, ya que es deja siempre un rastro. Lee más en <a href='http://www.cookingbudgets.com/the-credit-card/' target='_blank'>The Credit Card</a> en Cooking Budgets. ",
       "body@de": "Eine Kreditkarte, die direkt mit der Staatskasse verbunden ist, kann schon verführerisch sein. Da aber die damit getätigten Einkäufe sehr leicht nachverfolgt werden können, birgt sie auch ihre Gefahren!<br><br>Mehr zum Thema finden Sie unter <a href='http://www.cookingbudgets.com/the-credit-card/' target='_blank'>The Credit Card</a> von Cooking Budgets.",
       "body@fr": "On peut être tenté d'utiliser la carte bleue de sa mairie ou de son gouvernement pour faire ses courses. Mais comme les dépenses en carte sont très faciles à tracer, cela peut être dangereux!<br><br>Lisez <a href='http://www.cookingbudgets.com/the-credit-card/' target='_blank'>The Credit Card</a> [en anglais] sur Cooking Budgets pour en savoir plus.",
+      "body@hu": "Csábító lehet, hogy a város hitelkártyájára vásárolj magadnak dolgokat. Mivel nagyon könnyű nyomonkövetni, ez veszélyes lehet!Érdekel egy ehhez kapcsolódó sztori, angolul? <br><br>Olvass utána a <a href='http://www.cookingbudgets.com/the-credit-card/' target='_blank'>bankkártya-használatnak</a> a Cooking Budgets-en.",
       "title@sk": "Používanie služobnej kreditnej karty",
       "body@sk": "Myšlienka používania mestskej alebo štátnej kreditnej karty na vlastné nákupy môže byť lákavá. Keďže sa však tieto transakcie dajú veľmi ľahko vypátrať, môže to byť riskantné."
     },
@@ -4327,10 +4480,12 @@
       "title@es": "Alquilar espacio público para empresas privadas",
       "title@de": "Die Vermietung öffentlicher Immobilien",
       "title@fr": "Louer des biens publics à des sociétés privées",
+      "title@hu": "Köztulajdon kiadása magáncégeknek", 
       "body@en": "The easiest way to support a private company for a politician is to buy their building with public funds and rent it back to the company at a low price. The operation is hard to trace and fully legal.<br><br>Read more under <a href='http://www.cookingbudgets.com/the-emphyteutic-scam/' target='_blank'>The Emphyteutic Scam</a> at Cooking Budgets.",
       "body@es": "La forma más fácil que tiene un político de ayudar una empresa privada es comprar sus edificios con fondos públicos y volver a alquilárselos a un precio más bajo. La operación es difícil de rastrear y totalmente legal. Lee más en <a href='http://www.cookingbudgets.com/the-emphyteutic-scam/' target='_blank'>The Emphyteutic Scam</a> en Cooking Budgets.  ",
       "body@de": "Der einfachste Weg für einen Politiker, eine private Firma zu unterstützen ist, eines ihrer Gebäude zu kaufen, und es anschließend an sie zu vermieten. Solche Operationen sind schwer nach zu verfolgen und völlig legal.<br><br>Mehr zum Thema finden Sie unter <a href='http://www.cookingbudgets.com/the-emphyteutic-scam/' target='_blank'>The Emphyteutic Scam</a> von Cooking Budgets.",
       "body@fr": "L'une des manières les plus simples pour un élu ou un fonctionnaire de subventionner une société privée est de lui acheter un bien immobilier puis de la lui louer à un très bas prix. L'opération est complexe à tracer et complètement légale.<br><br>Lisez <a href='http://www.cookingbudgets.com/the-emphyteutic-scam/' target='_blank'>The Emphyteutic Scam</a> [en anglais] sur Cooking Budgets pour en savoir plus.",
+      "body@hu": "A legkönnyebb módja a magáncégek támogatásának, ha a közpénzből megveszik az épületüket, amit a cég alacsony áron visszabérel. Nagyon nehéz nyomonkövetni és teljesen legális.Érdekel egy példa erre (angolul)? <br><br>Olvass utána a <a href='http://www.cookingbudgets.com/the-emphyteutic-scam/' target='_blank'>az ingatlanmutyiknak</a> a Cooking Budgets-en.",
       "title@sk": "Prenajímanie verejných priestorov súkromným firmám",
       "body@sk": "Politik môže najľahšie podporiť súkromnú spoločnosť tak, že jej budovu kúpi za verejné prostriedky a potom ju spoločnosti znovu lacno prenajme. Takúto operáciu je ťažké vysledovať a je plne v súlade so zákonom."
     },
@@ -4339,10 +4494,12 @@
       "title@es": "Contratos públicos falsos",
       "title@de": "Scheinaufträge",
       "title@fr": "Les faux contrats publics",
+      "title@hu": "Hamis közbeszerzések",
       "body@en": "It can happen that contracts are passed to renovate a place or a road that does not exist. It can be risky, because it is easy to prove the contract is bogus.<br><br>Read more under <a href='http://www.cookingbudgets.com/the-invisible-public-work/' target='_blank'>The Invisible Public Work</a> at Cooking Budgets.",
       "body@es": "Puede ocurrir que se convoquen licitaciones para renovar una plaza o una calle que no existen. Es arriesgado, porque es fácil demostrar que el contrato es falso. <br><br>Lee más en  <a href='http://www.cookingbudgets.com/the-invisible-public-work/' target='_blank'>The Invisible Public Work</a>en Cooking Budgets. ",
       "body@de": "Manchmal kommt es vor, dass Aufträge vergeben werden, um nicht-existierende Straßen zu renovieren oder eine Software zu aktualisieren, die gar nicht genutzt wird. Das ist jedoch ausnahmsweise recht leicht nachzuweisen und daher riskant.<br><br>Mehr zum Thema finden Sie unter <a href='http://www.cookingbudgets.com/the-invisible-public-work/' target='_blank'>The Invisible Public Work</a> von Cooking Budgets.",
       "body@fr": "Il arrive parfois que des administrations passent des appels d'offres pour rénover des routes qui n'existent pas ou pour mettre à jour des logiciels fantômes. C'est risqué, car il est facile de prouver que le contrat est un faux.<br><br>Lisez <a href='http://www.cookingbudgets.com/the-invisible-public-work/' target='_blank'>The Invisible Public Work</a> [en anglais] sur Cooking Budgets pour en savoir plus.",
+      "body@hu": "Megtörténhet, hogy olyan helyek vagy utak felújítására írnak ki közbeszerzést, ami nem is létezik. Kockázatos lehet, mert könnyű bebizonyítani, hogy hamis a szerződés.Érdekel, milyen mutyik zajlanak a magyar közbeszerzésekkel?<br><br>Olvass utána <a href='http://k-monitor.hu/adatbazis/cimkek/kozbeszerzes' target='_blank'>a közbeszerzések címke alatt</a> a K-Monitor adatbázisában.",
       "title@sk": "Fingované verejné zákazky",
       "body@sk": "Môže sa stať, že sa uzatvorí zmluva na renováciu určitého miesta alebo cesty, ktorá neexistuje. Takýto postup je riskantný, pretože je ľahké dokázať, že zmluva je fingovaná."
     },
@@ -4351,10 +4508,12 @@
       "title@es": "Asociación público-privada",
       "title@de": "Öffentlich-Private Partnerschaften",
       "title@fr": "Les partenariats public-privé",
+      "title@hu": "PPP - Köz- és magánegyüttműködés",
       "body@en": "Since the 1980's, it is popular for public administrations to do public-private partnerships. Such partnerships involve a private company doing some of the work, usually building a equipment or operating it, while the administration contributes to the costs. In exchange, the private company can keep the revenues of the equipment it built.<br><br>The goal was to allow public administrations to provide public services without spending much money. In practice, private companies take almost no risks with such contracts and public administrations end up paying as much as they would have without the partnership. But it is usually hidden in the accounts of the public administration.<br><br>Read more under <a href='http://www.cookingbudgets.com/the-public-private-partnership/' target='_blank'>The Public-Private Partnership</a> at Cooking Budgets.",
       "body@es": "Desde los años '80 es común ver asociaciones público-privadas. Este tipo de colaboración suele implicar que la compañía privada hace una parte del trabajo, como construir equipamiento o gestionarlo, mientras la administración se encarga de los costes. En cambio, la empresa privada se queda con los beneficios de lo que ha construido o de lo que gestiona. El objetivo original era de permitir que las administraciones públicas ofrecieran servicios públicos sin gastar dinero. En la práctica, las empresas privadas no asumen ningún riego en este tipo de contratos, mientras la administración acaba pagando lo mismo que habría pagado sin la asociación. Pero todo suele quedar escondido en las cuentas públicas. Lee más en <a href='http://www.cookingbudgets.com/the-public-private-partnership/' target='_blank'>The Public-Private Partnership</a> en Cooking Budgets. ",
       "body@de": "Seit den 80er-Jahren sind die sogenannten Öffentlich-Private Partnerschaften (ÖPP) in Mode. Dahinter steckt die Idee, dass private Firmen die Kosten und das Risiko eines Projekts mit dem öffentlichen Sektor teilen. Dafür bekommen die Firmen einen Teil der Einnahmen des Projekts zurückerstattet.<br><br> Das Ziel dabei ist, dass der öffentliche Sektor ohne finanziellen Mehraufwand höhere Investitionen tätigen kann. Tatsächlich gehen private Firmen aber ohnehin fast kein Risiko ein, weil sie vom öffentlichen Sektor entsprechende Garantien verlangen. Im Endeffekt zahlt der öffentliche Sektor daher oft mehr als er ohne die ÖPP gezahlt hätte.<br><br>Mehr zum Thema finden Sie unter <a href='http://www.cookingbudgets.com/the-public-private-partnership/' target='_blank'>The Public-Private Partnership</a> von Cooking Budgets.",
       "body@fr": "Depuis les années 1980, les partenariats public-privé sont à la mode. Un tel partenariat implique qu'une société privée réalise un investissement, en général la construction d'un équipement public (route, stade, pont). En échange, la société privée peut garder tout ou partie des revenus d'exploitation de l'équipement.<br><br>L'objectif était que les administrations puissent investir dans de nouveaux équipements sans rien payer. En réalité, les administrations s'engagent souvent à payer un loyer à la société privée, dont le montant total dépasse la valeur de l'investissement ! Comme ces loyers sont étalés dans le temps, on ne voit pas que le partenariat public-privé a en fait coûté plus cher à la collectivité qu'un investissement traditionnel.<br><br>Lisez <a href='http://www.cookingbudgets.com/the-public-private-partnership/' target='_blank'>The Public-Private Partnership</a> [en anglais] sur Cooking Budgets pour en savoir plus.",
+      "body@hu": "Az 1980-as évektől egyre divatosabbá váltak a PPP-k. Ezek a megállapodások általában magukban foglalnak egy magáncéget, ami elvégzi a munka egy részét (általában megépít egy eszközt, vagy működteti azt) miközben a kormányzat hozzájárul a kiadásokhoz. Cserébe, a magáncég megtarthatja az eszköz bevételeit.<br><br> A cél az volt, hogy az önkormányzatok el tudják látni a közszolgálatot anélkül, hogy túl sokat költsenek. A gyakorlatban a magáncégeknek semmi kockázat nincs egy ilyen megállapodásban, és az önkormányzatok annyit fizetnek, mint a megállapodás nélkül. De ezeket általában elrejtik a könyvelésben.Érdekelnek magyar PPP-esetek?<br><br>Keress rá a <a href='http://k-monitor.hu/adatbazis/cimkek/ppp' target='_blank'>PPP címkére</a> a K-Monitor adatbázisában.",
       "title@sk": "Verejno-súkromné partnerstvá (PPP projekty)",
       "body@sk": "PPP projekty (Public Private Partnership, teda verejno-súkromné partnerstvá) sú vo svete populárne od 80. rokov minulého storočia. V rámci takýchto partnerstiev vykonáva súkromná firma určitú činnosť (väčšinou postaví alebo prevádzkuje určité zariadenie a orgán verejnej správy prispieva na náklady). Za to si súkromná firma ponecháva príjem zo zariadenia, ktoré vybudovala.<br><br>Cieľom takýchto partnerstiev bolo umožniť verejným správam poskytovať verejné služby bez toho, aby im vznikli vysoké náklady. V praxi takéto zmluvy znamenajú pre súkromné spoločnosti minimálne riziko a verejné správy nakoniec zaplatia takmer toľko, ako by vynaložili bez partnerstva. To sa však väčšinou stratí v účtovníctve verejnej správy."
     },
@@ -4363,6 +4522,7 @@
       "title@es": "Desregulación y privatización",
       "title@de": "Liberalisierung und Privatisierung",
       "title@fr": "Libéralisation et privatisation",
+      "title@hu": "Dereguláció és privatizáció",
       "body@en": "Public administrations have transfered a lot of their competencies to private companies, either via public-private partnerships or via deregulation. It offers a lot of opportunities for conflicts of interests.<br><br>It is hard to know how much a service costs to the city because it can involve people from different departments (e.g some municipal employees can work for the trash collection one day and for another department the next). To do such estimates would require analytical accounting, which cities rarely do.",
       "body@es": "Las administraciones públicas han transferido muchas de sus competencias a empresas privadas, ya sea a través de asociaciones público-privadas o mediante la desregulación. Esto abre la puesta a mucho conflictos de intereses. Es difícil saber cuánto un servicio cuesta a una ciudad por el hecho de involucrar a personas de diferentes departamentos (por ejemplo, algunos empleados municipales pueden trabajar en la recogida de basura un día y por otro departamente el siguiente). Para hacer este cálculo harían falta analizar a fondo las cuentas, cosas que los ayuntamientos rara vez hacen.",
       "body@de": "Die Regierungen haben viele Kompetenzen an private Unternehmen übertragen, sei es durch öffentlich-private Partnerschaften oder durch das Outsourcing von Dienstleistungen. Doch jede Interaktion mit einem privaten Unternehmen birgt die Gefahr von Interessenkonflikten.<br><br>Es ist äußerst schwierig für die Städtische Verwaltung herauszufinden wie viel eine Dienstleistung kostet und ob die von den privaten Dienstleitern in Rechnung gestellten Kosten angemessen sind. Präzise Kalkulationen setzen eine analytische Buchführung voraus, die von den Städten nur selten durchgeführt wird.",
@@ -4375,22 +4535,27 @@
       "title@es": "La letra pequeña de los contratos públicos",
       "title@de": "Das Kleingedruckte",
       "title@fr": "Le détail des contrats publics",
+      "title@hu": "A közbeszerzések apróbetűs része",
       "body@en": "Building contracts usually involve a series of clauses, such as penalties for delays. However, the client (in this case, the city) must activate the clause, or, if the contractor refuses to pay, take it to court. Legal teams are used to such situations, but for a small administration, or in case of politically sensitive issues, it is easy to ignore some clauses in the contract.",
       "body@es": "Los contratos de construcción generalmente incluyen una serie de cláusulas, como por ejemplo las sanciones por retrasos. Sin embargo, el cliente (en este caso, la ciudad) debe activar la cláusula, o, si el contratista se niega a pagar, llevarle a juicio. Los equipos legales están acostumbrados a estas situaciones, pero para una administración pequeña, o en caso de asuntos políticamente delicados, es fácil ignorar algunos detalles del contrato.",
       "body@de": "Bauverträge enthalten normalerweise eine Vielzahl von Klauseln, wie z.B. den Verspätungszuschlag. Der Auftraggeber (in diesem Fall, die Stadt) sollte diese Klausel berücksichtigen und wenn der Auftragnehmer nicht zahlt, einen entsprechenden Prozess anstreben. Rechtsabteilungen von privaten Firmen sind an das Prozedere gewöhnt, aber kleineren Städten fehlen häufig die Ressourcen für eine Schadensersatzklage. Auch im Fall politisch sensibler Themen ist eine Klage häufig zu riskant und das Anliegen wird lieber unter den Tisch gekehrt.",
       "body@fr": "Les contrats de construction publique ont en général de nombreuses clauses, comme des pénalités de retard. Pour qu'elles prennent effet, le client (en l'occurence, la ville), doit activer la clause, ou, si l'industriel refuse de payer, l'assigner en justice. Ces situations sont normales pour des équipes de juristes aguérris, mais, pour des petites villes, ou sur des sujets politiquement sensibles, il est plus facile de les ignorer.",
+      "body@hu": "A közbeszerzésekben sok kikötés van, például késedelmi kötbér. Viszont a kliensnek (ez esetben a város) kell a kötbérezési folyamatot elindítania, vagy, ha a kivitelező nem fizet bíróságra vinnie az ügyet. Ezeket jogi csoportokon keresztül intézik, de egy kisebb önkormányzatnak vagy politikailag érzékeny ügyekben nagyon könnyű figyelmen kívül hagyni ezeket.",
       "title@sk": "Drobné písmo vo verejných zákazkach",
-      "body@sk": "Stavebné zmluvy zvyčajne obsahujú viacero doložiek, napríklad o úrokoch z omeškania. Túto doložku však musí aktivovať klient (v tomto prípade mesto), alebo, ak dodávateľ odmietne zaplatiť, musí dať vec na súd. Právnici sú na takéto situácie zvyknutí, ale ľahko sa stane, že sa niektoré ustanovenia zmluvy ignorujú, najmä v prípade malých úradov alebo pri politicky citlivých otázkach."
+      "body@sk": "Stavebné zmluvy zvyčajne obsahujú viacero doložiek, napríklad o úrokoch z omeškania. Túto doložku však musí aktivovať klient (v tomto prípade mesto), alebo, ak dodávateľ odmietne zaplatiť, musí dať vec na súd. Právnici sú na takéto situácie zvyknutí, ale ľahko sa stane, že sa niektoré ustanovenia zmluvy ignorujú, najmä v prípade malých úradov alebo pri politicky citlivých otázkach.",
+      
     },
     "degrees": {
       "title@en": "Selling university degrees",
       "title@es": "Vender títulos universitarios",
       "title@de": "Der Verkauf von Universitätsdiplomen",
       "title@fr": "La vente de diplômes",
+      "title@hu": "Diplomabiznisz",
       "body@en": "The sale of university degree is not uncommon in Europe. As with any story of corruption, people have an incentive to keep silent, because it would make the whole university look bad if it became news.<br><br>Read more under <a href='http://www.cookingbudgets.com/grilled-degrees/' target='_blank'>The Grilled Degrees</a> at Cooking Budgets.",
       "body@es": "La venta de títulos universitarios no es infrecuente en Europa. Al igual que con cualquier asunto de corrupción, la gente tiene un incentivo para guardar silencio, porque, al convertirse en noticia, tendría repercusiones negativas sobre toda la universidad. <br> <br> Lee más en <a href = 'http: //www.cookingbudgets .com / grilled-degrees / 'target =' _ blank '> The Grilled Degrees </a> en Cooking Budgets.",
       "body@de": "Der Handel mit Hochschulzugangsberechtigungen ist in Europa nichts Ungewöhnliches. Wie seit jeher in der Geschichte der Korruption, haben die beteiligten Personen ein außerordentliches Interesse daran über die Sache Stillschweigen zu bewahren, um ihre eigene und die Reputation der Hochschule zu wahren. Es liegt ein Band des Schweigens über den ehren Mauern der Universitäten. Der Handel mit akademischen Titeln ist daher nur sehr schwer aufzudecken.<br><br>Mehr zum Thema finden Sie unter <a href='http://www.cookingbudgets.com/grilled-degrees/' target='_blank'>The Grilled Degrees</a> von Cooking Budgets.",
       "body@fr": "La vente de diplômes et la vente du droit d'entrée à l'université ne sont pas rares en Europe. Comme toujours dans les histoires de corruption, les personnes impliquées ont intérêt à garder le silence car c'est la réputation de toute l'université qui serait impactée si un scandale devait voir le jour. Lisez <a href='http://www.cookingbudgets.com/grilled-degrees/' target='_blank'>The Grilled Degrees</a> [en anglais] sur Cooking Budgets pour en savoir plus.",
+      "body@hu": "A diplomák árulása nem szokatlan Európában. Mint minden korrupt ügyben, itt is megvannak az csendbenmaradásra ösztönző erők, mivel az egész egyetem rossz fényben tűnne fel, ha kiderülne.",
       "title@sk": "Predávanie univerzitných titulov",
       "body@sk": "Predaj univerzitných titulov nie je v Európe neobvyklý. Tak ako pri akejkoľvek inej korupcii, ľudia majú snahu neozývať sa, pretože to môže vrhnúť zlé svetlo na celú univerzitu, hlavne v prípade zvýšeného záujmu medií."
     },
@@ -4399,10 +4564,12 @@
       "title@es": "Tretas contables",
       "title@de": "Buchhaltungstricks",
       "title@fr": "Astuces comptables",
+      "title@hu": "Kreatív könyvelés",
       "body@en": "Contrary to popular belief, accounting is very flexible. It has to be flexible, because it needs to honestly represent the financial situation of an institutions and specific situations can be very different from one another.<br><br>One trick consists in considering that all future revenues from a specific revenue stream are actually just one big sum of money that can be accounted for as a lump sum, even if it is paid later.<br><br>Read more under <a href='http://www.cookingbudgets.com/the-capitalized-rents/' target='_blank'>The Capitalized Rents</a> at Cooking Budgets.",
       "body@es": "Contrariamente a lo que se suele pensar, la contabilidad es muy flexible. Tiene que ser flexible, ya que necesita representar honestamente la situación financiera de las instituciones y estas pueden ser muy diferentes entre sí. Un truco consiste en considerar que todos los ingresos futuros de un determinado flujo de son en realidad sólo una gran suma de dinero que se puede contabilizar como tal, incluso si se paga más tarde. Lee más en <br> <br><a href='http://www.cookingbudgets.com/the-capitalized-rents/' target='_blank'>The Capitalized Rents</a> en Cooking Budgets.",
       "body@de": "Entgegen der landläufigen Meinung ist die Buchhaltung eine recht flexible Angelegenheit. Ja sie muss sogar flexibel sein, um sich an die jeweils spezifische Situation einer Organisation anpassen zu können. Doch kann diese Flexibilität ebenso gut missbraucht werden.<br><br>Ein Buchhalter kann beispielsweise alle zukünftigen Einnahmen aus einem Objekt als Einmalzahlung verbuchen. Das ist manchmal legitim, etwa wenn Aktien verkauft werden. Bei Mieteinnahmen aus Sozialwohnungen ist dieses Prozedere hingegen unzulässig.<br><br>Mehr zum Thema finden Sie unter <a href='http://www.cookingbudgets.com/the-capitalized-rents/' target='_blank'>The Capitalized Rents</a> von Cooking Budgets.",
       "body@fr": "Contrairement à une idée reçue, la comptabilité est très flexible. Elle doit être flexible car elle doit s'adapter à la situation de chaque institution. Cette flexibilité peut être utilisée à mauvais escient.<br><br>Une astuce comptable consiste à considérer que tous les revenus futurs d'un bien en location ne sont en fait qu'une seule somme d'argent qui peut être comptabilisée d'un coup, même si elle sera payée dans le futur.<br><br>Lisez <a href='http://www.cookingbudgets.com/the-capitalized-rents/' target='_blank'>The Capitalized Rents</a> [en anglais] sur Cooking Budgets pour en savoir plus.",
+      "body@hu": "A közhiedelemmel ellentétben a könyvelés nagyon rugalmas tud lenni. Rugalmasnak is kell lennie, mivel őszintén kell bemutatnia egy intézet pénzügyi helyzetét, és más-más helyzetek nagyon különbözőek tudnak lenni.<br><br> Az egyik trükk, amikor egy bevételi forrásból mindent egy nagy összegben könyvelnek el, akkor is, ha a pénz csak később érkezik be.",
       "title@sk": "Účtovnícke triky",
       "body@sk": "Účtovníctvo je veľmi flexibilné, napriek tomu, že laická verejnosť si myslí opak. Účtovníctvo musí byť flexibilné, pretože musí verne zobrazovať finančnú situáciu inštitúcie (podniku). Situácie v ktorých sa inštitúcie nachádzajú, sa môžu veľmi líšiť a účtovníctvo musí byť schopné tieto situácie zachytiť. <br><br>Jedným z účtovníckych trikov je, že všetky pravidelné príjmy z konkrétneho zdroja príjmov sú vlastne jedným veľkým balíkom peňazí, ktorý môže byť zaúčtovaný ako paušálny príjem, aj keď bude vyplatený až neskôr."
     },
@@ -4411,10 +4578,12 @@
       "title@es": "Contratar a parientes",
       "title@de": "Vetternwirtschaft",
       "title@fr": "Embaucher des proches",
+      "title@hu": "Rokonok alkalmazása",
       "body@en": "In some countries, it is forbidden to hire a relative as an assistant. While it might not be a legal risk (after all, your spouse might be the most qualified person for a job), it is a political one. It is safer to ask one of the companies you're in friendly terms with to do the hire (you can then award a public contract to the company in question to finance the new position).",
       "body@es": "En algunos países está prohibido está prohibido contratar a un familiar como asistente. Aunque puede no ser un riesgo legal (al fin y al cabo, tu pareja puede ser la persona más cualificada para un determinado puesto), sí es un asunto delicado desde el punto de vista político. Es más fácil pedir que le contraten a alguna de las compañías con las que te llevas bien (luego podrás adjudicar un contrato público a la empresa en cuestión para financiar ese nuevo puesto). ",
       "body@de": "In mänchen Ländern ist es der öffentlichen Verwaltung untersagt Familienangehörige einzustellen. Selbst wenn es kein juristisches Risiko birgt (ihr Partner kann der Beste für den Job sein), so besteht ein politisches Restrisiko. Um Ihre Verwandten zu versorgen tun Sie besser daran bei einer Ihnen wohlgesonnenen Firma anzufragen. Zum Dank können Sie der Firma einen Auftrag erteilen, so dass die für die neue Stelle benötigten Gelder rasch zur Verfügungen stehen.",
       "body@fr": "Dans certains pays, il est interdit d'embaucher des proches en tant qu'assistant. Quand bien même il n'y aurait pas de risque légal (après tout, votre partenaire peut être le plus qualifié pour le job), cela reste un risque politique. Pour caser vos proches, il vaut mieux demander à une société avec laquelle vous êtes en bons termes de l'embaucher (vous pouvez ensuite donner un contrat public à cette société pour financer le nouveau poste qu'elle a du créer).",
+      "body@hu": "Néhány országban tilos rokonokat asszisztensként alkalmazni. Miközben ez jogilag nem kockázatos (lehet, hogy a házastársad a legképzettebb a pozícióra), politikailag az lehet. Biztonságosabb megkérni egy baráti céget, hogy vegyék fel (cserébe nekik adhatsz egy közbeszerzést, hogy finanszírozd az új alkalmazottat).",
       "title@sk": "Zamestnávanie rodinných príslušníkov",
       "body@sk": "V niektorých krajinách je zakázané prijímať príbuzných na pozície asistentov. Avšak ak aj v niektorom prípade nejde o právne riziko (váš brat naozaj môže byť ten najkvalifikovanejší na tento post), je to politické riziko. Je preto bezpečnejšie požiadať niektorú zo spriatelených spoločností, aby uskutočnila výberové konanie. Vy zas môžete neskôr tejto firme pomôcť v tendri, čím jej zafinancujete novú pracovnú pozíciu pre vášho príbuzného. "
     },
@@ -4423,10 +4592,12 @@
       "title@es": "Las puertas giratorias",
       "title@de": "Das Stellenkarussell",
       "title@fr": "Le pantouflage",
+      "title@hu": "A forgóajtó-jelenség",
       "body@en": "After a career in the administration, public officials can be invited to work in the private sectors. Their contacts and their in-depth knowledge of how an administration works are very valuable for a private company. Sometimes, the promise of having a plump job is enough to convince a public official to take a decision in favor of a private company.<br><br>Read more under <a href='http://www.cookingbudgets.com/the-revolving-door/' target='_blank'>The Revolving Door</a> at Cooking Budgets.",
       "body@es": "Después de una carrera en la administración, los funcionarios públicos pueden ser invitados a trabajar en los sectores privados. Sus contactos y su profundo conocimiento de cómo funciona una administración son muy valiosos para una empresa privada. A veces, la promesa de tener un trabajo bien remunerado es suficiente para convencer a un funcionario público a tomar una decisión a favor de una empresa privada.<br><br>Lee más en <a href='http://www.cookingbudgets.com/the-revolving-door/' target='_blank'>The Revolving Door</a> en Cooking Budgets.",
       "body@de": "Im Anschluss an eine Karriere im öffentlichen Sektor werden hohen Beamten häufig Stellen in der Privatwirtschaft angeboten. Ihre Kontakte und ihr Fachwissen werden dort sehr geschätzt. Und manchmal genügt schon ein in Aussicht gestellter hoher Posten, um einen Beamten ausreichend zu beeinflussen noch während seiner Amtszeit Entscheidungen zu treffen, die dem Unternehmen zu Gute kommen.<br><br>Mehr zum Thema finden Sie unter <a href='http://www.cookingbudgets.com/the-revolving-door/' target='_blank'>The Revolving Door</a> von Cooking Budgets.",
       "body@fr": "Après une carrière dans l'administration publique, certains fonctionnaires sont invités à travailler dans le secteur privé. Leurs contacts et leur connaissance du fonctionnement de l'administration sont très utiles à une société privée. Parfois, la promesse de recevoir un poste bien doté suffit à convaincre un élu ou un fonctionnaire de prendre une décision favorable à cette société privée.<br><br>Lisez <a href='http://www.cookingbudgets.com/the-revolving-door/' target='_blank'>The Revolving Door</a> [en anglais] sur Cooking Budgets pour en savoir plus.",
+      "body@hu": "Ex-állami vezetőket, hivatalnokokat később meghívhatnak, hogy a magánszektorban folytassák. A kapcsolataik és a tudásuk a kormányzati működésről nagyon értékes lehet egy magáncégnek. Egy zsíros ajánlat sokszor elég, hogy egy céget előnyben részesítsen. Magyarországon is gyorsan pörög a forgóajtó.<br><br>Olvass utána a hazai eseteknek <a href='http://k-monitor.hu/adatbazis/cimkek/forgoajto' target='_blank'>a K-Monitor adatbázisában</a>.",
       "title@sk": "Efekt otáčavých dverí",
       "body@sk": "Úradníci verejnej správy niekedy dostanú ponuku na prácu v súkromnom sektore. Ich kontakty a dôkladné znalosti toho, ako funguje verejná správa, sú pre súkromné firmy veľmi cenné. Už len samotný prísľub výnosného miestečka niekedy stačí na to, aby úradník prijal rozhodnutie v prospech súkromnej firmy."
     }
