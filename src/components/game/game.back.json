@@ -1960,7 +1960,7 @@
               "text@es": "Escojo a Construcciones Eco-Prudencia.",
               "text@de": "Ich habe mich für das Angebot der Eco-Sense Construction entschieden.",
               "text@fr": "Je choisis Eco-Sense.",
-              "text@sk": "Vyberám si Eco-Sense Construction.".
+              "text@sk": "Vyberám si Eco-Sense Construction.".,
               "text@hu": "A Helios Kft. ajánlatát választom."
             },
             {
@@ -2171,7 +2171,7 @@
               "text@es": "¿¿Qué??",
               "text@de": "Wie bitte????",
               "text@fr": "Qu'entends-je ???",
-              "text@sk": "Prosím???"
+              "text@sk": "Prosím???",
               "text@hu": "Micsoda???"
             },
             {
@@ -2686,7 +2686,7 @@
               "text@de": "Ich dachte wir wären Freunde.",
               "text@fr": "Je croyais qu'on était amis.",
               "text@sk": "Myslel som si, že sme priatelia.",
-              "text@hu": "Azt hittem barátok vagyunk...",
+              "text@hu": "Azt hittem barátok vagyunk..."
             }
           ],
           "text@sk": "Nie, toto si nemôžeme dovoliť."
@@ -3533,7 +3533,7 @@
               "text@de": "Genial! Dann sind es die Studenten, die uns gerade zum Frühstück einladen.",
               "text@fr": "Ingénieux ! Ce sont ces étudiants qui nous invitent à déjeuner, alors !",
               "text@sk": "Múdro! Študenti nám teda môžu zaplatiť obed.",
-              "text@hu"? "Nagyon okos! Akkor a diákok fizetik a vacsoránkat!",
+              "text@hu"? "Nagyon okos! Akkor a diákok fizetik a vacsoránkat!"
             },
             {
               "character": "university-boss",
@@ -4417,7 +4417,7 @@
       "body@es": "Los sobornos en Europa no son tan comunes como en otras partes del mundo, pero están al alza en algunos sectores. En la vivienda pública, algunos funcionarios piden recibir directamente dinero en efectivo para adjudicar un piso. En las inspecciones de vehículos, algunos centros estarán encantados si les dejas un regalo o unos billetes en el asiento del pasahero. Lee más en: <a href='http://www.cookingbudgets.com/good-ol-bribe/' target='_blank'>A Good Ol' Bribe</a> at Cooking Budgets.",
       "body@de": "In Europa ist Bestechung nicht so weit verbreitet wie in anderen Regionen der Welt, mit Ausnahme bestimmter Bereiche. Im sozialen Wohungsbau oder bei Fahrzeuguntersuchungen sind Bestechungen durchaus üblich.<br><br>Mehr zum Thema erfahren Sie unter <a href='http://www.cookingbudgets.com/good-ol-bribe/' target='_blank'>A Good Ol' Bribe</a> von Cooking Budgets.",
       "body@fr": "Les bakchichs ne sont pas aussi fréquents en Europe que dans d'autres régions du monde, à l'exception de certains secteurs. Pour déterminer qui obtient un logement social, certains fonctionnaires n'hésitent pas à demander des enveloppes d'argent de la main à la main. Pour passer le contrôle technique automobile, certains centres de contrôle ferment les yeux en échange d'un cadeau sur le siège passager.<br><br>Lisez <a href='http://www.cookingbudgets.com/good-ol-bribe/' target='_blank'>A Good Ol' Bribe</a> [en anglais] sur Cooking Budgets pour en savoir plus.",
-      "body@hu": "A vesztegetés nem olyan elterjedt Európában, mint a világ más részein, de néhány szektorban már így is elburjánzott. Önkormányzati lakásoknál például sokszor pénzzel teli boritékokat kérnek a hivatalnokok. Autóvizsgáztatásnál is örülnek, ha egy kis ajándékot vagy pénzt hagysz az anyósülésen.<br><br>Olvass utána a <a href='http://k-monitor.hu/bejelento/vesztegetes' target='_blank'>K-Monitor oldalán.</a>"
+      "body@hu": "A vesztegetés nem olyan elterjedt Európában, mint a világ más részein, de néhány szektorban már így is elburjánzott. Önkormányzati lakásoknál például sokszor pénzzel teli boritékokat kérnek a hivatalnokok. Autóvizsgáztatásnál is örülnek, ha egy kis ajándékot vagy pénzt hagysz az anyósülésen.<br><br>Olvass utána a <a href='http://k-monitor.hu/bejelento/vesztegetes' target='_blank'>K-Monitor oldalán.</a>",
       "title@sk": "Ako fungujú úplatky?",
       "body@sk": "Podplácanie sa v Európe nevyskytuje tak často ako v iných častiach sveta, ale v niektorých sektoroch je rozšírené. V oblasti sociálneho bývania si niektorí úradníci rovno vypýtajú obálku s peniazmi. Niektoré autoopravovne sa pri prehliadke auta potešia, keď na sedadle necháte darček alebo hotovosť."
     },
