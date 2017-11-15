@@ -167,7 +167,7 @@
       "name@de": "Halit Beutel",
       "name@fr": "Rasul Géroux",
       "name@sl": "prof. dr. Damjan Gabrin",
-      "name@hu": "Prof. Dr. Pitypang Attila"
+      "name@hu": "Prof. Dr. Pitypang Attila",
       "title@en": "Director of the University",
       "title@de": "Direktor der Universität",
       "title@fr": "Directeur de l'université",
@@ -400,7 +400,7 @@
           "text@en": "But be careful.",
           "text@de": "Aber seien Sie auf der Hut!",
           "text@fr": "Mais soyez prudente.",
-          "text@sl": "A vseeno bodite previdni."
+          "text@sl": "A vseeno bodite previdni.",
           "text@hu": "De légy óvatos."
         }
       ],
@@ -532,7 +532,7 @@
           "text@de": "Das Angebot der Meinhardt Hoch- u. Tiefbau GmbH liegt bei 12 Millionen.",
           "text@fr": "Guillory Construction SARL a fait une offre à 12 millions",
           "text@sl": "Podjetje Mavčar BIRO d.o.o. je pripravilo ponudbo v višini 12 milijonov.",
-          "text@hu": "A Böllér és Böllér Kft. adott egy 12 milliárdos ajánlatot."
+          "text@hu": "A Böllér és Böllér Kft. adott egy 12 milliárdos ajánlatot.",
           "var_changes": {
             "reserves": -12,
             "gift_company2": 1
@@ -731,7 +731,7 @@
               "text@en": "Here you go!",
               "text@de": "Bitte schön! Hier sind die Schlüssel.",
               "text@fr": "Voilà les clés !",
-              "text@sl": "Izvolite ključe."
+              "text@sl": "Izvolite ključe.",
               "text@hu": "Parancsolj!"
             },
             {
@@ -755,7 +755,7 @@
               "text@en": "People might ask where it comes from.",
               "text@de": "Die Leute werden sich fragen wie Sie sich so ein teures Auto leisten können.",
               "text@fr": "Des gens pourraient se demander d'où elle vient.",
-              "text@sl": "Lahko vas vprašajo, kje ste ga dobili."
+              "text@sl": "Lahko vas vprašajo, kje ste ga dobili.",
               "text@hu": "Az emberek kérdezősködhetnek, hogy honnan van."
             }
           ]
@@ -861,7 +861,7 @@
               "text@en": "I'll take care of it.",
               "text@de": "Ich werde mich darum kümmern.",
               "text@fr": "Je m'en charge.",
-              "text@sl": "Vse bo urejeno."
+              "text@sl": "Vse bo urejeno.",
               "text@hu": "Elintézem."
             },
             {
@@ -869,7 +869,7 @@
               "text@en": "Be mindful of cash.",
               "text@de": "Seien Sie vorsichtig, wenn Ihnen Bargeld angeboten wird!",
               "text@fr": "Faites attention à l'argent liquide.",
-              "text@sl": "Bodite pozorni pri prejemanju gotovine."
+              "text@sl": "Bodite pozorni pri prejemanju gotovine.",
               "text@hu": "Okosan a készpénzzel."
             },
             {
@@ -2220,7 +2220,7 @@
           "text@en": "And we'll share the money.",
           "text@de": "Und wir teilen das Geld!",
           "text@fr": "Et on partage le fric !",
-          "text@sl": "... dobite pošten delež."
+          "text@sl": "... dobite pošten delež.",
           "text@hu": "És elosztjuk a pénzt."
         }
       ],
@@ -2559,7 +2559,7 @@
               "text@en": "I get stuff done, and it's the next mayors who pay!",
               "text@de": "Man kann bauen was man will und der nächste Bürgermeister muss es bezahlen!",
               "text@fr": "On peut construire ce qu'on veut, et c'est le maire suivant qui paye !",
-              "text@sl": "Na ta način lahko izvajam projekte, ki jih bodo plačevali župani za menoj."
+              "text@sl": "Na ta način lahko izvajam projekte, ki jih bodo plačevali župani za menoj.",
               "text@hu": "Én aratom le a babérokat, de csak a következő polgármester fizet."
             }
           ]
@@ -3188,7 +3188,7 @@
               "text@de": "Genial! Dann sind es die Studenten, die uns gerade zum Frühstück einladen.",
               "text@fr": "Ingénieux ! Ce sont ces étudiants qui nous invitent à déjeuner, alors !",
               "text@sl": "Res zvito. Naj torej študenti plačajo za najin obrok.",
-              "text@hu"? "Nagyon okos! Akkor a diákok fizetik a vacsoránkat!",
+              "text@hu"? "Nagyon okos! Akkor a diákok fizetik a vacsoránkat!"
             },
             {
               "character": "university-boss",
