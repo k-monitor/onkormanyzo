@@ -206,7 +206,7 @@
       "name@de": "Sie",
       "name@fr": "Vous",
       "name@sl": "Ti",
-      "name@hu": "Te"
+      "name@hu": "Te",
       "title@en": "General manager",
       "title@de": "Geschäftsführerin",
       "title@fr": "Dir' cab",
@@ -497,7 +497,7 @@
           "text@de": "Das Amt für Verkehr hat die Kosten auf ca. 10 Millionen geschätzt.",
           "text@fr": "Le bureau d'études estime les travaux à 10 millions.",
           "text@sl": "Naš oddelek za promet ocenjuje, da bodo stroški znašali približno 10 milijonov.",
-          "text@hu": "A közlekedési osztály 700 millióra becsüli a költségeket."
+          "text@hu": "A közlekedési osztály 10 milliárd forintra becsüli a költségeket."
         },
         {
           "character": "mayor",
@@ -850,9 +850,9 @@
           "text@de": "Bieten Sie Ihnen an für 5.000 in Bar die Anfrage schneller zu bearbeiten.",
           "text@fr": "Proposer d'accélerer les demandes en échange de 5 000 en liquide",
           "text@sl": "Ponudite pospešitev postopka v zameno za 5.000 v kuverti.",
-          "text@hu": "Felajánlani, hogy felgyorsítod az ügyüket 3.5 millióért.",
+          "text@hu": "Felajánlani, hogy felgyorsítod az ügyüket 5 millió forintért.",
           "var_changes": {
-            "personal_account": 3500000,
+            "personal_account": 5000,
             "risk_police": 2
           },
           "feedback": [
@@ -990,7 +990,7 @@
           "text@de": "Die Stadt besitzt ein unbebautes Grundstück. Ich weiß, dass es für 10 Millionen gehandelt wird. Mir wäre es 4 Millionen wert.",
           "text@fr": "La ville possède un terrain. Je sais qu'il vaut 10 millions, mais ça serait honnête de me le vendre pour 4 millions, non ?",
           "text@sl": "Blizu igrišča je večje zemljišče v lasti mesta. Ocenjeno je na 10 milijonov, a se mi zdi, da bi bila bolj primerna cena približno 4 milijone. Kaj menite?",
-          "text@hu": "Van egy üres placc a város tulajdonában. Tudom, hogy 700 millióra becsülték az árát, de 280 millió igazságosabb lenne, nem?"
+          "text@hu": "Van egy üres telek a város tulajdonában. Bár 10 milliárd forintra becsülték az értékét, de 4 milliárd mégiscsak igazságosabb lenne, nem?"
         }
       ],
       "helper": [
@@ -1029,7 +1029,7 @@
               "text@de": "Sie können es haben, aber der Preis bleibt bei 10 Millionen. Keine Diskussion.",
               "text@fr": "Le terrain est à vous pour 10 millions - non négociable.",
               "text@sl": "Zemljišče je lahko vaše, a cena je 10 milijonov, brez pogajanj.", 
-              "text@hu": "A tiéd, de 700 millióba kerül, nem alkuképes."
+              "text@hu": "A tiéd, de 10 milliárdért, nincs további alku."
             },
             {
               "character": "mayor",
@@ -1065,7 +1065,7 @@
               "text@de": "4 Millionen sind in Ordnung.",
               "text@fr": "C'est bon pour 4 millions.",
               "text@sl": "Prodajte za 4 milijone.",
-              "text@hu": "Rendben, akkor legyen 280 millió."
+              "text@hu": "Rendben, akkor legyen 4 milliárd."
             },
             {
               "character": "football-boss",
@@ -1096,7 +1096,7 @@
           "text@de": "Wir haben eine Ausschreibung für den Bau eines neuen Kreisverkehrs am Laufen.",
           "text@fr": "Nous avons passé un appel d'offres pour un nouveau rond-point.",
           "text@sl": "Objavili smo poziv za oddajo ponudb za izgradnjo novega krožišča.",
-          "text@hu": "Kiírtuk a közbeszerzést, hogy építsünk egy új körforgalmat."
+          "text@hu": "Kiírtuk a közbeszerzést egy új körforgalom építésére."
         },
         {
           "character": "mayor",
@@ -1104,7 +1104,7 @@
           "text@de": "Unser Amt für Verkehr und Straßenbau hat die Kosten auf 6 Millionen beziffert.",
           "text@fr": "Notre bureau d'études estime les coûts à 6 millions.",
           "text@sl": "Naš oddelek za promet ocenjuje, da bo gradnja stala 6 milijonov.",
-          "text@hu": "A közlekedési osztály 420 millióra becsüli az árát."
+          "text@hu": "A közlekedési osztály becslése szerint 6 milliárd forintból ki kell jönnie."
         },
         {
           "character": "mayor",
@@ -1500,7 +1500,7 @@
           "text@de": "Das Amt für Bauwesen hat die Kosten auf 3 Millionen geschätzt.",
           "text@fr": "Notre bureau d'études évalue les travaux à 3 millions.",
           "text@sl": "Naš gradbeni oddelek ocenjuje, da bodo stroški znašali približno 3 milijone.",
-          "text@hu": "Az építészeti osztály 210 millióra becsüli az árát."
+          "text@hu": "Az építészeti osztály 3 milliárd forintra becsüli az árát."
         },
         {
           "character": "mayor",
@@ -1656,7 +1656,7 @@
           "text@de": "Das Amt für Bauwesen hat die Kosten auf 3 Millionen geschätzt.",
           "text@fr": "Notre bureau d'études évalue les travaux à 3 millions.",
           "text@sl": "Naš gradbeni oddelek ocenjuje, da bodo stroški znašali približno 3 milijone.",
-          "text@hu": "Az építészeti osztály 210 millióra becsüli az árát."
+          "text@hu": "Az építészeti osztály 3 milliárd forintra becsüli az árát."
         },
         {
           "character": "mayor",
@@ -1683,9 +1683,9 @@
           "text@de": "Das Angebot der Meinhardt Hoch- u. Tiefbau GmbH liegt bei 3,5 Millionen.",
           "text@fr": "Guillory Construction SARL a fait une offre à 3,5 millions",
           "text@sl": "Podjetje Mavčar BIRO d.o.o. je oddalo ponudbo za 3,5 milijona.",
-          "text@hu": "A Böllér és Böllér Kft. adott egy 245 milliós ajánlatot.",
+          "text@hu": "A Böllér és Böllér Kft. adott egy 3,5 milliárd forintos ajánlatot.",
           "var_changes": {
-            "reserves": -245,
+            "reserves": -3.5,
             "personal_account": 1000
           },
           "feedback": [
@@ -2035,7 +2035,7 @@
           "text@de": "Wir brauchen 12 Millionen",
           "text@fr": "On a besoin de 12 millions.",
           "text@sl": "Potrebujemo 12 milijonov.",
-          "text@hu": "Kell 840 millió."
+          "text@hu": "Kell 12 milliárd forint."
         },
         {
           "character": "football-boss",
@@ -2085,7 +2085,7 @@
           "text@de": "Hier finden Sie ein Dossier zum Thema [Vermietung von öffentlichen Grundstücken an Privatgesellschaften.|emphyteutic]",
           "text@fr": "Voici [un mémo sur la location d'espace publics à des sociétés privées.|emphyteutic]",
           "text@sl": "Pripravila sem vam [predstavitev o najemu mestnih površin s strani zasebnih podjetij|emphyteutic], ki vam bo morda všeč.",
-          "text@hu": "Itt egy [jegyzet a közterek kiadásáról|emphyteutic] ami lehet tetszeni fog."
+          "text@hu": "Itt egy [jegyzet a közterek kiadásáról|emphyteutic], ami érdekes lehet."
         }
       ],
       "choices": [
@@ -2150,7 +2150,7 @@
               "text@de": "Das läge nicht im öffentlichen Interesse.",
               "text@fr": "Cela ne servirait pas l'intérêt général.",
               "text@sl": "To ne bi bilo v javnem interesu.",
-              "text@hu": "Ez nem lenne közérdekű."
+              "text@hu": "Ez a köz érdeke ellen van."
             },
             {
               "character": "mayor",
@@ -2250,7 +2250,7 @@
           "text@sl": "Sprejmite",
           "text@hu": "Elfogadom",
           "var_changes": {
-            "personal_account": 35000000,
+            "personal_account": 50000,
             "risk_police": 2
           },
           "feedback": [
@@ -2620,7 +2620,7 @@
               "text@de": "Ja, gute Idee. Investieren Sie bitte 50.000.",
               "text@fr": "Oui, bonne idée, je vais mettre 50 000.",
               "text@sl": "Seveda, dobra ideja, investirajmo 50.000.",
-              "text@hu": "Igen, jó ötlet. Befektetek 3.5 milliót."
+              "text@hu": "Igen, jó ötlet. Befektetek 50 milliót."
             },
             {
               "character": "lawyer",
@@ -2734,9 +2734,9 @@
           "text@de": "Das Angebot von Voelia Environment liegt bei 1,2 Millionen pro Jahr.",
           "text@fr": "Voelia Environment a fait une offre à 1,2 millions par an",
           "text@sl": "Podjetje Voelia Okolje je oddalo ponudbo za 1,2 milijona.",
-          "text@hu": "A Szemetesvödör 99 Kft. adott egy évi 84 milliós ajánlatot.",
+          "text@hu": "A Szemetesvödör 99 Kft. adott egy évi 1,2 milliárd forintos ajánlatot.",
           "var_changes": {
-            "resources": -84,
+            "resources": -1.2,
             "personal_account": 150000
           },
           "feedback": [
@@ -2763,9 +2763,9 @@
           "text@de": "Das Angebot der SATI Waste Management liegt bei 0,9 Millionen pro Jahr.",
           "text@fr": "SATI Waste Management a fait une offre à 0,9 millions par an",
           "text@sl": "Podjetje SATI Odpadki je oddalo ponudbo za 0,9 milijona",
-          "text@hu": "A SATI Waste Management évi 63 milliós ajánlatot adott.",
+          "text@hu": "A SATI Waste Management évi 0,9 milliárd forintos ajánlatot adott.",
           "var_changes": {
-            "resources": -63,
+            "resources": -0.9,
             "personal_account": 45000
           },
           "feedback": [
@@ -2861,9 +2861,9 @@
           "text@de": "Das Angebot von Voelia Environment liegt bei 1,2 Millionen pro Jahr.",
           "text@fr": "Voelia Environment a fait une offre à 1,2 millions par an",
           "text@sl": "Podjetje Voelia Okolje je oddalo ponudbo za 1,2 milijona.",
-          "text@hu": "A Szemetesvödör 99 Kft. adott egy évi 84 milliós ajánlatot.",
+          "text@hu": "A Szemetesvödör 99 Kft. adott egy évi 1.2 milliárd forintos ajánlatot.",
           "var_changes": {
-            "resources": -84
+            "resources": -1.2
           },
           "feedback": [
             {
@@ -2872,7 +2872,7 @@
               "text@de": "Ich habe mich für das Angebot der Voelia Environment entschieden.",
               "text@fr": "Je choisis Voelia Environment.",
               "text@sl": "Izbrana je ponudba podjetja Voelia Okolje.",
-              "text@hu": "A Szemetesvödör 99 Kft ajánlatát választom."
+              "text@hu": "A Szemetesvödör 99 Kft. ajánlatát választom."
             },
             {
               "character": "mayor",
@@ -2897,9 +2897,9 @@
           "text@de": "Das Angebot der SATI Waste Management liegt bei 0,9 Millionen pro Jahr.",
           "text@fr": "SATI Waste Management a fait une offre à 900 000 par an",
           "text@sl": "Podjetje SATI Odpadki je oddalo ponudbo za 0,9 milijona",
-          "text@hu": "A SATI Waste Management évi 63 milliós ajánlatot adott.",
+          "text@hu": "A SATI Waste Management évi 0,9 milliárd forintos ajánlatot adott.",
           "var_changes": {
-            "resources": -63
+            "resources": -0.9
           },
           "feedback": [
             {
@@ -2939,7 +2939,7 @@
           "text@de": "Der Auftragnehmer ist mit den Bauarbeiten am neuen Stadion im Verzug.",
           "text@fr": "La société qui construit le stade est en retard de 6 mois.",
           "text@sl": "Podjetje, ki gradi novi stadion, zamuja z izgradnjo.",
-          "text@hu": "A stadion kivitelezője csúszik."
+          "text@hu": "A stadion kivitelezője csúszik a beruházással."
         },
         {
           "character": "mayor",
@@ -2947,7 +2947,7 @@
           "text@de": "Er weigert sich den Verspätungszuschlag in Höhe von 2 Millionen zu bezahlen.",
           "text@fr": "Ils ne veulent pas payer la pénalité de retard de 2 millions.",
           "text@sl": "Ne želijo plačati zamudnih penalov.",
-          "text@hu": "És nem akarják kifizetni a 140 milliós kötbért."
+          "text@hu": "És nem akarják kifizetni a 2 milliárd forintos kötbért."
         },
         {
           "character": "mayor",
@@ -2984,7 +2984,7 @@
           "text@sl": "Vložite tožbo proti podjetju, ki gradi stadion.",
           "text@hu": "Pereld be a kivitelezőt, hogy megkapd a pénzt.",
           "var_changes": {
-            "reserves": 140,
+            "reserves": 2,
             "risk_political": 1
           },
           "feedback": [
@@ -3272,7 +3272,7 @@
           "text@sl": "Sprejmem. Dober izgled je vseeno boljši kot nič.",
           "text@hu": "Elfogadom! A jólét látszata jobb, mint a semmi.",
           "var_changes": {
-            "reserves": 140,
+            "reserves": 20,
             "resources": -3
           },
           "feedback": [
@@ -3757,9 +3757,9 @@
           "text@de": "Das Angebot der Meinhardt Hoch- u. Tiefbau GmbH in Höhe von 10 Millionen annehmen.",
           "text@fr": "Guillory Construction SARL a fait une offre à 10 million.",
           "text@sl": "Mavčar Biro d.o.o. je oddal ponudbo za 10 milijonov.",
-          "text@hu": "A Böllér és Böllér Kft. tett egy 700 milliós ajánlatot.",
+          "text@hu": "A Böllér és Böllér Kft. tett egy 10 milliárd forintos ajánlatot.",
           "var_changes": {
-            "reserves": -700,
+            "reserves": -10,
             "risk_revolving_door": 20
           },
           "feedback": [
@@ -3840,7 +3840,7 @@
           "text@de": "Das Amt für Parks und Grünflächen hat die Kosten auf ca. eine halbe Million geschätzt.",
           "text@fr": "Notre bureau d'études estime le coût des travaux à 500 000.",
           "text@sl": "Naš oddelke za javne površine ocenjuje, da bo strošek približno 500.000.",
-          "text@hu": "A városfejlesztési osztály 50 millióra becsüli az árát."
+          "text@hu": "A városfejlesztési osztály 500 millió forintra becsüli a beruházás költségeit."
         },
         {
           "character": "mayor",
@@ -3867,9 +3867,9 @@
           "text@de": "Das Angebot der Betonbau GmbH liegt bei 575.000",
           "text@fr": "Grosbéton SARL a fait une offre à 575 000.",
           "text@sl": "Grosbeton d.o.o. je oddal ponudbo za 575.000.",
-          "text@hu": "A Piac Építő Zrt. 55 milliós ajánlatot tett.",
+          "text@hu": "A Piac Építő Zrt. 575 millió forintos ajánlatot tett.",
           "var_changes": {
-            "reserves": -55,
+            "reserves": -0.575,
             "personal_account": 1000
           }
         },
@@ -3878,9 +3878,9 @@
           "text@de": "Das Angebot der Meinhardt Hoch- u. Tiefbau GmbH liegt bei 600.000 .",
           "text@fr": "Guillory Construction SARL a fait une offre à 600 000.",
           "text@sl": "Mavčar Biro d.o.o. je oddal ponudbo za 600.000.",
-          "text@hu": "A Böllér és Böllér Kft. 60 milliós ajánlatot tett.",
+          "text@hu": "A Böllér és Böllér Kft. 600 millió forintos ajánlatot tett.",
           "var_changes": {
-            "reserves": -60,
+            "reserves": -0.6,
             "risk_contractors": 1
           }
         },
@@ -3889,9 +3889,9 @@
           "text@de": "Das Angebot der Eco- Sence Construction liegt bei 620.000",
           "text@sl": "Eco-Sense Konstrukcije je oddal ponudbo za 620.000.",
           "text@fr": "Eco-Sense Construction a fait une offre à 620 000.",
-          "text@hu": "A Helios Kft. 62 milliós ajánlatot tett.",
+          "text@hu": "A Helios Kft. 620 millió forintos ajánlatot tett.",
           "var_changes": {
-            "reserves": -62,
+            "reserves": -0.62,
             "risk_contractors": 1
           }
         }
