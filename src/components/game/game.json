@@ -532,9 +532,9 @@
           "text@de": "Das Angebot der Meinhardt Hoch- u. Tiefbau GmbH liegt bei 12 Millionen.",
           "text@fr": "Guillory Construction SARL a fait une offre à 12 millions",
           "text@sl": "Podjetje Mavčar BIRO d.o.o. je pripravilo ponudbo v višini 12 milijonov.",
-          "text@hu": "A Böllér és Böllér Kft adott egy 840 milliós ajánlatot."
+          "text@hu": "A Böllér és Böllér Kft. adott egy 12 milliárdos ajánlatot."
           "var_changes": {
-            "reserves": -840,
+            "reserves": -12,
             "gift_company2": 1
           },
           "feedback": [
@@ -553,9 +553,9 @@
           "text@de": "Das Angebot der Eco-Sense Construction liegt bei 12,1 Millionen.",
           "text@fr": "Eco-Sense Construction a fait une offre à 12,1 millions",
           "text@sl": "Podjetje Eco-Sense Konstrukcije je pripravilo ponudbo v višini 12,1 milijona.",
-          "text@hu": "A Helios Kft. adott egy 847 milliós ajánlatot.", 
+          "text@hu": "A Helios Kft. adott egy 12,1 milliárd forintos ajánlatot.", 
           "var_changes": {
-            "reserves": -847,
+            "reserves": -12.1,
             "risk_contractors": 1
           },
           "feedback": [
@@ -606,9 +606,9 @@
           "text@de": "Das Angebot der Betonbau GmbH liegt bei 12,2 Millionen.",
           "text@fr": "Grosbéton SARL a fait une offre à 12,2 millions",
           "text@sl": "Podjetje Grosbeton d.o.o. je pripravilo ponudbo za 12,2 milijona.",
-          "text@hu": " A Piac Építő Zrt. 854 milliós ajánlatot tett.",
+          "text@hu": " A Piac Építő Zrt. 12,2 milliárd forintos ajánlatot tett.",
           "var_changes": {
-            "reserves": -854,
+            "reserves": -12.2,
             "risk_contractors": 1
           },
           "feedback": [
@@ -1017,10 +1017,10 @@
           "text@de": "Für 10 Millionen verkaufen.",
           "text@fr": "Vendre pour 10 millions",
           "text@sl": "Prodaj za 10 milijonov.",
-          "text@hu": "Eladom 700 millióért",
+          "text@hu": "Eladom 10 milliárd forintért",
           "var_changes": {
             "risk_political": 1,
-            "reserves": 700
+            "reserves": 10
           },
           "feedback": [
             {
@@ -1054,9 +1054,9 @@
           "text@de": "Für 4 Millionen verkaufen.",
           "text@fr": "Vendre pour 4 millions",
           "text@sl": "Prodajte za 4 milijone.",
-          "text@hu": "Eladni 280 millióért",
+          "text@hu": "Eladni 4 milliárd forintért",
           "var_changes": {
-            "reserves": 280
+            "reserves": 4
           },
           "feedback": [
             {
@@ -1131,9 +1131,9 @@
           "text@de": "Das Angebot der Betonbau GmbH liegt bei 7 Millionen.",
           "text@fr": "Grosbéton SARL a fait une offre à 7 millions",
           "text@sl": "Grosbeton d.o.o. je oddal ponudbo za 7 milijonov.",
-          "text@hu": "A Piac Építő Zrt. tett egy 490 milliós ajánlatot",
+          "text@hu": "A Piac Építő Zrt. tett egy 7 milliárd forintos ajánlatot",
           "var_changes": {
-            "reserves": -490,
+            "reserves": -7,
             "personal_account": 1000
           },
           "feedback": [
@@ -1168,9 +1168,9 @@
           "text@de": "Das Angebot der Meinhardt Hoch- u. Tiefbau GmbH liegt bei 7,1 Millionen.",
           "text@fr": "Guillory Construction SARL a fait une offre à 7,1 millions",
           "text@sl": "Podjetje Mavčar BIRO d.o.o. je pripravilo ponudbo za 7,1 milijona.",
-          "text@hu": "A Böllér és Böllér Kft. tett egy 497 milliós ajánlatot.",
+          "text@hu": "A Böllér és Böllér Kft. tett egy 7,1 milliárd forintos ajánlatot.",
           "var_changes": {
-            "reserves": -497,
+            "reserves": -7.1,
             "risk_contractors": 1
           },
           "feedback": [
@@ -1229,9 +1229,9 @@
           "text@de": "Das Angebot der Eco-Sence Construction liegt bei 7,2 Millionen.",
           "text@fr": "Eco-Sense Construction a fait une offre à 7,2 millions",
           "text@sl": "Podjetje Eco-Sense Konstrukcije je oddalo ponudbo ya 7,2 milijona.",
-          "text@hu": "A Helios Kft. adott egy 504 milliós ajánlatot.",
+          "text@hu": "A Helios Kft. adott egy 7,2 milliárd forintos ajánlatot.",
           "var_changes": {
-            "reserves": -504,
+            "reserves": -7.2,
             "risk_contractors": 1
           },
           "feedback": [
@@ -1527,9 +1527,9 @@
           "text@de": "Das Angebot Ihrer Firma liegt bei 3,5 Millionen.",
           "text@fr": "Votre société a fait une offre à 3,5 millions",
           "text@sl": "Vaše podjetje je oddalo ponudbo za 3,5 milijona.",
-          "text@hu": "A te céged 245 milliós ajánlatot tett.",
+          "text@hu": "A te céged 3,5 milliárd forintos ajánlatot tett.",
           "var_changes": {
-            "reserves": -245,
+            "reserves": -3.5,
             "risk_police": 1,
             "personal_account": 100000
           },
@@ -1564,9 +1564,9 @@
           "text@de": "Das Angebot der Betonbau GmbH liegt bei 3,6 Millionen.",
           "text@fr": "Grosbéton SARL a fait une offre à 3,6 millions",
           "text@sl": "Podjetje Grosbeton d.o.o. je oddalo ponudbo za 3,6 milijona.",
-          "text@hu": "A Piac Építő Zrt. 252 milliós ajánlatot tett.",
+          "text@hu": "A Piac Építő Zrt. 3,6 milliárd forintos ajánlatot tett.",
           "var_changes": {
-            "reserves": -252,
+            "reserves": -3.6,
             "risk_contractors": 1
           },
           "feedback": [
@@ -1601,9 +1601,9 @@
           "text@de": "Das Angebot der Meinhardt Hoch- u. Tiefbau GmbH liegt bei 3,7 Millionen",
           "text@fr": "Guillory Construction SARL a fait une offre à 3,7 millions",
           "text@sl": "Podjetje Mavčar BIRO d.o.o. je oddalo ponudbo v višini 3,7 milijona.",
-          "text@hu": "A Böllér és Böllér Kft. 259 milliós ajánlatot tett.",
+          "text@hu": "A Böllér és Böllér Kft. 3,7 milliárd forintos ajánlatot tett.",
           "var_changes": {
-            "reserves": -259,
+            "reserves": -3.7,
             "risk_contractors": 1
           },
           "feedback": [
@@ -1720,9 +1720,9 @@
           "text@de": "Das Angebot der Betonbau GmbH liegt bei 3,6 Millionen.",
           "text@fr": "Grosbéton SARL a fait une offre à 3,6 millions",
           "text@sl": "Podjetje Grosbeton d.o.o. je oddalo ponudbo za 3,6 milijona.",
-          "text@hu": "A Piac Építő Zrt. adott egy 252 milliós ajánlatot.",
+          "text@hu": "A Piac Építő Zrt. adott egy 3,6 milliárd forintos ajánlatot.",
           "var_changes": {
-            "reserves": -252,
+            "reserves": -3.6,
             "risk_contractors": 1
           },
           "feedback": [
@@ -1757,9 +1757,9 @@
           "text@de": "Das Angebot der Eco-Sense Construction liegt bei 3,7 Millionen",
           "text@fr": "Eco-Sense Construction a fait une offre à 3,7 millions",
           "text@sl": "Podjetje Eco-Sence Konstrukcije je oddalo ponudbo za 3,7 milijona.",
-          "text@hu": "A Helios Kft. adott egy 259 milliós ajánlatot.",
+          "text@hu": "A Helios Kft. adott egy 3,7 milliárd forintos ajánlatot.",
           "var_changes": {
-            "reserves": -259,
+            "reserves": -3.7,
             "risk_contractors": 1
           },
           "feedback": [
@@ -1987,7 +1987,7 @@
           "text@sl": "Seveda, uredil bom nekaj oglasov s pozitivno predstavitvijo vašega dela.",
           "text@hu": "Persze, kirakunk pár hirdetést amiben téged dícsérünk",
           "var_changes": {
-            "reserves": -35
+            "reserves": -0.5
           },
           "feedback": [
             {
@@ -2096,8 +2096,8 @@
           "text@sl": "Odkupite zemljo od kluba.",
           "text@hu": "Visszavásárlom a földet.",
           "var_changes": {
-            "reserves": -840,
-            "resources": 14
+            "reserves": -12,
+            "resources": 0.2
           },
           "feedback": [
             {
@@ -2481,9 +2481,9 @@
           "text@de": "Die Stadt kommt für das Stadion auf (Kostenpunkt: 10 Millionen).",
           "text@fr": "La ville paye pour le stade (coût: 10 millions)",
           "text@sl": "Mesto naj zgradi stadion (enkratni strošek v višini 10 milijonov).",
-          "text@hu": "A városnak kéne megépítenie a stadiont (egyszeri ára 700 millió).",
+          "text@hu": "A városnak kéne megépítenie a stadiont (egyszeri ára 10 milliárd forint).",
           "var_changes": {
-            "reserves": -700
+            "reserves": -10
           },
           "feedback": [
             {
@@ -2492,7 +2492,7 @@
               "text@de": "Die Stadt wird das Stadion für 10 Millionen bauen.",
               "text@fr": "Construisons le stade pour 10 millions.",
               "text@sl": "Zgradimo stadion za 10 milijonov.",
-              "text@hu": "Építsük meg ezt a stadiont 700 millióért."
+              "text@hu": "Építsük meg ezt a stadiont 10 milliárdért."
             },
             {
               "character": "mayor",
@@ -2500,7 +2500,7 @@
               "text@de": "Zehn MILLIONEN?",
               "text@fr": "Dix MILLIONS ?",
               "text@sl": "Deset milijonov!!!!!",
-              "text@hu": "700 MILLIÓ?"
+              "text@hu": "10 MILLIÁRD!!?!?"
             },
             {
               "character": "mayor",
@@ -2525,7 +2525,7 @@
           "text@de": "Eine Öffentlich-Private Partnerschaft aufbauen (es entstehen aktuell keine Kosten, jedoch muss die Stadt in den kommenden 20 Jahren jährlich 1 Million an den Betreiber zahlen).",
           "text@fr": "Mettre en place un partenariat public-privé (aucun coût maintenant, mais vous devrez payer l'opérateur 1 million par an pendant 20 ans)",
           "text@sl": "Vzpostavite javno-zasebno partnerstvo (brez takojšnjih stroškov, vendar morate zasebnemu podjetju v naslednjih 20 letih vsako leto plačati milijon).",
-          "text@hu": "Csináljunk egy köz- és magánegyüttműködést (PPP) (most nincs ára, de utána évi 70 milliót kell fizetned a kivitelezőnek 20 évig).",
+          "text@hu": "Csináljunk egy köz- és magánegyüttműködést (PPP) (most nincs költsége, de utána évi 1 milliárd forintot kell fizetned a kivitelezőnek 20 évig).",
           "var_changes": {
             "expenditures": 70
           },
@@ -2560,7 +2560,7 @@
               "text@de": "Man kann bauen was man will und der nächste Bürgermeister muss es bezahlen!",
               "text@fr": "On peut construire ce qu'on veut, et c'est le maire suivant qui paye !",
               "text@sl": "Na ta način lahko izvajam projekte, ki jih bodo plačevali župani za menoj."
-              "text@hu": "Én aratom le a babérokat, de csak a következő Polgármester fizet."
+              "text@hu": "Én aratom le a babérokat, de csak a következő polgármester fizet."
             }
           ]
         }
@@ -2591,7 +2591,7 @@
           "text@de": "Wollen Sie Anteile an Voelia Environment, einer Entsorgungsfirma, kaufen?",
           "text@fr": "Voulez-vous acheter des actions de Voelia Environment, une société de collecte d'ordures ?",
           "text@sl": "Bi želeli kupiti delnice v Voelia Okolje, podjetju za zbiranje odpadkov.",
-          "text@hu": "Szeretnél részesedést szerezni a Szemetesvödör 99 Kft-ben? Hulladékgyűjtéssel foglalkoznak."
+          "text@hu": "Szeretnél részesedést szerezni a Szemetesvödör 99 Kft.-ben? Hulladékgyűjtéssel foglalkoznak."
         },
         {
           "character": "lawyer",
@@ -2608,10 +2608,10 @@
           "text@de": "Ja. Investieren Sie 50.000.",
           "text@fr": "Oui, investis 50 000.",
           "text@sl": "Seveda, investirajte 50.000.",
-          "text@hu": "Fektessünk be 3.5 milliót.",
+          "text@hu": "Fektessünk be 50 milliót.",
           "var_changes": {
             "trash_company": 1,
-            "personal_account": -3500000
+            "personal_account": -50000
           },
           "feedback": [
             {
