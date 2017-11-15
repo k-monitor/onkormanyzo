@@ -4342,7 +4342,7 @@
       "text@de": "<h2>Sie haben verloren!</h2><p>Gegen Sie wurde ein Ermittlungsverfahren eingeleitet. Sie haben zwar gute Beziehungen zur Bürgermeisterin und zu den Industriellen aufgebaut, aber die Finanzbehörde ermittelt gegen Sie wegen Veruntreuung öffentlicher Gelder. Kein Grund zur Panik, Sie werden mit hoher Wahrscheinlichkeit nicht im Gefängnis landen. Aber die Bürgermeisterin verlangt Ihren Rücktritt.</p>",
       "text@fr": "<h2>Perdu: Vous êtes mise en examen !</h2><p>Vous avez entretenu de bonnes relations avec le maire et avec les industriels, mais un enquêteur du parquet financier vous inculpe dans une affaire de détournement de fonds publics. Pas de panique, vous n'irez sans doute pas en prison. Mais la maire exige votre démission.</p>",
       "text@sk": "<h2>Máte po chlebe - prehrali ste!</h2><p>Dokázali ste si udržať dobré vzťahy s dodávateľmi a zachovať si popularitu. Starostka vás má rada, ale polícia vás obvinila zo sprenevery verejných prostriedkov. Nebojte sa, pravdepodobne neskončíte vo väzení, ale starostka žiada, aby ste odstúpili.</p>",
-      "text@hu": "Elkaptak: Vesztettél!</h2><p>Jó kapcsolatban maradtál a kivitelezőkkel, és népszerű is maradtál. A Polgármester kedvel téged, de a korrupcióellenes hatóságok közpénz hűtlen kezelésével gyanúsítanak. Nyugi, valószínűleg nem kell börtönbe menned, de a Polgármester a lemondásodat követeli."
+      "text@hu": "Elkaptak: Vesztettél!</h2><p>Jó kapcsolatban maradtál a kivitelezőkkel, és népszerű is maradtál. A Polgármester kedvel téged, de a korrupcióellenes hatóságok közpénz hűtlen kezelésével gyanúsítanak. Nyugi, valószínűleg nem kell börtönbe menned, de a Polgármester a lemondásodat követeli.</p>"
     },
     {
       "condition": {
@@ -4383,7 +4383,7 @@
       "title@es": "¿Cómo detectar un cartel?",
       "title@de": "Was sind die Merkmale eines Kartells?",
       "title@fr": "Comment détecter un cartel ?",
-      "title@hu": "Hogyan ismerjük fel egy kartellt?",
+      "title@hu": "Hogyan ismerjünk fel egy kartellt?",
       "body@en": "Cartels appear when contractors coordinate their offers. You can spot it when the prices of the offers to a public tender are close to one another.<br><br>Contractors agree who will have the lowest price and win the bid. The winner then pays off other members of the cartel.<br><br>Sometimes, a contractor leaves the cartel and makes a lower offer. It can be dangerous.",
       "body@es": "Los carteles se crean cuando los contratistas pactan sus ofertas. Puedes darte cuenta de ello porque las ofertas suelen estar muy cercanas entre sí.<br><br>Los contratistas se ponen de acuerdo sobre quién ofrecerá el precio más bajo y ganará la oferta. El ganador paga reparte el dinero entre los otros miembros del cartel.<br><br>A veces, un contratista deja el cartel y hace una oferta aun más baja.",
       "body@de": "Kartelle entstehen, wenn Auftragnehmer ihre Angebot koordinieren. Sollten sich die Preise der Angebote stark ähneln, kann dies ein Hinweis auf eventuelle Absprachen der Unternehmen sein.<br><br>Die Auftragnehmer handeln gemeinsam aus, wer das günstigste Angebot abgeben wird. Der Auftragnehmer, der den Zuschlag erhält, zahlt dann einen Teil des Gewinns an die übrigen Mitglieder des Kartells.<br><br> Es kann jedoch auch vorkommen, dass ein Auftragnehmer das Kartell verlässt und dem Auftraggeber ein günstigeres Angebot unterbreitet. Das kann dann gefährlich werden.",
