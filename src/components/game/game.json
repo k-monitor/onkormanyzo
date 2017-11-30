@@ -245,28 +245,32 @@
       "title@en": "Playing ball",
       "title@de": "Ball spielen",
       "title@fr": "Jeux de ballon",
-      "title@sl": "Igre z žogo"
+      "title@sl": "Igre z žogo",
+      "title@hu": "Nagy pénz, nagy foci"
     },
     "1997": {
       "picture": "images/years/tm.jpeg",
       "title@en": "Cartel",
       "title@de": "Kartell",
       "title@fr": "Cartel",
-      "title@sl": "Kartel"
+      "title@sl": "Kartel",
+      "title@hu": "Kartell"
     },
     "1998": {
       "picture": "images/years/roundabout.jpeg",
       "title@en": "Growing up",
       "title@de": "Wachsen",
       "title@fr": "Devenir grand",
-      "title@sl": "Odraščanje"
+      "title@sl": "Odraščanje",
+      "title@hu": "Növekedés"
     },
     "1999": {
       "picture": "images/years/cpn.jpeg",
       "title@en": "Be Your Own Boss",
       "title@de": "Selbstständig werden",
       "title@fr": "Indépendance",
-      "title@sl": "Sam svoj šef"
+      "title@sl": "Sam svoj šef",
+      "title@hu": "Magad ura"
     },
     "2000": {
       "picture": "images/years/berlin.jpeg",
@@ -274,97 +278,111 @@
       "title@de": "Die Karte",
       "title@fr": "La carte",
       "title@sl": "Kreditna kartica"
+      "title@hu": "Bankkártyázás"
     },
     "2001": {
       "picture": "images/years/cpn-2.jpeg",
       "title@en": "Adverts",
       "title@de": "Reklame",
       "title@fr": "Pubs",
-      "title@sl": "Oglaševanje"
+      "title@sl": "Oglaševanje",
+      "title@hu": "Hirdetésbiznisz"
     },
     "2002": {
       "picture": "images/years/atomium.jpeg",
       "title@en": "Game on",
       "title@de": "Spielstart",
       "title@fr": "Coup d'envoi",
-      "title@sl": "Dvojna podaja"
+      "title@sl": "Dvojna podaja",
+      "title@hu": "Játékban"
     },
     "2003": {
       "picture": "images/years/gare.jpeg",
       "title@en": "Invisible",
       "title@de": "Unsichtbar",
       "title@fr": "Invisible",
-      "title@sl": "Nevidni"
+      "title@sl": "Nevidni",
+      "title@hu": "Láthatatlan"
     },
     "2004": {
       "picture": "images/years/metro.jpeg",
       "title@en": "Interior design",
       "title@de": "Inneneinrichtung",
       "title@fr": "Décoration d'intérieur",
-      "title@sl": "Notranje oblikovanje"
+      "title@sl": "Notranje oblikovanje",
+      "title@hu": "Belsőépítészet"
     },
     "2005": {
       "picture": "images/years/tour-2.jpeg",
       "title@en": "Getting Bigger",
       "title@de": "Expansion",
       "title@fr": "Expansion",
-      "title@sl": "Stadion"
+      "title@sl": "Stadion",
+      "title@hu": "Stadionozás"
     },
     "2006": {
       "picture": "images/years/stairs.jpeg",
       "title@en": "Tentacles",
       "title@de": "Tentakel",
       "title@fr": "Tentacules",
-      "title@sl": "Lovke"
+      "title@sl": "Lovke",
+      "title@hu": "Csápok"
     },
     "2007": {
       "picture": "images/years/paris.jpeg",
       "title@en": "Trash",
       "title@de": "Müll",
       "title@fr": "Ordures",
-      "title@sl": "Smeti"
+      "title@sl": "Smeti",
+      "title@hu": "Hulladék"
     },
     "2008": {
       "picture": "images/years/bat.jpeg",
       "title@en": "Delays",
       "title@de": "Verzögerungen",
       "title@fr": "Retardé",
-      "title@sl": "Zamude"
+      "title@sl": "Zamude",
+      "title@hu": "Késedelmek"
     },
     "2009": {
       "picture": "images/years/airport.jpeg",
       "title@en": "Back to school",
       "title@de": "Zurück zur Schule",
       "title@fr": "Retour à la fac",
-      "title@sl": "Nazaj v šolo"
+      "title@sl": "Nazaj v šolo",
+      "title@hu": "Vissza az iskolapadba"
     },
     "2010": {
       "picture": "images/years/route.jpeg",
       "title@en": "High finance",
       "title@de": "Hochfinanz",
       "title@fr": "Haute finance",
-      "title@sl": "Svet visokih financ"
+      "title@sl": "Svet visokih financ",
+      "title@hu": "Milliárdos összegek"
     },
     "2011": {
       "picture": "images/years/building.jpeg",
       "title@en": "Family first",
       "title@de": "Familie hat Vorrang",
       "title@fr": "La famille d'abord",
-      "title@sl": "Družina na prvem mestu"
+      "title@sl": "Družina na prvem mestu",
+      "title@hu": "A család az első"
     },
     "2012": {
       "picture": "images/years/pool.jpeg",
       "title@en": "Going private",
       "title@de": "Drehtür",
       "title@fr": "Pantoufles",
-      "title@sl": "Na svoje"
+      "title@sl": "Na svoje",
+      "title@hu": "Saját biznisz"
     },
     "2013": {
       "picture": "images/years/italy.jpeg",
       "title@en": "The last tender",
       "title@de": "Letzter Aufruf",
       "title@fr": "Dernier appel",
-      "title@sl": "Zadnji poziv"
+      "title@sl": "Zadnji poziv",
+      "title@hu": "A végső közbeszerzés"
     }
   },
   "steps": [
@@ -385,7 +403,7 @@
           "text@de": "Sie sind die neue Geschäftsführerin hier, nicht wahr?",
           "text@fr": "Vous êtes ma nouvelle directrice de cabinet",
           "text@sl": "Veseli me, da boste pri nas kot vodja občinske uprave.",
-          "text@hu": "Hallom te vagy a gazdasági bizottság új vezetője."
+          "text@hu": "Azt beszélik, te vagy a gazdasági bizottság új vezetője."
         },
         {
           "character": "mayor",
@@ -418,7 +436,7 @@
               "text@de": "Vielen Dank, Frau Bürgermeisterin. Ich werde mein Bestes geben.",
               "text@fr": "Merci. Je ferai de mon mieux.",
               "text@sl": "Hvala, gospa županja. Vsi se bomo trudili po svojih najboljših močeh.",
-              "text@hu": "Köszönöm Asszonyom, igyekezni fogok."
+              "text@hu": "Köszönöm asszonyom, igyekezni fogok."
             },
             {
               "character": "mayor",
@@ -1410,7 +1428,7 @@
           "text@de": "Ihr Partner",
           "text@sl": "Vaš partner",
           "text@fr": "Votre époux ou partenaire",
-          "text@hu": "A házastársad vagy a párod",
+          "text@hu": "A házas- vagy élettársad",
           "var_changes": {
             "risk_police": 1
           },
@@ -1421,7 +1439,7 @@
               "text@de": "Mein Ehemann.",
               "text@fr": "Mon époux.",
               "text@sl": "Vaš partner",
-              "text@hu": "A párom."
+              "text@hu": "A házastársam."
             },
             {
               "character": "lawyer",
@@ -1855,7 +1873,7 @@
               "text@de": "Das haben Sie nicht ersthaft getan! Oder?",
               "text@fr": "Non, vous n'avez pas fait ça ?",
               "text@sl": "Ne! Saj si niste res privoščili tega?",
-              "text@hu": "Ügye nem?"
+              "text@hu": "Ugye nem?"
             },
             {
               "character": "lawyer",
@@ -1922,7 +1940,7 @@
           "text@de": "Ich möchte, dass mit Mitteln der Gemeinde in den Zeitungen für mich geworben wird.",
           "text@fr": "J'aimerais que vous me fassiez de la publicité dans le journal local en utilisant les fonds de la mairie.",
           "text@sl": "Želim, da v lokalnem časopisu z mestnimi sredstvi plačate nekaj oglasov o uspešnosti mojega dosedanjega dela.",
-          "text@hu": "Szeretném ha futtatnál néhány hirdetést a kiváló munkámról az újságokban, a város pénzén."
+          "text@hu": "Szeretném ha az önkormányzati kasszájából futtatnál néhány hirdetést a kiváló munkámról az újságokban."
         }
       ],
       "helper": [
@@ -2067,7 +2085,7 @@
           "text@de": "Damit wären alle zufriedengestellt. Und die Wähler wären doch sicher sehr enttäuscht, wenn Ihr Verein Konkurs anmelden müsste.",
           "text@fr": "Tout le monde serait content. Les électeurs seraient très déçus si leur club faisait faillite.",
           "text@sl": "S tem bi bili vsi zadovoljni, kajne. Volivci imajo radi svoj nogometni klub in ne bi želeli, da propade.",
-          "text@hu": "Így mindenki jól jár, nem? A választók utálnák, ha elmenne a csapat."
+          "text@hu": "Így mindenki jól jár, nem? A választók utálnák, ha szétesne a csapat."
         }
       ],
       "helper": [
