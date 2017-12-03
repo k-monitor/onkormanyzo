@@ -277,7 +277,7 @@
       "title@en": "The Card",
       "title@de": "Die Karte",
       "title@fr": "La carte",
-      "title@sl": "Kreditna kartica"
+      "title@sl": "Kreditna kartica",
       "title@hu": "Bankkártyázás"
     },
     "2001": {
@@ -732,7 +732,7 @@
           "text@sl": "Z veseljem.",
           "text@hu": "Persze",
           "var_changes": {
-            "personal_account": 1050000,
+            "personal_account": 15000,
             "risk_police": 1
           },
           "feedback": [
@@ -1848,7 +1848,7 @@
           "text@hu": "DVD-ket veszek az internetről a hitelkártyával.",
           "var_changes": {
             "risk_police": 4,
-            "personal_account": 10000
+            "personal_account": 1000
           },
           "feedback": [
             {
@@ -3206,7 +3206,7 @@
               "text@de": "Genial! Dann sind es die Studenten, die uns gerade zum Frühstück einladen.",
               "text@fr": "Ingénieux ! Ce sont ces étudiants qui nous invitent à déjeuner, alors !",
               "text@sl": "Res zvito. Naj torej študenti plačajo za najin obrok.",
-              "text@hu"? "Nagyon okos! Akkor a diákok fizetik a vacsoránkat!"
+              "text@hu": "Nagyon okos! Akkor a diákok fizetik a vacsoránkat!"
             },
             {
               "character": "university-boss",
@@ -3537,7 +3537,7 @@
           "text@sl": "Ne storite ničesar. Zasebno in poklicno življenje se ne mešata.",
           "text@hu": "Nem csinálok semmit. Nem szabad a magánéletemet és a szakmai életemet keverni.",
           "var_changes": {
-            "personal_account": -70000
+            "personal_account": -1000
           },
           "feedback": [
             {
@@ -4098,7 +4098,7 @@
       "body@de": "Die Regierungen haben viele Kompetenzen an private Unternehmen übertragen, sei es durch öffentlich-private Partnerschaften oder durch das Outsourcing von Dienstleistungen. Doch jede Interaktion mit einem privaten Unternehmen birgt die Gefahr von Interessenkonflikten.<br><br>Es ist äußerst schwierig für die Städtische Verwaltung herauszufinden wie viel eine Dienstleistung kostet und ob die von den privaten Dienstleitern in Rechnung gestellten Kosten angemessen sind. Präzise Kalkulationen setzen eine analytische Buchführung voraus, die von den Städten nur selten durchgeführt wird.",
       "body@fr": "Les administrations publiques ont transféré de nombreuses compétences à des sociétés privées, que ce soit via des partenariats public-privé ou via l'externalisation de services. Chaque interaction avec une société privée offre de nouvelles possibilités de conflits d'intérêts.<br><br>Il est difficile pour une ville de savoir combien un service coûte et de comparer ce coût avec le prix payé à une société privée, car la fourniture d'un service public implique souvent plusieurs départements (par exemple, un employé municipal peut travailler à la collecte des ordures un jour et aux jardins un autre jour). Faire de telles estimations nécessite une comptabilité analytique, ce que les villes font rarement.",
       "body@sl": "javna uprava je veliko svojih dejavnosti prenesla na zasebna podjetja - ali s pomočjo javno-zasebnih partnerstev, ali pa z deregulacijo, kar je pogost razlog, za nasprotje interesov.<br><br>Poznavanje stroškov posamezne dejavnosti je za občine velikokrat oteženo, saj lahko pri njej sodelujejo ljudje z različnih oddelkov (npr. nekateri delajo na oddelku za javne površine, drugi pa pri kakšnem drugem oddelku). Analitičnega računovostva, ki bi bilo potrebno v takšnih primerih, pa se občine običajno ne poslužujejo.",
-      "body@hu": "
+      "body@hu": ""
     },
     "fine_print": {
       "title@en": "The fine print in public contracts",

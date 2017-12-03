@@ -8,8 +8,8 @@ import CharacterService from './character.service';
 describe('filter: character', () => {
   const fixture = {
     mayor: {
-      "name@en": "Tarlimarli",
-      "title@en": "Főpolgi",
+      "name@en": "Birgit Meyer",
+      "title@en": "The Mayor",
       "title@fr": "Le Maire"
     },
     lawyer: {
@@ -33,7 +33,7 @@ describe('filter: character', () => {
     // Its name must be correct
     expect(character.name).toBe('Birgit Meyer');
     // Its title too
-    expect(character.title).toBe('Főpolgi');
+    expect(character.title).toBe('The Mayor');
   }));
 
   it('should have the provided avatar', angular.mock.inject(Character => {
@@ -59,10 +59,10 @@ describe('filter: character', () => {
   it('should have use english as fallback language', angular.mock.inject((Character, $translate) => {
     const character = new Character(fixture.mayor, 'mayor');
     // Its title must be correct
-    expect(character.title).toBe('Főpolgi');
+    expect(character.title).toBe('The Mayor');
     // Change the language
     $translate.use('de');
     // Its title must be correct
-    expect(character.title).toBe('Főpolgi');
+    expect(character.title).toBe('The Mayor');
   }));
 });
