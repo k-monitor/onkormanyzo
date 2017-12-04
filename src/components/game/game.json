@@ -1018,7 +1018,7 @@
           "text@de": "Der Verkauf eines öffentlichen Grundstücks kann schwierig sein.",
           "text@fr": "Les ventes immobilières sont souvent troubles.",
           "text@sl": "Nepremičninski posli znajo biti precej motni.",
-          "text@hu": "A földeladások homályosak tudnak lenni."
+          "text@hu": "Az ingatlaneladások homályosak tudnak lenni."
         },
         {
           "character": "helper",
@@ -1316,7 +1316,7 @@
           "text@de": "Sie sollten [dieses Dossier lesen|conflicts_of_interest],bevor Sie eine Entscheidung treffen.",
           "text@fr": "Vous devriez [lire ceci|conflicts_of_interest] avant de décider de quoi que ce soit.",
           "text@sl": "Morda bi bilo dobro, če [bi prebrali to|conflicts_of_interest], preden se karkoli odločite.",
-          "text@hu": "Lehet el kéne [olvasnod ezt|conflicts of interest] az összeférhetetlenségről, mielőtt eldöntesz bármit."
+          "text@hu": "Lehet el kéne [olvasnod ezt|conflicts_of_interest] az összeférhetetlenségről, mielőtt döntést hozol."
         }
       ],
       "choices": [
@@ -1536,7 +1536,7 @@
           "text@de": "Sie befinden sich nun an der Spitze eines Kartells! Mein [Memo über das Kartell ist noch immer da|cartel].",
           "text@fr": "Vous voilà à la tête d'un cartel ! Mon [mémo sur les cartels est toujours là|cartel] si besoin.",
           "text@sl": "Šest let v mestni hiši in že ste na čelu kartela. Morda bi bilo dobro, da še enkrat preberete [mojo predstavitev o kartelih|cartel].",
-          "text@hu": "6 éve vagy itt és máris kartellezel! Itt a [jegyzetem a témáról|cartel] ha kell."
+          "text@hu": "6 éve vagy itt és máris benne vagy a kartellezésben! Itt a [jegyzetem a témáról|cartel] ha kell."
         }
       ],
       "choices": [
@@ -2069,7 +2069,7 @@
           "text@de": "Ich habe mir gedacht ... Die Stadt könnte das Grundstück zurückkaufen, welches sie mir 1996 verkauft hat.",
           "text@fr": "Je me disais... La ville pourrait me racheter le terrain que vous m'avez vendu en 1996.",
           "text@sl": "Razmišljal sem ... Mesto bi lahko od kluba odkupilo zemljišče, ki nam ga je prodalo leta 1996.",
-          "text@hu": "Gondolkoztam... A város visszavásárolhatná a földet, amit eladott még 1996-ban."
+          "text@hu": "Gondolkoztam... A város visszavásárolhatná a telket, amit még 1996-ban adott el."
         },
         {
           "character": "football-boss",
@@ -2112,7 +2112,7 @@
           "text@de": "Das Grundstück zurückkaufen.",
           "text@fr": "Racheter le terrain.",
           "text@sl": "Odkupite zemljo od kluba.",
-          "text@hu": "Visszavásárlom a földet.",
+          "text@hu": "Visszavásárlom a telket.",
           "var_changes": {
             "reserves": -12,
             "resources": 0.2
@@ -4052,7 +4052,7 @@
       "body@de": "Politiker können ihren Einfluß auf öffentliche Organisationen und Firmen und Firmen sowohl direkt als auch durch sogenannten Klientelismus ausüben. So können Sie etwa von Firmen verlangen Werbung für Sie zu machen. Für den Staatsanwalt ist es dabei äußerst schwierig nachzuweisen, dass die Firma nicht aus Eigeninteresse handelt.<br><br>Mehr zum Thema finden Sie unter <a href='http://www.cookingbudgets.com/ads/' target='_blank'>Ads, ads, ads</a> von Cooking Budgets.",
       "body@fr": "Les élus peuvent contrôler des sociétés publiques, soit directement, soit via des liens de clientélisme. Ils peuvent demander à ces sociétés d'acheter des espaces publicitaires dans des journaux pour faire faire leur propre promotion. C'est très difficile pour un procureur de prouver que la publicité était faite dans l'intérêt de l'élu et non pas dans l'intérêt de la société elle-même.<br><br>Lisez <a href='http://www.cookingbudgets.com/ads/' target='_blank'>Ads, ads, ads</a> [en anglais] sur Cooking Budgets pour en savoir plus.",
       "body@sl": "Politiki lahko nadzorujejo javna podjetja neposredno ali prek mreže zaupnikov. Od njih lahko zahtevajo zakup oglasnega prostora, s katerim se nato oglašuje njihovo politično delovanje in ne delovanja podjetja. Tožilcem je izjemno težko dokazati, da oglaševanje ni bilo v skladu z interesi podjetja.<br><br>Več na <a href='http://www.cookingbudgets.com/ads/' target='_blank'>Ads, ads, ads</a> pri Cooking Budgets.",
-      "body@hu": "Politicians can control public companies, either directly or through patronage networks. They might require them to buy advertising in newspapers that advertise their performance as a politician and not the company itself. It's very hard for prosecutors to prove that the advertising was not done in the interest of the company.<br><br>Read more under <a href='http://www.cookingbudgets.com/ads/' target='_blank'>Ads, ads, ads</a> at Cooking Budgets."
+      "body@hu": "A politikusok közvetlenül vagy klientúrájuk révén köztulajdonú vállalatokat irányítanak. Hatalmuk révén nyomást gyakorolhatnak a vállalatokra, hogy hirdessenek bizonyos általuk meghatalmazott lapokban. Akár az is előfordulhat, hogy nem a vállalat teljesítményét kommunikálják, hanem a politikusnak megfelelő álláspontot hírdetik. Egy esetleges vizsgálatnak nincs könnyű dolga ha meg akarja állapítani, hogy a benyalós hirdetés nem a vállalat saját döntése volt. <br><br>Hazai sajtóban megjelent <a href='http://k-monitor.hu/adatbazis/cimkek/hirdetes' target='_blank'>hirdetéses ügyeket a K-Monitor sajtóadatbázisában találsz</a>."
     },
     "emphyteutic": {
       "title@en": "Leasing public space to private companies",
