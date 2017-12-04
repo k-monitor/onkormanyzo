@@ -64,7 +64,7 @@
       "label@de": "Misstrauen der Industrie",
       "label@fr": "Méfiance des industriels",
       "label@sl": "Nezaupanje zasebnega sektorja",
-      "label@hu": "Üzleti bizalmatlanság"
+      "label@hu": "Ipari bizalmatlanság"
     },
     "risk_political": {
       "value": 0,
@@ -277,7 +277,7 @@
       "title@en": "The Card",
       "title@de": "Die Karte",
       "title@fr": "La carte",
-      "title@sl": "Kreditna kartica"
+      "title@sl": "Kreditna kartica",
       "title@hu": "Bankkártyázás"
     },
     "2001": {
@@ -411,7 +411,7 @@
           "text@de": "Es gibt Stimmen, die behaupten, die Stadt habe mit Korruption zu kämpfen. Hören Sie einfach nicht hin 😒.",
           "text@fr": "Certains disent que cette ville est corrompue. Ne les écoutez pas 😒.",
           "text@sl": "Nekateri pravijo, da je naša občina prepredena s korupcijo. Ne poslušajte jih. 😒",
-          "text@hu": "A pletykák szerint a város nagyon korrupt. Ne higyj ezeknek. 😒"
+          "text@hu": "Az a pletyka járja, hogy a város nagyon korrupt. Ne higyj ezeknek. 😒"
         },
         {
           "character": "mayor",
@@ -428,7 +428,7 @@
           "text@de": "Los geht’s",
           "text@fr": "Commencer",
           "text@sl": "Začni",
-          "text@hu": "Tovább",
+          "text@hu": "Menj",
           "feedback": [
             {
               "character": "you",
@@ -452,7 +452,7 @@
               "text@de": "Frau Salzwedel ist Ihre Assistentin.",
               "text@fr": "Madame Lambert est votre assistante.",
               "text@sl": "Gospa Mateja Skovir je vaša asistentka.",
-              "text@hu": "Ági lesz a tanácsadód."
+              "text@hu": "Ági a tanácsadód."
             },
             {
               "character": "mayor",
@@ -732,7 +732,7 @@
           "text@sl": "Z veseljem.",
           "text@hu": "Persze",
           "var_changes": {
-            "personal_account": 1050000,
+            "personal_account": 15000,
             "risk_police": 1
           },
           "feedback": [
@@ -1848,7 +1848,7 @@
           "text@hu": "DVD-ket veszek az internetről a hitelkártyával.",
           "var_changes": {
             "risk_police": 4,
-            "personal_account": 10000
+            "personal_account": 1000
           },
           "feedback": [
             {
@@ -3206,7 +3206,7 @@
               "text@de": "Genial! Dann sind es die Studenten, die uns gerade zum Frühstück einladen.",
               "text@fr": "Ingénieux ! Ce sont ces étudiants qui nous invitent à déjeuner, alors !",
               "text@sl": "Res zvito. Naj torej študenti plačajo za najin obrok.",
-              "text@hu"? "Nagyon okos! Akkor a diákok fizetik a vacsoránkat!"
+              "text@hu": "Nagyon okos! Akkor a diákok fizetik a vacsoránkat!"
             },
             {
               "character": "university-boss",
@@ -3537,7 +3537,7 @@
           "text@sl": "Ne storite ničesar. Zasebno in poklicno življenje se ne mešata.",
           "text@hu": "Nem csinálok semmit. Nem szabad a magánéletemet és a szakmai életemet keverni.",
           "var_changes": {
-            "personal_account": -70000
+            "personal_account": -1000
           },
           "feedback": [
             {
@@ -4016,7 +4016,7 @@
       "body@de": "Städte sind häufig im Besitz großer Grundstücke und Immobilien. Diese können zu Marktpreisen verkauft werden oder aber zu günstigeren Konditionen, etwa um für potentielle Käufer zusätzliche Anreize zu schaffen. Solche Gefallen sind äußerst schwierig aufzudecken, denn häufig gibt es gar keinen Markt für zumeist große Gebäude oder Grundstücke im Stadtzentrum. Es fällt daher entsprechend schwer den Marktpreis zu bestimmen.",
       "body@fr": "Les villes possèdent souvent des terrains et des immeubles. Ces biens peuvent être vendus au prix du marché ou à des prix plus bas, pour faire un cadeau à l'acheteur. Il est fort difficile d'identifier ces transactions frauduleuses car, le plus souvent, il n'existe pas vraiment de marché pour un immeuble entier ou un grand terrain en centre ville.",
       "body@sl": "Občine imajo pogosto v lasti večja zemljišča. Ta lahko prodajo po tržnih cenah, ali pa jih po nižji ceni prijateljsko ponudijo določenemu kupcu. Običajno je težko določiti, za kakšen primer gre, saj na trgu ni veliko kupcev za tovrstna zemljišča.",
-      "body@hu": "Sokszor vannak nagy területű ingatlanok a városok tulajdonában. Ezeket vagy piaci, vagy bizonyos feltételek mellett kedvezményes áron értékesíthetik. Az ilyen nagy területek szűkössége és miatt is nehéz pontosan megállapítani, mikor jár rosszul egy önkormányzat és mikor dolgoznak magánérdekektől befolyásoltan a hivatalnokok.<br><br>Hazai sajtóban megjelent <a href='http://k-monitor.hu/adatbazis/cimkek/vesztegetes' target='_blank'>vesztegetéses ügyeket a K-Monitor sajtóadatbázisában találsz</a>."
+      "body@hu": "Sokszor vannak nagy területű ingatlanok a városok tulajdonában. Ezeket vagy piaci, vagy bizonyos feltételek mellett kedvezményes áron értékesíthetik. Az ilyen nagy területek szűkössége és miatt is nehéz pontosan megállapítani, mikor jár rosszul egy önkormányzat és mikor dolgoznak magánérdekektől befolyásoltan a hivatalnokok.<br><br>Hazai sajtóban megjelent <a href='http://k-monitor.hu/adatbazis/cimkek/ingatlan' target='_blank'>ingatlanos ügyeket a K-Monitor sajtóadatbázisában találsz</a>."
     },
     "conflicts_of_interest": {
       "title@en": "Conflicts of interest",
@@ -4035,7 +4035,7 @@
       "title@de": "Kreditkarten im öffentlichen Sektor",
       "title@fr": "Utiliser la carte bleue officielle",
       "title@sl": "Uporaba službene kreditne kartice",
-      "title@hu": "A hivatali hitelkártya használata",
+      "title@hu": "A hivatalos hitelkártya használata",
       "body@sl": "Uporaba službene kartice za zasebne namene je lahko zelo mamljiva. A to porabo je zelo lahko izslediti, zato je takšno početje lahko precej nevarno.<br><br>Več na <a href='http://www.cookingbudgets.com/the-credit-card/' target='_blank'>The Credit Card</a> pri Cooking Budgets.",
       "body@en": "It can be tempting to use the credit card of the city or the government to buy stuff for you. Because it's very easy to trace, it can be dangerous!<br><br>Read more under <a href='http://www.cookingbudgets.com/the-credit-card/' target='_blank'>The Credit Card</a> at Cooking Budgets.",
       "body@de": "Eine Kreditkarte, die direkt mit der Staatskasse verbunden ist, kann schon verführerisch sein. Da aber die damit getätigten Einkäufe sehr leicht nachverfolgt werden können, birgt sie auch ihre Gefahren!<br><br>Mehr zum Thema finden Sie unter <a href='http://www.cookingbudgets.com/the-credit-card/' target='_blank'>The Credit Card</a> von Cooking Budgets.",
@@ -4064,7 +4064,7 @@
       "body@de": "Der einfachste Weg für einen Politiker, eine private Firma zu unterstützen ist, eines ihrer Gebäude zu kaufen, und es anschließend an sie zu vermieten. Solche Operationen sind schwer nach zu verfolgen und völlig legal.<br><br>Mehr zum Thema finden Sie unter <a href='http://www.cookingbudgets.com/the-emphyteutic-scam/' target='_blank'>The Emphyteutic Scam</a> von Cooking Budgets.",
       "body@fr": "L'une des manières les plus simples pour un élu ou un fonctionnaire de subventionner une société privée est de lui acheter un bien immobilier puis de la lui louer à un très bas prix. L'opération est complexe à tracer et complètement légale.<br><br>Lisez <a href='http://www.cookingbudgets.com/the-emphyteutic-scam/' target='_blank'>The Emphyteutic Scam</a> [en anglais] sur Cooking Budgets pour en savoir plus.",
       "body@sl": "Najlažji način za podporo politika zasebnemu podjetju je odkup nepremičnine od podjetja, ki se mu jo nato ponudi v najem za nizko ceno. Operacijo je težko izslediti, hkrati pa je povsem legalna.<br><br>Read more under <a href='http://www.cookingbudgets.com/the-emphyteutic-scam/' target='_blank'>The Emphyteutic Scam</a> at Cooking Budgets.",
-      "body@hu": "A legkönnyebb módja a magáncégek támogatásának, ha a közpénzből megveszik az épületüket, amit a cég alacsony áron visszabérel. Nagyon nehéz nyomonkövetni és teljesen legális.Érdekel egy példa erre (angolul)? <br><br>Olvass utána a <a href='http://www.cookingbudgets.com/the-emphyteutic-scam/' target='_blank'>az ingatlanmutyiknak</a> a Cooking Budgets-en."
+      "body@hu": "A legkönnyebb módja a magáncégek támogatásának, ha a közpénzből megveszik az épületüket, amit a cég alacsony áron visszabérel. Nagyon nehéz nyomonkövetni és látszólag teljesen legális. Érdekel egy példa erre (angolul)? <br><br>Olvass utána a <a href='http://www.cookingbudgets.com/the-emphyteutic-scam/' target='_blank'>az ingatlanmutyiknak</a> a Cooking Budgets-en."
     },
     "fake": {
       "title@en": "Fake public contracts",
@@ -4100,7 +4100,7 @@
       "body@de": "Die Regierungen haben viele Kompetenzen an private Unternehmen übertragen, sei es durch öffentlich-private Partnerschaften oder durch das Outsourcing von Dienstleistungen. Doch jede Interaktion mit einem privaten Unternehmen birgt die Gefahr von Interessenkonflikten.<br><br>Es ist äußerst schwierig für die Städtische Verwaltung herauszufinden wie viel eine Dienstleistung kostet und ob die von den privaten Dienstleitern in Rechnung gestellten Kosten angemessen sind. Präzise Kalkulationen setzen eine analytische Buchführung voraus, die von den Städten nur selten durchgeführt wird.",
       "body@fr": "Les administrations publiques ont transféré de nombreuses compétences à des sociétés privées, que ce soit via des partenariats public-privé ou via l'externalisation de services. Chaque interaction avec une société privée offre de nouvelles possibilités de conflits d'intérêts.<br><br>Il est difficile pour une ville de savoir combien un service coûte et de comparer ce coût avec le prix payé à une société privée, car la fourniture d'un service public implique souvent plusieurs départements (par exemple, un employé municipal peut travailler à la collecte des ordures un jour et aux jardins un autre jour). Faire de telles estimations nécessite une comptabilité analytique, ce que les villes font rarement.",
       "body@sl": "javna uprava je veliko svojih dejavnosti prenesla na zasebna podjetja - ali s pomočjo javno-zasebnih partnerstev, ali pa z deregulacijo, kar je pogost razlog, za nasprotje interesov.<br><br>Poznavanje stroškov posamezne dejavnosti je za občine velikokrat oteženo, saj lahko pri njej sodelujejo ljudje z različnih oddelkov (npr. nekateri delajo na oddelku za javne površine, drugi pa pri kakšnem drugem oddelku). Analitičnega računovostva, ki bi bilo potrebno v takšnih primerih, pa se občine običajno ne poslužujejo.",
-      "body@hu": "
+      "body@hu": ""
     },
     "fine_print": {
       "title@en": "The fine print in public contracts",
@@ -4136,7 +4136,7 @@
       "body@de": "Entgegen der landläufigen Meinung ist die Buchhaltung eine recht flexible Angelegenheit. Ja sie muss sogar flexibel sein, um sich an die jeweils spezifische Situation einer Organisation anpassen zu können. Doch kann diese Flexibilität ebenso gut missbraucht werden.<br><br>Ein Buchhalter kann beispielsweise alle zukünftigen Einnahmen aus einem Objekt als Einmalzahlung verbuchen. Das ist manchmal legitim, etwa wenn Aktien verkauft werden. Bei Mieteinnahmen aus Sozialwohnungen ist dieses Prozedere hingegen unzulässig.<br><br>Mehr zum Thema finden Sie unter <a href='http://www.cookingbudgets.com/the-capitalized-rents/' target='_blank'>The Capitalized Rents</a> von Cooking Budgets.",
       "body@fr": "Contrairement à une idée reçue, la comptabilité est très flexible. Elle doit être flexible car elle doit s'adapter à la situation de chaque institution. Cette flexibilité peut être utilisée à mauvais escient.<br><br>Une astuce comptable consiste à considérer que tous les revenus futurs d'un bien en location ne sont en fait qu'une seule somme d'argent qui peut être comptabilisée d'un coup, même si elle sera payée dans le futur.<br><br>Lisez <a href='http://www.cookingbudgets.com/the-capitalized-rents/' target='_blank'>The Capitalized Rents</a> [en anglais] sur Cooking Budgets pour en savoir plus.",
       "body@sl": "V nasprotju s splošnim prepričanjem je računovodstvu zelo fleksibilno. Fleksibilnost je nujna, saj mora računovodstvo realno odražati finančno situacijo institucij, ki so si med seboj lahko izjemno različne.<br><br>Z enim od trikov se vse bodoče prihodke zavede v obliki povprečnine v tem trenutku, čeprav bodo dejansko na računu šele v prihodnosti.<br><br> Več na <a href='http://www.cookingbudgets.com/the-capitalized-rents/' target='_blank'>The Capitalized Rents</a> pri Cooking Budgets.",
-      "body@hu": "A közhiedelemmel ellentétben a könyvelés nagyon rugalmas tud lenni. Rugalmasnak is kell lennie, mivel őszintén kell bemutatnia egy intézet pénzügyi helyzetét, és más-más helyzetek nagyon különbözőek tudnak lenni.<br><br> Az egyik trükk, amikor egy bevételi forrásból mindent egy nagy összegben könyvelnek el, akkor is, ha a pénz csak később érkezik be."
+      "body@hu": "A közhiedelemmel ellentétben a könyvelés nagyon rugalmas tud lenni. Rugalmasnak is kell lennie, mivel egy intézmény valódi pénzügyi helyzetét kell tükröznie és azt külső váratlan tényezők is befolyásolhatják.<br><br> Ezt a kiskaput kihasználva gyakran trükköznek azzal, hogy egy bevételi forrásból mindent egy összegben könyvelnek el, akkor is, ha a pénz csak később, részletekben érkezik be."
     },
     "relatives": {
       "title@en": "Hiring relatives",
@@ -4148,19 +4148,19 @@
       "body@de": "In mänchen Ländern ist es der öffentlichen Verwaltung untersagt Familienangehörige einzustellen. Selbst wenn es kein juristisches Risiko birgt (ihr Partner kann der Beste für den Job sein), so besteht ein politisches Restrisiko. Um Ihre Verwandten zu versorgen tun Sie besser daran bei einer Ihnen wohlgesonnenen Firma anzufragen. Zum Dank können Sie der Firma einen Auftrag erteilen, so dass die für die neue Stelle benötigten Gelder rasch zur Verfügungen stehen.",
       "body@fr": "Dans certains pays, il est interdit d'embaucher des proches en tant qu'assistant. Quand bien même il n'y aurait pas de risque légal (après tout, votre partenaire peut être le plus qualifié pour le job), cela reste un risque politique. Pour caser vos proches, il vaut mieux demander à une société avec laquelle vous êtes en bons termes de l'embaucher (vous pouvez ensuite donner un contrat public à cette société pour financer le nouveau poste qu'elle a du créer).",
       "body@sl": "V nekaterih državah je prepovedano za asistente najemati sorodnike. Ni nujno protizakonito (saj je lahko vaš partner dejansko najbolj kvalificirana oseba za določen položaj), vendar je vedno politično občutljivo. Bolj varno je sorodnika zaposliti pri enem od prijateljskih podjetij, ki se jim nato zagotovi pogodba z mestom/občino z za določen posel.",
-      "body@hu": "Néhány országban tilos rokonokat asszisztensként alkalmazni. Miközben ez jogilag nem kockázatos (lehet, hogy a házastársad a legképzettebb a pozícióra), politikailag az lehet. Biztonságosabb megkérni egy baráti céget, hogy vegyék fel (cserébe nekik adhatsz egy közbeszerzést, hogy finanszírozd az új alkalmazottat)."
+      "body@hu": "Az összeférhetetlenség egyik fajtája a rokonok alkalmazása a hivatalokban. Gyakran előfordul, hogy egyes önkormányzatokban elszaporodnak egy család tagjai. Kemény dió, mert előfordulhat, hogy a házastársad a legképzettebb a pozícióra, politikailag mégis kínosan jöhetsz ki belőle."
     },
     "door": {
       "title@en": "The Revolving Door",
       "title@de": "Das Stellenkarussell",
       "title@sl": "Vrtljiva vrata",
       "title@fr": "Le pantouflage",
-      "title@hu": "A forgóajtó-jelenség", 
+      "title@hu": "Forgóajtó jelenség", 
       "body@en": "After a career in the administration, public officials can be invited to work in the private sectors. Their contacts and their in-depth knowledge of how an administration works are very valuable for a private company. Sometimes, the promise of having a plump job is enough to convince a public official to take a decision in favor of a private company.<br><br>Read more under <a href='http://www.cookingbudgets.com/the-revolving-door/' target='_blank'>The Revolving Door</a> at Cooking Budgets.",
       "body@de": "Im Anschluss an eine Karriere im öffentlichen Sektor werden hohen Beamten häufig Stellen in der Privatwirtschaft angeboten. Ihre Kontakte und ihr Fachwissen werden dort sehr geschätzt. Und manchmal genügt schon ein in Aussicht gestellter hoher Posten, um einen Beamten ausreichend zu beeinflussen noch während seiner Amtszeit Entscheidungen zu treffen, die dem Unternehmen zu Gute kommen.<br><br>Mehr zum Thema finden Sie unter <a href='http://www.cookingbudgets.com/the-revolving-door/' target='_blank'>The Revolving Door</a> von Cooking Budgets.",
       "body@fr": "Après une carrière dans l'administration publique, certains fonctionnaires sont invités à travailler dans le secteur privé. Leurs contacts et leur connaissance du fonctionnement de l'administration sont très utiles à une société privée. Parfois, la promesse de recevoir un poste bien doté suffit à convaincre un élu ou un fonctionnaire de prendre une décision favorable à cette société privée.<br><br>Lisez <a href='http://www.cookingbudgets.com/the-revolving-door/' target='_blank'>The Revolving Door</a> [en anglais] sur Cooking Budgets pour en savoir plus.",
       "body@sl": "Po karieri v javni upravi se javni uslužbenci lahko zaposlijo v zasebnem sektorju. Njihovi kontakti in globinsko poznavanje delovanja uprave so zelo dragoceni za zasebna podjetja. Včasih je dovolj že obljuba dobre službe, da javni uslužbenec sprejme odločitev v korist določenega podjetja. <br><br>Read more under <a href='http://www.cookingbudgets.com/the-revolving-door/' target='_blank'>The Revolving Door</a> pri Cooking Budgets.",
-      "body@hu": "Ex-állami vezetőket, hivatalnokokat később meghívhatnak, hogy a magánszektorban folytassák. A kapcsolataik és a tudásuk a kormányzati működésről nagyon értékes lehet egy magáncégnek. Egy zsíros ajánlat sokszor elég, hogy egy céget előnyben részesítsen. Magyarországon is gyorsan pörög a forgóajtó.<br><br>Olvass utána a hazai eseteknek <a href='http://k-monitor.hu/adatbazis/cimkek/forgoajto' target='_blank'>a K-Monitor adatbázisában</a>."
+      "body@hu": "Forgóajtó jelenségnek hívjuk, amikor állami vezetők, hivatalnokok a közszférából átnyargalnak a magánszektorba (és esetleg oda-vissza). A kapcsolataik és a tudásuk a kormányzat belső működéséről nagyon értékes lehet egy magáncégnek, amivel könnyebben juthatnak hozzá zsíros ajánlatokhoz. <br><br>Magyarországon is gyorsan pörög a forgóajtó. Olvass utána a hazai eseteknek <a href='http://k-monitor.hu/adatbazis/cimkek/forgoajto' target='_blank'>a K-Monitor sajtóadatbázisában</a>."
     }
   }
 }
