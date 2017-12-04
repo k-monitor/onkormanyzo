@@ -1400,7 +1400,7 @@
           "text@de": "Sie persönlich",
           "text@fr": "Vous personnement",
           "text@sl": "Vi osebno",
-          "text@hu": "Személyesen te",
+          "text@hu": "Személyesen én",
           "var_changes": {
             "risk_police": 2
           },
