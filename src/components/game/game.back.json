@@ -64,7 +64,7 @@
       "label@de": "Misstrauen der Industrie",
       "label@fr": "Méfiance des industriels",
       "label@sl": "Nezaupanje zasebnega sektorja",
-      "label@hu": "Ipari bizalmatlanság"
+      "label@hu": "Üzleti bizalmatlanság"
     },
     "risk_political": {
       "value": 0,
@@ -411,7 +411,7 @@
           "text@de": "Es gibt Stimmen, die behaupten, die Stadt habe mit Korruption zu kämpfen. Hören Sie einfach nicht hin 😒.",
           "text@fr": "Certains disent que cette ville est corrompue. Ne les écoutez pas 😒.",
           "text@sl": "Nekateri pravijo, da je naša občina prepredena s korupcijo. Ne poslušajte jih. 😒",
-          "text@hu": "Az a pletyka járja, hogy a város nagyon korrupt. Ne higyj ezeknek. 😒"
+          "text@hu": "A pletykák szerint a város nagyon korrupt. Ne higyj ezeknek. 😒"
         },
         {
           "character": "mayor",
@@ -428,7 +428,7 @@
           "text@de": "Los geht’s",
           "text@fr": "Commencer",
           "text@sl": "Začni",
-          "text@hu": "Menj",
+          "text@hu": "Tovább",
           "feedback": [
             {
               "character": "you",
@@ -452,7 +452,7 @@
               "text@de": "Frau Salzwedel ist Ihre Assistentin.",
               "text@fr": "Madame Lambert est votre assistante.",
               "text@sl": "Gospa Mateja Skovir je vaša asistentka.",
-              "text@hu": "Ági a tanácsadód."
+              "text@hu": "Ági lesz a tanácsadód."
             },
             {
               "character": "mayor",
