@@ -1845,7 +1845,7 @@
           "text@de": "Mit der Kreditkarte DVDs auf amazon.de kaufen.",
           "text@fr": "Utiliser la carte de crédit pour acheter des DVD sur Amazon.fr",
           "text@sl": "Preizkusite kartico in na Amazonu naročite nekaj DVD-jev.",
-          "text@hu": "DVD-ket veszek az internetről a hitelkártyával.",
+          "text@hu": "Veszek pár dolgot az internetről a hitelkártyával.",
           "var_changes": {
             "risk_police": 4,
             "personal_account": 1000
@@ -1865,7 +1865,7 @@
               "text@de": "Ich werde mir ein paar DVDs auf amazon.de kaufen.",
               "text@fr": "Je vais m'acheter des DVD sur Amazon.fr",
               "text@sl": "No, pa naročimo nekaj filmov na Amazonu.",
-              "text@hu": "Vegyünk pár DVD-t az internetről"
+              "text@hu": "Vegyünk pár dolgot az internetről"
             },
             {
               "character": "lawyer",
