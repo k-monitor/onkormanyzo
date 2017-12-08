@@ -25,6 +25,7 @@ This tool is part of <strong><a target="_blank" href="http://openbudgets.eu/">Op
 # Szeretnél segíteni?
 
 Legyél a K-Monitor önkéntese! Vedd fel velünk a kapcsolatot az **info@k-monitor.hu** címen.
+
 <a target="_blank" href="http://k-monitor.hu/tamogatas">**Támogass minket rendszeres vagy eseti adománnyal!**</a>
 
 A készítők hálásak lennének, ha segítenél lefordítani a játékot, vagy hozzájárulnál a [Cooking Budgetshez](http://cookingbudgets.com/) helyi korrupciós példákkal.
@@ -32,11 +33,8 @@ A készítők hálásak lennének, ha segítenél lefordítani a játékot, vagy
 <table>
 
 <tr>
-
 	<td><img proton-src="./images/logos/eu-flag.jpg" name="European Union flag" width="100px" border="0"></td>
-
 	<td>A projekt az Európai Unió Horizon 2000 kutatás és fejlesztési programjából kapott támogatást, a 645833 megállapodás alapján</td>
-
 </tr>
 
 </table>
