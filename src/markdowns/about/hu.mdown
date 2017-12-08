@@ -20,7 +20,7 @@ A **politikai elutasítottság** a népszerűtlen döntések hatására növeksz
 
 Minden döntés után a kockázati mutató /20 valószínűséggel bekövetkezhet a játék vége az adott kockázati mutató hatására. Ha tehát a jogi kockázatod 9, akkor 9/20-hoz az esélyed, hogy a rendőrség letartóztat a következő lépésben!
 
-This tool is part of <strong><a target="_blank" href="http://openbudgets.eu/">OpenBudgets.eu</a>: Fighting Corruption with Fiscal Transparency</strong>, a consortium that includes <a target="_blank" href="https://okfn.org/">Open Knowledge</a>, <a target="_blank" href="https://okfn.de/">Open Knowledge Germany</a>, <a target="_blank" href="http://okfn.gr/">Open Knowledge Greece</a>, <a target="_blank" href="https://www.iais.fraunhofer.de/en.html">Fraunhofer IAIS</a>, <a target="_blank" href="https://www.uni-bonn.de/">University of Bonn</a>, <a target="_blank" href="http://www.civio.es/en/">CIVIO</a>, <a target="_blank" href="http://transparency.eu//">Transparency Int. EU</a>, <a target="_blank" href="https://en.wikipedia.org/wiki/Journalism%2B%2B">Journalism++</a> and <a target="_blank" href="https://www.vse.cz/english/">University of Economics - Prague</a>.
+
 
 # Szeretnél segíteni?
 
@@ -36,5 +36,5 @@ A készítők hálásak lennének, ha segítenél lefordítani a játékot, vagy
 	<td><img proton-src="./images/logos/eu-flag.jpg" name="European Union flag" width="100px" border="0"></td>
 	<td>A projekt az Európai Unió Horizon 2000 kutatás és fejlesztési programjából kapott támogatást, a 645833 megállapodás alapján</td>
 </tr>
-
 </table>
+This tool is part of <strong><a target="_blank" href="http://openbudgets.eu/">OpenBudgets.eu</a>: Fighting Corruption with Fiscal Transparency</strong>, a consortium that includes <a target="_blank" href="https://okfn.org/">Open Knowledge</a>, <a target="_blank" href="https://okfn.de/">Open Knowledge Germany</a>, <a target="_blank" href="http://okfn.gr/">Open Knowledge Greece</a>, <a target="_blank" href="https://www.iais.fraunhofer.de/en.html">Fraunhofer IAIS</a>, <a target="_blank" href="https://www.uni-bonn.de/">University of Bonn</a>, <a target="_blank" href="http://www.civio.es/en/">CIVIO</a>, <a target="_blank" href="http://transparency.eu//">Transparency Int. EU</a>, <a target="_blank" href="https://en.wikipedia.org/wiki/Journalism%2B%2B">Journalism++</a> and <a target="_blank" href="https://www.vse.cz/english/">University of Economics - Prague</a>.
