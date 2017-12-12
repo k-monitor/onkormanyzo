@@ -64,7 +64,7 @@
       "label@de": "Misstrauen der Industrie",
       "label@fr": "Méfiance des industriels",
       "label@sl": "Nezaupanje zasebnega sektorja",
-      "label@hu": "Ipari bizalmatlanság"
+      "label@hu": "Üzleti bizalmatlanság"
     },
     "risk_political": {
       "value": 0,
@@ -411,7 +411,7 @@
           "text@de": "Es gibt Stimmen, die behaupten, die Stadt habe mit Korruption zu kämpfen. Hören Sie einfach nicht hin 😒.",
           "text@fr": "Certains disent que cette ville est corrompue. Ne les écoutez pas 😒.",
           "text@sl": "Nekateri pravijo, da je naša občina prepredena s korupcijo. Ne poslušajte jih. 😒",
-          "text@hu": "Az a pletyka járja, hogy a város nagyon korrupt. Ne higyj ezeknek. 😒"
+          "text@hu": "A pletykák szerint a város nagyon korrupt. Ne higyj ezeknek. 😒"
         },
         {
           "character": "mayor",
@@ -452,7 +452,7 @@
               "text@de": "Frau Salzwedel ist Ihre Assistentin.",
               "text@fr": "Madame Lambert est votre assistante.",
               "text@sl": "Gospa Mateja Skovir je vaša asistentka.",
-              "text@hu": "Ági a tanácsadód."
+              "text@hu": "Ági lesz a tanácsadód."
             },
             {
               "character": "mayor",
@@ -1018,7 +1018,7 @@
           "text@de": "Der Verkauf eines öffentlichen Grundstücks kann schwierig sein.",
           "text@fr": "Les ventes immobilières sont souvent troubles.",
           "text@sl": "Nepremičninski posli znajo biti precej motni.",
-          "text@hu": "A földeladások homályosak tudnak lenni."
+          "text@hu": "Az ingatlanprivatizációk homályosak tudnak lenni."
         },
         {
           "character": "helper",
@@ -1035,7 +1035,7 @@
           "text@de": "Für 10 Millionen verkaufen.",
           "text@fr": "Vendre pour 10 millions",
           "text@sl": "Prodaj za 10 milijonov.",
-          "text@hu": "Eladom 10 milliárd forintért",
+          "text@hu": "Értékesítem 10 milliárd forintért",
           "var_changes": {
             "risk_political": 1,
             "reserves": 10
@@ -1072,7 +1072,7 @@
           "text@de": "Für 4 Millionen verkaufen.",
           "text@fr": "Vendre pour 4 millions",
           "text@sl": "Prodajte za 4 milijone.",
-          "text@hu": "Eladni 4 milliárd forintért",
+          "text@hu": "Értékesítem 4 milliárd forintért",
           "var_changes": {
             "reserves": 4
           },
@@ -1316,7 +1316,7 @@
           "text@de": "Sie sollten [dieses Dossier lesen|conflicts_of_interest],bevor Sie eine Entscheidung treffen.",
           "text@fr": "Vous devriez [lire ceci|conflicts_of_interest] avant de décider de quoi que ce soit.",
           "text@sl": "Morda bi bilo dobro, če [bi prebrali to|conflicts_of_interest], preden se karkoli odločite.",
-          "text@hu": "Lehet el kéne [olvasnod ezt|conflicts of interest] az összeférhetetlenségről, mielőtt eldöntesz bármit."
+          "text@hu": "Lehet el kéne [olvasnod ezt|conflicts_of_interest] az összeférhetetlenségről, mielőtt eldöntesz bármit."
         }
       ],
       "choices": [
@@ -1536,7 +1536,7 @@
           "text@de": "Sie befinden sich nun an der Spitze eines Kartells! Mein [Memo über das Kartell ist noch immer da|cartel].",
           "text@fr": "Vous voilà à la tête d'un cartel ! Mon [mémo sur les cartels est toujours là|cartel] si besoin.",
           "text@sl": "Šest let v mestni hiši in že ste na čelu kartela. Morda bi bilo dobro, da še enkrat preberete [mojo predstavitev o kartelih|cartel].",
-          "text@hu": "6 éve vagy itt és máris kartellezel! Itt a [jegyzetem a témáról|cartel] ha kell."
+          "text@hu": "6 éve vagy itt és máris benne vagy a kartellezésben! Itt a [jegyzetem a témáról|cartel] ha kell."
         }
       ],
       "choices": [
@@ -2003,7 +2003,7 @@
           "text@de": "Alles klar, ich werde für Sie eine Werbekampagne organisieren.",
           "text@fr": "D'accord, je vais vous acheter des espaces publicitaires.",
           "text@sl": "Seveda, uredil bom nekaj oglasov s pozitivno predstavitvijo vašega dela.",
-          "text@hu": "Persze, kirakunk pár hirdetést amiben téged dícsérünk",
+          "text@hu": "Persze, kirakunk pár hirdetést amiben téged dicsérünk",
           "var_changes": {
             "reserves": -0.5
           },
@@ -2030,7 +2030,7 @@
               "text@de": "Sagen Sie der Buchhaltung, sie soll es als Marketingaufwand verbuchen.",
               "text@fr": "Dites juste à la compta de faire passer ça en dépenses de communication.",
               "text@sl": "Zgolj sporočite računovodstvu, da naj račune zavede pod stroške marketinga mestne hiše.",
-              "text@hu": "Csak mondd meg a könyvelőknek, hogy számolják el marketing kiadásokként a város számlájára."
+              "text@hu": "Csak mondd meg a könyvelőknek, hogy számolják el hirdetési kiadásként az önkormányzat számlájára."
             }
           ]
         }
