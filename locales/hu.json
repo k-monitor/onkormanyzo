@@ -1,9 +1,9 @@
 {
   "app": {
     "title": "A Jó, a Rossz és a Pénzügyes",
-    "url": "https://jplusplus.github.io/the-accountant/hu.html",
+    "url": "https://k-monitor.github.io/onkormanyzo/hu.html",
     "description": "El tudsz vezetni egy várost anélkül, hogy a korrupció szirénei csapdába ejtenének? Próbáld ki a jó, a rossz és a jegyző játékban!",
-    "image": "https://jplusplus.github.io/the-accountant/images/share-en.png",
+    "image": "http://adatbazis.k-monitor.hu/pictures/share-hu_or.jpg",
     "share": {
       "tweet": {
         "via": "jplusplus_",
@@ -15,17 +15,17 @@
     "back": "Vissza a játékba",
     "intro": {
       "heading": "A Jó, a Rossz<br /> és a Pénzügyes",
-      "meta": "— by <a href='http://jplusplus.org' target='_blank'>Journalism++</a>",
-      "description": "<p>Egy nagyvárost irányítasz. Egyensúlyozz az erkölcs és a korrupció között, hogy megtartsd a pozíciód és elintézz dolgokat. Bármi is történik, ne kapjanak el! Igaz történetek alapján.</p>",
+      "meta": "— készítette a <a href='http://jplusplus.org' target='_blank'>Journalism++</a>, magyar fordítás: <a href='http://k-monitor.hu' target='_blank'>K-Monitor</a>",
+      "description": "<p>Egy nagyvárost irányítasz. Egyensúlyozz az erkölcseid és a korrupció között, hogy megtartsd a pozíciód de közben elintézz dolgokat. Bármi is történik, ne kapjanak el! Igaz történetek alapján.</p>",
       "new-game": "Új játék",
       "continue": "Folytatás"
     },
     "steps": {
-      "undo": "Undo <span class='hidden-xs-down'>last action</span>",
+      "undo": "Utolsó lépés <span class='hidden-xs-down'>lépés visszavonása</span>",
       "over": {
-        "undo": "Visszavonni a legutolsó lépést",
+        "undo": "Utolsó lépés visszavonása",
         "again": "Új játék",
-        "share": "You embezzled <a ui-sref='main.vars'>{{amount}} in {{years}} years</a>. Challenge your friends to make more!"
+        "share": "<a ui-sref='main.vars'>{{amount}} ezer forintot sikerült elsikkasztanod {{years}} év alatt</a>. Hívd ki ismerőseid!"
       }
     },
     "toolbar": {
@@ -33,7 +33,7 @@
       "links": {
         "chats": "Beszélgetések",
         "hints": "Tippek",
-        "indicators": "Indikátorok",
+        "indicators": "Kimutatások",
         "about": "Info"
       },
       "share": {
