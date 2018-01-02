@@ -42,7 +42,7 @@
       "label@de": "Ihr Bargeld",
       "label@fr": "Vos gains",
       "label@sl": "Vaša sredstva",
-      "label@hu": "Már a zsebedben"
+      "label@hu": "Már a zsebedben (ezer HUF)"
     },
     "risk_police": {
       "value": 0,
@@ -3959,7 +3959,7 @@
       "text@de": "<h2>Sie haben gewonnen!</h2><p> Sie machen Karriere! Ferdi Meinhardt macht Ihnen ein Angebot, das Sie nicht ausschlagen können. Tschüss, öffentlicher Sektor! Und: Hallo, Privatwirtschaft!</p>",
       "text@fr": "<h2>Gagné: Nouvelle carrière !</h2><p>Cyril Guillory vous fait une proposition qui ne se refuse pas. Au revoir, secteur public! Bonjour, secteur privé !</p>",
       "text@sl": "Nova kariera: zmagali ste!</h2><p>Robert Mavčar Biro d.o.o. vam je dal ponudbo, ki je ne boste zavrnili - pa čeprav zgolj zavoljo finačnega stanja vaše družine. Nasvidenje, javna uprava, živel biznis!</p> ",
-      "text@hu": "<h2>Nyertél!</h2><p>Visszautasíthatatlan ajánlatot kaptál Böllér Lőrinctől. Ezzel garantálhatod a házastársad és gyerekeid jólétét. Viszlát állami szektor, helló biznisz!</p>"
+      "text@hu": "<h2>Nyertél!</h2><p>Visszautasíthatatlan ajánlatot kaptál Böllér Lőrinctől. Ezzel garantálhatod partnered és gyerekeid jólétét. Viszlát állami szektor, helló biznisz!</p>"
     },
     {
       "text@en": "<h2>Celebrating 20 years</h2><p>How time flies! 20 years already! In just another 20, you can be in retirement.</p>",
