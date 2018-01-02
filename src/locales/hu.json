@@ -25,7 +25,7 @@
       "over": {
         "undo": "Utolsó lépés visszavonása",
         "again": "Új játék",
-        "share": "<a ui-sref='main.vars'>{{amount}} ezer forintot sikerült elsikkasztanod {{years}} év alatt</a>. Hívd ki ismerőseid!"
+        "share": "<a ui-sref='main.vars'>{{amount}} 000 forintot sikerült elsikkasztanod {{years}} év alatt az emberek pénzéből</a>. Hívd ki simlis ismerőseid!"
       }
     },
     "toolbar": {
