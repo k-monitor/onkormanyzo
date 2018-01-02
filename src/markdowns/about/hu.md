@@ -6,11 +6,11 @@ A döntések amiket a _A Jó, a Rossz és a Pénzügyesben_ hozol lehetnek aktí
 
 # Miért csináltuk az eszközt?
 
-Számos tanulmány [Svédországból](http://www.nordicacademicpress.com/bok/a-clean-house/), [Hollandiából](http://link.springer.com/chapter/10.1007/978-3-319-01839-3_19), [Québecből](https://en.wikipedia.org/wiki/Charbonneau_Commission) és [Németországból](https://www.amazon.de/Korruption-Deutschland-Portrait-einer-Wachstumsbranche/dp/3406510663) azt mutatja, hogy a korrupció rendszerszintű probléma. A nyilvánosság küszöbét átlépő korrupciós botrányok kapcsán ugyanakkor az állampolgárok gyakran az azt elszigetelt problémának észlelik, miközben a hétköznapokban a korrupciós gyakorlatokat az üzlet természetes részeként tekintik.
+Számos tanulmány [Svédországból](http://www.nordicacademicpress.com/bok/a-clean-house/), [Hollandiából](http://link.springer.com/chapter/10.1007/978-3-319-01839-3_19), [Québecből](https://en.wikipedia.org/wiki/Charbonneau_Commission) és [Németországból](https://www.amazon.de/Korruption-Deutschland-Portrait-einer-Wachstumsbranche/dp/3406510663) azt mutatja, hogy a korrupció rendszerszintű probléma. A nyilvánosság küszöbét átlépő korrupciós botrányok kapcsán ugyanakkor az állampolgárok gyakran  azt elszigetelt problémának észlelik, miközben a hétköznapokban a korrupciós gyakorlatokat az üzlet természetes részeként tekintik.
 
-Mi, a K-Monitorban hisszük, hogy az információs technológia fejlődésével egyre több lehetőségünk van arra, hogy átláthatóan és részvételi módon kezeljük a közös ügyeket. Civil szervezetünk olyan politikai, gazdasági és társadalmi környezetet megteremtéséért dolgozik, ahol az állampolgárok elutasítják, a hatóságok pedig hatékonyan feltárják és szankcionálják a korrupciót. 
+Mi, a [K-Monitorban](http://k-monitor.hu/rolunk) hisszük, hogy az információs technológia fejlődésével egyre több lehetőségünk van arra, hogy átláthatóan és részvételi módon kezeljük a közös ügyeket. Civil szervezetünk olyan politikai, gazdasági és társadalmi környezetet megteremtéséért dolgozik, ahol az állampolgárok elutasítják, a hatóságok pedig hatékonyan feltárják és szankcionálják a korrupciót. 
 
-Ahhoz, hogy az állampolgárok és hivatalnokok hatékonyabban tudjanak fellépni a korrupció ellen, meg kell ismertetnünk velük a problémát. A magyarul is elérhető játék mélyebb betekintést nyújthat a korrupció mechanizmusaiba és a releváns [Cooking Budgets](http://cookingbudgets.com/) anyagokkal lehetőséget ad, hogy a felhasználók a téma szakértőivé váljanak.
+Ahhoz, hogy az állampolgárok és hivatalnokok hatékonyabban tudjanak fellépni a korrupció ellen, meg kell ismertetnünk velük a problémát. A most már magyarul is elérhető játék mélyebb betekintést nyújthat a korrupció mechanizmusaiba és a további anyagokkal ([sajtóadatbázis](http://k-monitor.hu/adatbazis), [Cooking Budgets](http://cookingbudgets.com/)) lehetőséget ad, hogy a felhasználók a téma szakértőivé váljanak.
 
 # Hogy működik? 
 
