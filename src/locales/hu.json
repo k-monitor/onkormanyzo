@@ -21,7 +21,7 @@
       "continue": "Folytatás"
     },
     "steps": {
-      "undo": "Utolsó lépés <span class='hidden-xs-down'>lépés visszavonása</span>",
+      "undo": "Utolsó lépés <span class='hidden-xs-down'>visszavonása</span>",
       "over": {
         "undo": "Utolsó lépés visszavonása",
         "again": "Új játék",
