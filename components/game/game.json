@@ -42,7 +42,7 @@
       "label@de": "Ihr Bargeld",
       "label@fr": "Vos gains",
       "label@sl": "Vaša sredstva",
-      "label@hu": "A te pénzed"
+      "label@hu": "Már a zsebedben (ezer HUF)"
     },
     "risk_police": {
       "value": 0,
@@ -411,7 +411,7 @@
           "text@de": "Es gibt Stimmen, die behaupten, die Stadt habe mit Korruption zu kämpfen. Hören Sie einfach nicht hin 😒.",
           "text@fr": "Certains disent que cette ville est corrompue. Ne les écoutez pas 😒.",
           "text@sl": "Nekateri pravijo, da je naša občina prepredena s korupcijo. Ne poslušajte jih. 😒",
-          "text@hu": "A pletykák szerint a város nagyon korrupt. Ne higyj ezeknek. 😒"
+          "text@hu": "A pletykák szerint a város nagyon korrupt. Ne higyj nekik! 😒"
         },
         {
           "character": "mayor",
@@ -1018,7 +1018,7 @@
           "text@de": "Der Verkauf eines öffentlichen Grundstücks kann schwierig sein.",
           "text@fr": "Les ventes immobilières sont souvent troubles.",
           "text@sl": "Nepremičninski posli znajo biti precej motni.",
-          "text@hu": "Az ingatlanprivatizációk homályosak tudnak lenni."
+          "text@hu": "Az ingatlanprivatizációk zavarosak tudnak lenni."
         },
         {
           "character": "helper",
@@ -2103,7 +2103,7 @@
           "text@de": "Hier finden Sie ein Dossier zum Thema [Vermietung von öffentlichen Grundstücken an Privatgesellschaften.|emphyteutic]",
           "text@fr": "Voici [un mémo sur la location d'espace publics à des sociétés privées.|emphyteutic]",
           "text@sl": "Pripravila sem vam [predstavitev o najemu mestnih površin s strani zasebnih podjetij|emphyteutic], ki vam bo morda všeč.",
-          "text@hu": "Itt egy [jegyzet a közterek kiadásáról|emphyteutic], ami érdekes lehet."
+          "text@hu": "Itt egy [jegyzet a köztulajdon kiadásáról|emphyteutic], ami érdekes lehet."
         }
       ],
       "choices": [
@@ -2870,7 +2870,7 @@
           "text@de": "Ich habe [ein Dossier zum Thema Outsourcing|privatization] verfasst.",
           "text@fr": "Je vous ai écrit [un mémo sur la libéralisation des services publics|privatization].",
           "text@sl": "Pripravila sem [kratko predstavitev  o privatizaciji|privatization]",
-          "text@hu": "Írtam egy [jegyzetet a privatizációról|privatization] neked."
+          "text@hu": "Írtam egy [jegyzetet a kiszervezésekről|privatization]."
         }
       ],
       "choices": [
@@ -3124,7 +3124,7 @@
           "text@de": "Die zahlen mir dann eine Sondergebühr in Bar und erhalten im Gegenzug einen Studienplatz.",
           "text@fr": "Et je les inscris en échange d'un bakchich !",
           "text@sl": "In nato jim dovolim študirati!",
-          "text@hu": "És akkor beengedem őket!"
+          "text@hu": "Könnyített felvételiért cserébe."
         },
         {
           "character": "university-boss",
@@ -3245,7 +3245,7 @@
           "text@de": "Er will alle künftigen Einnahmen über den sozialen Wohnungsbau bündeln und auf ein Mal verbuchen.",
           "text@fr": "Il veut grouper tous les revenus futurs des HLM et les comptabiliser d'un coup.",
           "text@sl": "Združiti želijo vse bodoče prihodke od neprofitnih stanovanj in jih naenkrat zavesti v računovodsko bilanco mesta.",
-          "text@hu": "Minden jövőbeni jövedelmet a szociális bérlakásokból egyben akarnak bekönyvelni."
+          "text@hu": "A bérlakásokból befolyó jövedelmet előre egy összegben akarnak bekönyvelni."
         },
         {
           "character": "mayor",
@@ -3253,7 +3253,7 @@
           "text@de": "Er sagt, das wird unsere Einnahmen in diesem Jahr - zumindest auf dem Papier - um ein Vielfaches erhöhen. Allerdings werden dann die späteren Einnahmen verringert.",
           "text@fr": "Il dit que ça augmentera grandement nos ressources aujourd'hui - sur le papier - et diminuera nos revenus plus tard.",
           "text@sl": "Pravijo, da bo to na papirju izjemno izboljšalo naše sedanje stanje, v prihodnosti pa bodo prihodki posledično nižji.",
-          "text@hu": "Azt mondják így a mostani bevételt látványosan növelni tudják - papíron - és csökkenteni a jövőben."
+          "text@hu": "Azt mondják, papíron így látványos bevételnövekedést lehet felmutatni - a későbbi visszesésen meg majd ráér akkor rágódni."
         },
         {
           "character": "mayor",
@@ -3407,7 +3407,7 @@
           "text@de": "Sie haben folgende Optionen:",
           "text@fr": "Voilà vos options.",
           "text@sl": "Imate pa nekaj možnosti.",
-          "text@hu": "Ezek a lehetőségeid."
+          "text@hu": "Van egy-két lehetőség, hogy találjunk neki valamit."
         }
       ],
       "helper": [
@@ -3627,7 +3627,7 @@
           "text@de": "Ich habe [ein Dossier zum Thema Personalkarussell|door] zusammengestellt.",
           "text@fr": "Voici [un mémo sur le pantouflage|door].",
           "text@sl": "Pripravila sem vam [kratko predstavitev o selitvi v zasebni sektor|door].",
-          "text@hu": "Itt a jegyzetem a [magánszektorról|door]."
+          "text@hu": "Itt a jegyzetem a [forgóajtó jelenségről|door]."
         }
       ],
       "choices": [
@@ -3680,7 +3680,7 @@
               "text@de": "Besteht die Möglichkeit, dass du eine Ausschreibung für ein neues Schwimmbad veröffentlichst?",
               "text@fr": "Il faudrait que tu passes un appel d'offre pour une nouvelle piscine.",
               "text@sl": "Ali lahko objavite poziv za oddajo ponudb za izgradnjo mestnega bazena.",
-              "text@hu": "Kiírnál egy közbeszerzést egy új úszómedencére a városnak?"
+              "text@hu": "Kiírnál egy közbeszerzést egy új uszodára a városnak?"
             }
           ]
         },
@@ -3959,7 +3959,7 @@
       "text@de": "<h2>Sie haben gewonnen!</h2><p> Sie machen Karriere! Ferdi Meinhardt macht Ihnen ein Angebot, das Sie nicht ausschlagen können. Tschüss, öffentlicher Sektor! Und: Hallo, Privatwirtschaft!</p>",
       "text@fr": "<h2>Gagné: Nouvelle carrière !</h2><p>Cyril Guillory vous fait une proposition qui ne se refuse pas. Au revoir, secteur public! Bonjour, secteur privé !</p>",
       "text@sl": "Nova kariera: zmagali ste!</h2><p>Robert Mavčar Biro d.o.o. vam je dal ponudbo, ki je ne boste zavrnili - pa čeprav zgolj zavoljo finačnega stanja vaše družine. Nasvidenje, javna uprava, živel biznis!</p> ",
-      "text@hu": "<h2>Nyertél!</h2><p>Visszautasíthatatlan ajánlatot kaptál Böllér Lőrinctől. Ezzel garantálhatod a házastársad és gyerekeid jólétét. Viszlát állami szektor, helló biznisz!</p>"
+      "text@hu": "<h2>Nyertél!</h2><p>Visszautasíthatatlan ajánlatot kaptál Böllér Lőrinctől. Ezzel garantálhatod partnered és gyerekeid jólétét. Viszlát állami szektor, helló biznisz!</p>"
     },
     {
       "text@en": "<h2>Celebrating 20 years</h2><p>How time flies! 20 years already! In just another 20, you can be in retirement.</p>",
@@ -4016,7 +4016,7 @@
       "body@de": "Städte sind häufig im Besitz großer Grundstücke und Immobilien. Diese können zu Marktpreisen verkauft werden oder aber zu günstigeren Konditionen, etwa um für potentielle Käufer zusätzliche Anreize zu schaffen. Solche Gefallen sind äußerst schwierig aufzudecken, denn häufig gibt es gar keinen Markt für zumeist große Gebäude oder Grundstücke im Stadtzentrum. Es fällt daher entsprechend schwer den Marktpreis zu bestimmen.",
       "body@fr": "Les villes possèdent souvent des terrains et des immeubles. Ces biens peuvent être vendus au prix du marché ou à des prix plus bas, pour faire un cadeau à l'acheteur. Il est fort difficile d'identifier ces transactions frauduleuses car, le plus souvent, il n'existe pas vraiment de marché pour un immeuble entier ou un grand terrain en centre ville.",
       "body@sl": "Občine imajo pogosto v lasti večja zemljišča. Ta lahko prodajo po tržnih cenah, ali pa jih po nižji ceni prijateljsko ponudijo določenemu kupcu. Običajno je težko določiti, za kakšen primer gre, saj na trgu ni veliko kupcev za tovrstna zemljišča.",
-      "body@hu": "Egy-egy önkormányzat gyakran nagy területű és értékű ingatlanok tulajdonosa. Magyarországon a '90-es évektől kezdődően ezeket piaci vagy bizonyos kedvezményes feltételekre hivatkozva csökkentett áron értékesítették. A nagyméretű ingatlanok ritkasága és az átláthatatlan privatizációs folyamatok miatt nehéz pontosan megállapítani, mikor és mennyivel jár rosszabbul egy önkormányzat és mikor dolgoznak magánérdekektől befolyásoltan a hivatalnokok. <br><br>A hazai sajtóban megjelent <a href='http://k-monitor.hu/adatbazis/cimkek/ingatlan' target='_blank'>ingatlanos ügyeket a K-Monitor sajtóadatbázisában itt találod.</a>."
+      "body@hu": "Egy-egy önkormányzat gyakran nagy területű és értékű ingatlanok tulajdonosa. Magyarországon a '90-es évektől kezdődően ezeket piaci vagy bizonyos kedvezményes feltételekre hivatkozva csökkentett áron értékesítették. A nagyméretű ingatlanok ritkasága és az átláthatatlan privatizációs folyamatok miatt nehéz pontosan megállapítani, mikor és mennyivel jár rosszabbul egy önkormányzat és mikor dolgoznak magánérdekektől befolyásoltan a hivatalnokok. <br><br> Böngészd a hazai sajtóban megjelent <a href='http://k-monitor.hu/adatbazis/cimkek/ingatlan' target='_blank'>ingatlanos és privatizációs ügyeket a K-Monitor sajtóadatbázisában</a>."
     },
     "conflicts_of_interest": {
       "title@en": "Conflicts of interest",
@@ -4052,7 +4052,7 @@
       "body@de": "Politiker können ihren Einfluß auf öffentliche Organisationen und Firmen und Firmen sowohl direkt als auch durch sogenannten Klientelismus ausüben. So können Sie etwa von Firmen verlangen Werbung für Sie zu machen. Für den Staatsanwalt ist es dabei äußerst schwierig nachzuweisen, dass die Firma nicht aus Eigeninteresse handelt.<br><br>Mehr zum Thema finden Sie unter <a href='http://www.cookingbudgets.com/ads/' target='_blank'>Ads, ads, ads</a> von Cooking Budgets.",
       "body@fr": "Les élus peuvent contrôler des sociétés publiques, soit directement, soit via des liens de clientélisme. Ils peuvent demander à ces sociétés d'acheter des espaces publicitaires dans des journaux pour faire faire leur propre promotion. C'est très difficile pour un procureur de prouver que la publicité était faite dans l'intérêt de l'élu et non pas dans l'intérêt de la société elle-même.<br><br>Lisez <a href='http://www.cookingbudgets.com/ads/' target='_blank'>Ads, ads, ads</a> [en anglais] sur Cooking Budgets pour en savoir plus.",
       "body@sl": "Politiki lahko nadzorujejo javna podjetja neposredno ali prek mreže zaupnikov. Od njih lahko zahtevajo zakup oglasnega prostora, s katerim se nato oglašuje njihovo politično delovanje in ne delovanja podjetja. Tožilcem je izjemno težko dokazati, da oglaševanje ni bilo v skladu z interesi podjetja.<br><br>Več na <a href='http://www.cookingbudgets.com/ads/' target='_blank'>Ads, ads, ads</a> pri Cooking Budgets.",
-      "body@hu": "A politikusok közvetlenül vagy a tőlük függő klienseik révén köztulajdonú vállalatokat irányítanak. Ennél fogva hatalmukban áll nyomást gyakorolni ezekre a vállalatokra, hogy hirdessenek bizonyos általuk preferált lapokban és felületeken. Akár az is előfordulhat, hogy nem a vállalat teljesítményét kommunikálják, hanem a politikusnak megfelelő álláspontot hirdetik. Egy esetleges vizsgálatnak nincs könnyű dolga ha meg akarja állapítani, hogy a benyalós hirdetés nem a vállalat saját döntése volt. Egy jellemző hazai példa erre a közelmúltból a XVIII. kerületi önkormányzat cége által kiadott kalendárium, amely minden oldalán szerepelteti a térség országgyűlési képviselőjét, Kucsák Lászlót. <br><br>Ezt, és a hazai sajtóban megjelent további <a href='http://k-monitor.hu/adatbazis/cimkek/hirdetes' target='_blank'>hirdetéses ügyeket is megtalálod a K-Monitor sajtóadatbázisában.</a>."
+      "body@hu": "A politikusok közvetlenül vagy a tőlük függő klienseik révén köztulajdonú vállalatokat irányítanak. Ennél fogva hatalmukban áll nyomást gyakorolni ezekre a vállalatokra, hogy hirdessenek bizonyos általuk preferált lapokban és felületeken. Akár az is előfordulhat, hogy nem a vállalat teljesítményét kommunikálják, hanem a politikusnak megfelelő álláspontot hirdetik. Egy esetleges vizsgálatnak nincs könnyű dolga ha meg akarja állapítani, hogy a benyalós hirdetés nem a vállalat saját döntése volt. Egy jellemző hazai példa erre a közelmúltból a XVIII. kerületi önkormányzat cége által kiadott kalendárium, amely minden oldalán szerepelteti a térség országgyűlési képviselőjét, Kucsák Lászlót. <br><br>Ezt, és a hazai sajtóban megjelent további <a href='http://k-monitor.hu/adatbazis/cimkek/hirdetes' target='_blank'>hirdetéses ügyeket is megtalálod a K-Monitor sajtóadatbázisában</a>."
     },
     "emphyteutic": {
       "title@en": "Leasing public space to private companies",
@@ -4076,7 +4076,7 @@
       "body@de": "Manchmal kommt es vor, dass Aufträge vergeben werden, um nicht-existierende Straßen zu renovieren oder eine Software zu aktualisieren, die gar nicht genutzt wird. Das ist jedoch ausnahmsweise recht leicht nachzuweisen und daher riskant.<br><br>Mehr zum Thema finden Sie unter <a href='http://www.cookingbudgets.com/the-invisible-public-work/' target='_blank'>The Invisible Public Work</a> von Cooking Budgets.",
       "body@fr": "Il arrive parfois que des administrations passent des appels d'offres pour rénover des routes qui n'existent pas ou pour mettre à jour des logiciels fantômes. C'est risqué, car il est facile de prouver que le contrat est un faux.<br><br>Lisez <a href='http://www.cookingbudgets.com/the-invisible-public-work/' target='_blank'>The Invisible Public Work</a> [en anglais] sur Cooking Budgets pour en savoir plus.",
       "body@sl": "Včasih se zgodi, da javna uprava prične obnovo ulice ali ceste, ki sploh ne obstaja. Tovrstno početje je nevarno, saj je zelo lahko dokazati, da gre za goljufijo.<br><br>Več na <a href='http://www.cookingbudgets.com/the-invisible-public-work/' target='_blank'>The Invisible Public Work</a> pri Cooking Budgets.",
-      "body@hu": "Megtörténhet, hogy olyan közterek vagy utak felújítására írnak ki közbeszerzést, ami valójában nem is létezik. Az efféle visszaélés kockázatos, mert könnyű bebizonyítani, hogy hamis a beruházás. Ilyesmi csak olyan településeken fordulhat elő, ahol a sajtó és az ellenzék is a városvezetés markában van. <br><br>Érdekel, milyen mutyik zajlanak a magyar közbeszerzésekkel? Olvass utána <a href='http://k-monitor.hu/adatbazis/cimkek/kozbeszerzes' target='_blank'>a közbeszerzések címke alatt</a> a K-Monitor sajtóadatbázisában."
+      "body@hu": "Megtörténhet, hogy olyan közterek vagy utak felújítására írnak ki közbeszerzést, ami valójában nem is létezik. Az efféle visszaélés kockázatos, mert könnyű bebizonyítani, hogy hamis a beruházás. Ilyesmi csak olyan településeken fordulhat elő, ahol a sajtó és az ellenzék is a városvezetés markában van. <br><br>Érdekel, milyen mutyik zajlanak a magyar közbeszerzésekkel? Olvass utána <a href='http://k-monitor.hu/adatbazis/cimkek/kozbeszerzes' target='_blank'>a közbeszerzések címke alatt</a> a K-Monitor sajtóadatbázisában vagy kutakodj korrupciós kockázatokat jelző <a href='http://redflags.hu' target='_blank'>RedFlags</a> rendszerben."
     },
     "ppp": {
       "title@en": "Public-private partnerships",
@@ -4095,7 +4095,7 @@
       "title@de": "Liberalisierung und Privatisierung",
       "title@fr": "Libéralisation et privatisation",
       "title@sl": "Liberalizacija in privatizacija",
-      "title@hu": "Privatizáció",
+      "title@hu": "Kiszervezés",
       "body@en": "Public administrations have transfered a lot of their competencies to private companies, either via public-private partnerships or via deregulation. It offers a lot of opportunities for conflicts of interests.<br><br>It is hard to know how much a service costs to the city because it can involve people from different departments (e.g some municipal employees can work for the trash collection one day and for another department the next). To do such estimates would require analytical accounting, which cities rarely do.",
       "body@de": "Die Regierungen haben viele Kompetenzen an private Unternehmen übertragen, sei es durch öffentlich-private Partnerschaften oder durch das Outsourcing von Dienstleistungen. Doch jede Interaktion mit einem privaten Unternehmen birgt die Gefahr von Interessenkonflikten.<br><br>Es ist äußerst schwierig für die Städtische Verwaltung herauszufinden wie viel eine Dienstleistung kostet und ob die von den privaten Dienstleitern in Rechnung gestellten Kosten angemessen sind. Präzise Kalkulationen setzen eine analytische Buchführung voraus, die von den Städten nur selten durchgeführt wird.",
       "body@fr": "Les administrations publiques ont transféré de nombreuses compétences à des sociétés privées, que ce soit via des partenariats public-privé ou via l'externalisation de services. Chaque interaction avec une société privée offre de nouvelles possibilités de conflits d'intérêts.<br><br>Il est difficile pour une ville de savoir combien un service coûte et de comparer ce coût avec le prix payé à une société privée, car la fourniture d'un service public implique souvent plusieurs départements (par exemple, un employé municipal peut travailler à la collecte des ordures un jour et aux jardins un autre jour). Faire de telles estimations nécessite une comptabilité analytique, ce que les villes font rarement.",
@@ -4124,7 +4124,7 @@
       "body@de": "Der Handel mit Hochschulzugangsberechtigungen ist in Europa nichts Ungewöhnliches. Wie seit jeher in der Geschichte der Korruption, haben die beteiligten Personen ein außerordentliches Interesse daran über die Sache Stillschweigen zu bewahren, um ihre eigene und die Reputation der Hochschule zu wahren. Es liegt ein Band des Schweigens über den ehren Mauern der Universitäten. Der Handel mit akademischen Titeln ist daher nur sehr schwer aufzudecken.<br><br>Mehr zum Thema finden Sie unter <a href='http://www.cookingbudgets.com/grilled-degrees/' target='_blank'>The Grilled Degrees</a> von Cooking Budgets.",
       "body@fr": "La vente de diplômes et la vente du droit d'entrée à l'université ne sont pas rares en Europe. Comme toujours dans les histoires de corruption, les personnes impliquées ont intérêt à garder le silence car c'est la réputation de toute l'université qui serait impactée si un scandale devait voir le jour. Lisez <a href='http://www.cookingbudgets.com/grilled-degrees/' target='_blank'>The Grilled Degrees</a> [en anglais] sur Cooking Budgets pour en savoir plus.",
       "body@sl": "Prodaja univerzitetnih diplom tudi v EU ni neobičajna. Kot pri vsaki drugi korupcijski zgodbi so ljudje motivirani, da molčijo, saj bi se sicer celotna univerza, na kateri so prejeli diplomo, v javnosti znašla v slabi luči. <br><br>Več na <a href='http://www.cookingbudgets.com/grilled-degrees/' target='_blank'>The grilled degrees</a> pri Cooking Budgets.",
-      "body@hu": "A diplomák pénzért történő megvásárolása nem szokatlan Európában. Mint ahogy más korrupciós ügyben, itt is megvannak az csendben maradásra ösztönző erők: az egyedi esetek feltárása a kiállító egyetemet is rossz fényben tűnteti fel, így gyakran ők is részt vesznek a botrányok eltussolásában. Itthon az elmúlt években leginkább a kamuegyetemek nem akreditált, ám az önéletrajzban jól mutató kamudiplomái dívtak, de az utóbbi időben pl. a Nemzeti Bank is megjelent kdoktori képzések környékén, kedvező diplomaszerzési lehetőséget kínálva saját felsővezetőinek. <br><br>Mutyigyanús ügyek az oktatásban? Olvass utána <a href='http://k-monitor.hu/adatbazis/cimkek/oktatas' target='_blank'>az oktatás címke alatt</a> a K-Monitor sajtóadatbázisában."
+      "body@hu": "Az oktatásba való bejutás és diplomák pénzért történő megvásárolása nem szokatlan Európában. Mint ahogy más korrupciós ügyben, itt is megvannak az csendben maradásra ösztönző erők: az egyedi esetek feltárása a kiállító egyetemet is rossz fényben tűnteti fel, így gyakran ők is részt vesznek a botrányok eltussolásában. Itthon az elmúlt években leginkább a kamuegyetemek nem akreditált, ám az önéletrajzban jól mutató kamudiplomái dívtak, de az utóbbi időben pl. a Nemzeti Bank is megjelent kdoktori képzések környékén, kedvező diplomaszerzési lehetőséget kínálva saját felsővezetőinek. <br><br>Mutyigyanús ügyek az oktatásban? Olvass utána <a href='http://k-monitor.hu/adatbazis/cimkek/oktatas' target='_blank'>az oktatás címke alatt</a> a K-Monitor sajtóadatbázisában."
     },
     "accounting_tricks": {
       "title@en": "Accounting tricks",
@@ -4148,7 +4148,7 @@
       "body@de": "In mänchen Ländern ist es der öffentlichen Verwaltung untersagt Familienangehörige einzustellen. Selbst wenn es kein juristisches Risiko birgt (ihr Partner kann der Beste für den Job sein), so besteht ein politisches Restrisiko. Um Ihre Verwandten zu versorgen tun Sie besser daran bei einer Ihnen wohlgesonnenen Firma anzufragen. Zum Dank können Sie der Firma einen Auftrag erteilen, so dass die für die neue Stelle benötigten Gelder rasch zur Verfügungen stehen.",
       "body@fr": "Dans certains pays, il est interdit d'embaucher des proches en tant qu'assistant. Quand bien même il n'y aurait pas de risque légal (après tout, votre partenaire peut être le plus qualifié pour le job), cela reste un risque politique. Pour caser vos proches, il vaut mieux demander à une société avec laquelle vous êtes en bons termes de l'embaucher (vous pouvez ensuite donner un contrat public à cette société pour financer le nouveau poste qu'elle a du créer).",
       "body@sl": "V nekaterih državah je prepovedano za asistente najemati sorodnike. Ni nujno protizakonito (saj je lahko vaš partner dejansko najbolj kvalificirana oseba za določen položaj), vendar je vedno politično občutljivo. Bolj varno je sorodnika zaposliti pri enem od prijateljskih podjetij, ki se jim nato zagotovi pogodba z mestom/občino z za določen posel.",
-      "body@hu": "Az összeférhetetlenség egyik fajtája a rokonok alkalmazása a hivatalokban. Gyakran előfordul, hogy egyes önkormányzatokban elszaporodnak egy család tagjai. Kemény dió, mert előfordulhat, hogy a házastársad a legképzettebb a pozícióra, politikailag mégis kínosan jöhetsz ki belőle. <br><br>Olvass utána a rokonok foglalkoztatásának <a href='k-monitor.hu/adatbazis/cimkek/rokonok/foglalkoztatas' target='_blank'>a K-Monitor adatbázisában.</a>"
+      "body@hu": "Az összeférhetetlenség egyik fajtája a rokonok alkalmazása a hivatalokban. Gyakran előfordul, hogy egyes önkormányzatokban elszaporodnak egy család tagjai. Kemény dió, mert előfordulhat, hogy a házastársad a legképzettebb a pozícióra, politikailag mégis kínosan jöhetsz ki belőle. <br><br>Olvass utána a rokonok foglalkoztatásának <a href='http://k-monitor.hu/adatbazis/cimkek/rokonok/foglalkoztatas' target='_blank'>a K-Monitor adatbázisában.</a>"
     },
     "door": {
       "title@en": "The Revolving Door",
