@@ -1,26 +1,24 @@
-# Az eszközről
+# A játékról
 
 _A Jó, a Rossz és a Pénzügyes_ célja, hogy a közélet iránt érdeklődök, újságírók és -olvasók számára megmutassa, milyen korrupciós gyakorlatok vannak egy város önkormányzatában. A játék eredetileg a [Cooking Budgets](http://cookingbudgets.com/) interkaktív párja, ami egy angol nyelvű útmutató sorozat a korrupció működéséről Európában. Az alapvető fogalmakról és a kapcsolódó esetekről magyar nyelven többet megtudhatsz a játék magyar fordítását elkészítő K-Monitor [sajtóadatbázisát böngészve](www.k-monitor.hu/adatbazis).
 
-A döntések amiket a _A Jó, a Rossz és a Pénzügyesben_ hozol lehetnek aktív vagy passzív korrupciós tettek. Ez nem jelenti azt, hogy minden közszolga korrupt, viszont azt igen, hogy a korrupció rendszerszintű probléma. Bárki aki jelentős közpénzek közelében dolgozik könnyen belefuthat olyan hivatali szereplőkkel, akik a pozíciójukat egy harmadik fél szolgálatára használják. Ahogy azt az játék bemutatja a szimpla elutasítás nem oldja meg a korrupciót, az elutasítás ugyanis a rendszeren belüli érdekkörök közti konfliktusokhoz vezethet. 
+A döntések amiket a _A Jó, a Rossz és a Pénzügyesben_ hozol lehetnek aktív vagy passzív korrupciós cselekmények. Nem állítjuk, hogy minden közszolga korrupt, viszont azt igen, hogy a korrupció rendszerszintű probléma. Bárki aki jelentős közpénzek közelében dolgozik könnyen belefuthat olyan hivatali szereplőkbe, akik a pozíciójukat nem a köz érdekében, hanem saját vagy egy harmadik fél szolgálatára használják fel/ki. Ahogy azt az játék bemutatja a szimpla elutasítás nem oldja meg a korrupciót, az elutasítás ugyanis a rendszeren belüli érdekkörök közti konfliktusokhoz vezethet. 
 
-# Miért csináltuk az eszközt?
+# Miért készült?
 
-Számos tanulmány [Svédországból](http://www.nordicacademicpress.com/bok/a-clean-house/), [Hollandiából](http://link.springer.com/chapter/10.1007/978-3-319-01839-3_19), [Québecből](https://en.wikipedia.org/wiki/Charbonneau_Commission) és [Németországból](https://www.amazon.de/Korruption-Deutschland-Portrait-einer-Wachstumsbranche/dp/3406510663) azt mutatja, hogy a korrupció rendszerszintű probléma. A nyilvánosság küszöbét átlépő korrupciós botrányok kapcsán ugyanakkor az állampolgárok gyakran  azt elszigetelt problémának észlelik, miközben a hétköznapokban a korrupciós gyakorlatokat az üzlet természetes részeként tekintik.
+Számos tanulmány [Svédországból](http://www.nordicacademicpress.com/bok/a-clean-house/), [Hollandiából](http://link.springer.com/chapter/10.1007/978-3-319-01839-3_19), [Québecből](https://en.wikipedia.org/wiki/Charbonneau_Commission) és [Németországból](https://www.amazon.de/Korruption-Deutschland-Portrait-einer-Wachstumsbranche/dp/3406510663) mutatja ki, hogy a korrupció rendszerszintű probléma. A nyilvánosság küszöbét átlépő korrupciós botrányok kapcsán ugyanakkor az állampolgárok gyakran azt elszigetelt problémának észlelik, miközben a hétköznapokban a korrupciós gyakorlatokra az üzlet természetes részeként tekintenek.
 
 Mi, a [K-Monitorban](http://k-monitor.hu/rolunk) hisszük, hogy az információs technológia fejlődésével egyre több lehetőségünk van arra, hogy átláthatóan és részvételi módon kezeljük a közös ügyeket. Civil szervezetünk olyan politikai, gazdasági és társadalmi környezetet megteremtéséért dolgozik, ahol az állampolgárok elutasítják, a hatóságok pedig hatékonyan feltárják és szankcionálják a korrupciót. 
 
-Ahhoz, hogy az állampolgárok és hivatalnokok hatékonyabban tudjanak fellépni a korrupció ellen, meg kell ismertetnünk velük a problémát. A most már magyarul is elérhető játék mélyebb betekintést nyújthat a korrupció mechanizmusaiba és a további anyagokkal ([sajtóadatbázis](http://k-monitor.hu/adatbazis), [Cooking Budgets](http://cookingbudgets.com/)) lehetőséget ad, hogy a felhasználók a téma szakértőivé váljanak.
+Ahhoz, hogy az állampolgárok és hivatalnokok hatékonyabban tudjanak fellépni a korrupció ellen, meg kell ismertetnünk velük a problémát. A most már magyarul is elérhető játék mélyebb betekintést nyújthat a korrupció mechanizmusaiba és a további anyagokkal ([sajtóadatbázis](http://k-monitor.hu/adatbazis), [RedFlags](http://redflags.hu), [K-Teszt](http://k-teszt.hu), [Cooking Budgets](http://cookingbudgets.com/)) lehetőséget ad, hogy a felhasználók a téma szakértőivé váljanak.
 
 # Hogy működik? 
 
-A felhasználóknak számos változó alapján kell döntéseket meghozniuk. A város pénzügyesei elmondják, hogy mennyi bevételt termel a város (**erőforrások**) és mennyit költ (**kiadások**), amíg a **tartalékok azt mutatják**, hogy mekkora kerettel gazdaálkodhat az önkormányzat. 
+Felhasznlóként számos tényezőt mérlegelve kell egy városházán felmerülő kérdésekben döntéseket hoznod. A város pénzügyesei elmondják, hogy mennyi bevételt termel a város (**erőforrások**) és mennyit költ (**kiadások**), amíg a **tartalékok azt mutatják**, hogy mekkora kerettel gazdálkodhat az önkormányzat. 
 
 A **politikai elutasítottság** a népszerűtlen döntések hatására növekszik. Az **üzleti bizonytalanság** akkor nő, ha a felhasználó a kivitelezőknek nem tetsző döntéseket hoz. A **jogi kockázat** növekedése az illegális tevékenységeket jelzi. 
 
 Minden döntés után a kockázati mutató /20 valószínűséggel bekövetkezhet a játék vége az adott kockázati mutató hatására. Ha tehát a jogi kockázatod 9, akkor 9/20-hoz az esélyed, hogy a rendőrség letartóztat a következő lépésben!
-
-
 
 # Szeretnél segíteni?
 
@@ -28,7 +26,7 @@ Legyél a K-Monitor önkéntese! Vedd fel velünk a kapcsolatot az **info@k-moni
 
 <a target="_blank" href="http://k-monitor.hu/tamogatas">**Támogass minket rendszeres vagy eseti adománnyal!**</a>
 
-A készítők hálásak lennének, ha segítenél lefordítani a játékot, vagy hozzájárulnál a [Cooking Budgetshez](http://cookingbudgets.com/) helyi korrupciós példákkal.
+
 
 <table>
 
